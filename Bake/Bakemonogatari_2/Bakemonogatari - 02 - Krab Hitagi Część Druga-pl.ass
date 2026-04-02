@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Bakemonogatari - 02 - Krab Hitagi Część Druga.mkv
-Video File: Bakemonogatari - 02 - Krab Hitagi Część Druga.mkv
+Audio File: ../../../filmy i seriale/Seriale dla dekeneratów/化物語(2009)/化物語 S01E02.mkv
+Video File: ../../../filmy i seriale/Seriale dla dekeneratów/化物語(2009)/化物語 S01E02.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 98
-Active Line: 136
-Video Position: 8053
+Scroll Position: 175
+Active Line: 213
+Video Position: 10518
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -177,46 +177,87 @@ Dialogue: 0,0:05:31.12,0:05:34.00,Dialog,,0,0,0,,Masz... ładne ciało.
 Comment: 0,0:05:35.84,0:05:36.92,Dialog,,0,0,0,,（戦場ヶ原）最低
 Dialogue: 0,0:05:35.84,0:05:36.92,Dialog,,0,0,0,,Żałosny.
 Comment: 0,0:05:37.00,0:05:40.09,Default,,0,0,0,,そんなことだから\Nあなたは 一生 童貞なのよ
+Dialogue: 0,0:05:37.00,0:05:40.09,Dialog,,0,0,0,,To jest przyczyna dlaczego przez całe życie będziesz prawiczkiem.
 Comment: 0,0:05:40.17,0:05:43.30,Default,,0,0,0,,（阿良々木）\N一生？\Nお前は未来から来た人なのか？
+Dialogue: 0,0:05:40.17,0:05:43.30,Dialog,,0,0,0,,Całe życie?! A co ty z przyszłości?
 Comment: 0,0:05:43.38,0:05:46.39,Default,,0,0,0,,（戦場ヶ原）\N唾を飛ばさないでくれる？\N童貞がうつるわ
+Dialogue: 0,0:05:43.38,0:05:46.39,Dialog,,0,0,0,,Nie pluj tak na mnie, bo jeszcze się zarażę twoim prawictwem.
 Comment: 0,0:05:47.06,0:05:49.02,Default,,0,0,0,,女に童貞がうつるか！
+Dialogue: 0,0:05:47.06,0:05:49.02,Dialog,,0,0,0,,Niby jak kobieta ma się zarazić prawictwem?!
 Comment: 0,0:05:50.39,0:05:52.14,Default,,0,0,0,,ていうか ちょっと待て
+Dialogue: 0,0:05:50.39,0:05:52.14,Dialog,,0,0,0,,Zaraz, poczekaj...
 Comment: 0,0:05:52.35,0:05:55.15,Default,,0,0,0,,僕が童貞であることを前提に\N話が進んでいるぞ
+Dialogue: 0,0:05:52.35,0:05:55.15,Dialog,,0,0,0,,Rozmowa odbywa się z założeniem, że jestem prawiczkiem...
 Comment: 0,0:05:55.56,0:05:58.02,Default,,0,0,0,,うん 確かに\N偏見でものを言ったわね
+Dialogue: 0,0:05:55.56,0:05:58.02,Dialog,,0,0,0,,Hm. Faktycznie oceniłam cię zbyt powierzchownie.
 Comment: 0,0:05:58.36,0:06:00.36,Default,,0,0,0,,ハア…\N分かってくれればいいんだ
+Dialogue: 0,0:05:58.36,0:06:00.36,Dialog,,0,0,0,,Ha... Dobrze, że chociaż to rozumiesz.
 Comment: 0,0:06:00.74,0:06:03.61,Default,,0,0,0,,唾を飛ばさないで\N素人童貞がうつるわ
+Dialogue: 0,0:06:00.74,0:06:03.61,Dialog,,0,0,0,,Nie pluj, bo jeszcze zarażę się twoim żałosnym prawictwem.
 Comment: 0,0:06:03.99,0:06:06.87,Default,,0,0,0,,認めましょう　僕は童貞野郎です！
+Dialogue: 0,0:06:03.99,0:06:06.87,Dialog,,0,0,0,,Dobra przyznaje się, jestem prawiczkiem!
 Comment: 0,0:06:09.08,0:06:10.75,Default,,0,0,0,,（戦場ヶ原）心配しなくとも
+Dialogue: 0,0:06:09.08,0:06:10.75,Dialog,,0,0,0,,Nie mart się.
 Comment: 0,0:06:10.83,0:06:13.29,Default,,0,0,0,,羽川さんには\N内緒にしておいてあげるのに
+Dialogue: 0,0:06:10.83,0:06:13.29,Dialog,,0,0,0,,Zachowam tą tajemnice przed Hanekawą.
 Comment: 0,0:06:13.79,0:06:14.79,Default,,0,0,0,,羽川って？
-Comment: 0,0:06:15.33,0:06:18.42,Default,,0,0,0,,彼女 阿良々木くんの\N片恋(かたこい)相手じゃないの？
+Dialogue: 0,0:06:13.79,0:06:14.79,Dialog,,0,0,0,,Hanekawa?
+Comment: 0,0:06:15.33,0:06:18.42,Dialog,,0,0,0,,彼女 阿良々木くんの\N片恋(かたこい)相手じゃないの？
+Dialogue: 0,0:06:15.33,0:06:18.42,Dialog,,0,0,0,,Czy ona przypadkiem nie jest twoją nieodwzajemnioną miłością?
 Comment: 0,0:06:18.50,0:06:19.67,Default,,0,0,0,,よく話しているでしょう？
+Dialogue: 0,0:06:18.50,0:06:19.67,Dialog,,0,0,0,,Dużo rozmawiacie, nieprawdaż?
 Comment: 0,0:06:20.00,0:06:21.34,Default,,0,0,0,,（阿良々木）それは違う
+Dialogue: 0,0:06:20.00,0:06:21.34,Dialog,,0,0,0,,Jesteś w błedzie
 Comment: 0,0:06:21.42,0:06:24.43,Default,,0,0,0,,あれは単純に\N羽川の面倒見がいいだけだ
+Dialogue: 0,0:06:21.42,0:06:24.43,Dialog,,0,0,0,,Po prostu Hanekawa lubi się wszystkimi opiekować.
 Comment: 0,0:06:24.51,0:06:26.93,Default,,0,0,0,,あいつは いちばんダメなヤツが\Nいちばん かわいそうで
+Dialogue: 0,0:06:24.51,0:06:26.93,Dialog,,0,0,0,,Ona uważa, że ci najgorsi są najbardziej godni litości...
 Comment: 0,0:06:27.01,0:06:28.97,Default,,0,0,0,,不当に損をしているって
+Dialogue: 0,0:06:27.01,0:06:28.97,Dialog,,0,0,0,,i że spotkała ich niesprawiedliwa krzywda.
 Comment: 0,0:06:29.06,0:06:30.93,Default,,0,0,0,,そんな愉快な勘違いを\Nしているんだ
+Dialogue: 0,0:06:29.06,0:06:30.93,Dialog,,0,0,0,,Żyje w takim zabawnym błędzie.
 Comment: 0,0:06:31.39,0:06:33.98,Default,,0,0,0,,それは本当に愉快な勘違いね
+Dialogue: 0,0:06:31.39,0:06:33.98,Dialog,,0,0,0,,To faktycznie całkiem zabawny błąd.
 Comment: 0,0:06:34.10,0:06:36.69,Default,,0,0,0,,いちばんダメなヤツは\Nいちばん愚かなだけなのに
+Dialogue: 0,0:06:34.10,0:06:36.69,Dialog,,0,0,0,,Przecież ci najgorsi są po prostu najbardziej głupi.
 Comment: 0,0:06:37.15,0:06:39.07,Default,,0,0,0,,（阿良々木）\Nいや 僕は\Nそこまでは言ってません
+Dialogue: 0,0:06:37.15,0:06:39.07,Dialog,,0,0,0,,Hej, ja wcale nie posunąłem się tak daleko!
 Comment: 0,0:06:39.32,0:06:40.32,Default,,0,0,0,,（戦場ヶ原）顔に書いてあるわ
+Dialogue: 0,0:06:39.32,0:06:40.32,Dialog,,0,0,0,,Masz to wypisane na twarzy.
 Comment: 0,0:06:40.44,0:06:41.40,Default,,0,0,0,,書いてねえよ
-Comment: 0,0:06:41.69,0:06:43.99,Default,,0,0,0,,そう言うと思って\Nさっき書いておいたわ
+Dialogue: 0,0:06:40.44,0:06:41.40,Dialog,,0,0,0,,Nie mam...
+Dialogue: 0,0:06:41.69,0:06:43.99,Dialog,,0,0,0,,Pomyślałam, że tak powiesz, więc to zapisałam.
 Comment: 0,0:06:44.32,0:06:45.99,Default,,0,0,0,,（阿良々木）\Nそんな手回しがあり得るか！
+Dialogue: 0,0:06:44.32,0:06:45.99,Dialog,,0,0,0,,Jak ty się w ogóle mogłaś na to przygotować?!
 Comment: 0,0:06:49.95,0:06:51.87,Default,,0,0,0,,（戦場ヶ原）\N忍野さんのお世話になったのね？
+Dialogue: 0,0:06:49.95,0:06:51.87,Dialog,,0,0,0,,Czyli pan Oshino faktycznie ci pomógł?
 Comment: 0,0:06:53.08,0:06:54.46,Default,,0,0,0,,羽川さんも
+Dialogue: 0,0:06:53.08,0:06:54.46,Dialog,,0,0,0,,Hanekawa również.
 Comment: 0,0:06:54.62,0:06:56.54,Default,,0,0,0,,（阿良々木）うん まあな
+Dialogue: 0,0:06:54.62,0:06:56.54,Default,,0,0,0,,（阿良々木）うん まあな
 Comment: 0,0:06:56.96,0:06:57.79,Default,,0,0,0,,（戦場ヶ原）ふうん
+Dialogue: 0,0:06:56.96,0:06:57.79,Default,,0,0,0,,（戦場ヶ原）ふうん
 Comment: 0,0:06:57.88,0:07:00.46,Default,,0,0,0,,（阿良々木）\Nだから 一応\N信頼していいとは思うぜ
+Dialogue: 0,0:06:57.88,0:07:00.46,Dialog,,0,0,0,,Myślę, że na razie możesz mu zaufać.
 Comment: 0,0:07:00.55,0:07:03.51,Default,,0,0,0,,僕一人の証言じゃなく\N羽川もそうだっていうんだから
+Dialogue: 0,0:07:00.55,0:07:03.51,Dialog,,0,0,0,,To nie tylko moje świadectwo, ale także Hanekawy.
 Comment: 0,0:07:04.01,0:07:04.84,Default,,0,0,0,,（戦場ヶ原）そう…
+Dialogue: 0,0:07:04.01,0:07:04.84,Default,,0,0,0,,（戦場ヶ原）そう…
 Comment: 0,0:07:05.51,0:07:07.43,Default,,0,0,0,,でもね 阿良々木くん
+Dialogue: 0,0:07:05.51,0:07:07.43,Dialog,,0,0,0,,Ale Araragi...
 Comment: 0,0:07:08.47,0:07:10.47,Default,,0,0,0,,彼のことを おいそれと信じるには
+Dialogue: 0,0:07:08.47,0:07:10.47,Dialog,,0,0,0,,Trudno mi mu tak po prostu zaufać.
 Comment: 0,0:07:11.14,0:07:15.73,Default,,0,0,0,,私は 今まで何度も何度も\Nだまされ続けているわ
+Dialogue: 0,0:07:11.14,0:07:15.73,Dialog,,0,0,0,,Do tej pory wiele razy zostałam oszukiwana.
 Comment: 0,0:07:16.31,0:07:18.56,Default,,0,0,0,,だから そんな楽天的なふうには
+Dialogue: 0,0:07:16.31,0:07:18.56,Dialog,,0,0,0,,Więc nie potrafię być taką optymistką.
 Comment: 0,0:07:18.65,0:07:20.73,Default,,0,0,0,,どうしたって ちっとも思えないの
+Dialogue: 0,0:07:18.65,0:07:20.73,Dialog,,0,0,0,,Po prostu nie umiem w to uwierzyć.
 Comment: 0,0:07:20.90,0:07:21.73,Default,,0,0,0,,あっ！
+Dialogue: 0,0:07:20.90,0:07:21.73,Default,,0,0,0,,あっ！
 Comment: 0,0:07:21.86,0:07:22.69,Default,,0,0,0,,ん？
+Dialogue: 0,0:07:21.86,0:07:22.69,Default,,0,0,0,,ん？
+Comment: 0,0:07:26.57,0:07:28.32,Default,,0,0,0,,（阿良々木）\Nせっかく着たのに\Nなんで脱ぐんだよ
 Comment: 0,0:07:26.57,0:07:28.32,Default,,0,0,0,,（阿良々木）\Nせっかく着たのに\Nなんで脱ぐんだよ
 Comment: 0,0:07:29.03,0:07:30.87,Default,,0,0,0,,（戦場ヶ原）\N髪を乾かすのを忘れていたわ
 Comment: 0,0:07:31.45,0:07:34.12,Default,,0,0,0,,（阿良々木）\Nお前 ひょっとして\Nただのバカなんじゃないか？
