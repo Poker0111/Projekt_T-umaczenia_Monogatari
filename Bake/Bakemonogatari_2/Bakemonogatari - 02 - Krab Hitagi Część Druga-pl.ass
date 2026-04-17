@@ -16,9 +16,9 @@ Video File: ../../../filmy i seriale/Seriale dla dekeneratów/化物語(2009)/�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 175
-Active Line: 213
-Video Position: 10518
+Scroll Position: 207
+Active Line: 241
+Video Position: 11515
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -258,18 +258,28 @@ Dialogue: 0,0:07:20.90,0:07:21.73,Default,,0,0,0,,あっ！
 Comment: 0,0:07:21.86,0:07:22.69,Default,,0,0,0,,ん？
 Dialogue: 0,0:07:21.86,0:07:22.69,Default,,0,0,0,,ん？
 Comment: 0,0:07:26.57,0:07:28.32,Default,,0,0,0,,（阿良々木）\Nせっかく着たのに\Nなんで脱ぐんだよ
-Comment: 0,0:07:26.57,0:07:28.32,Default,,0,0,0,,（阿良々木）\Nせっかく着たのに\Nなんで脱ぐんだよ
+Dialogue: 0,0:07:26.57,0:07:28.32,Dialog,,0,0,0,,Dlaczego je zjdemujesz?
 Comment: 0,0:07:29.03,0:07:30.87,Default,,0,0,0,,（戦場ヶ原）\N髪を乾かすのを忘れていたわ
+Dialogue: 0,0:07:29.03,0:07:30.87,Dialog,,0,0,0,,Zapomniałam wysuszyć włosów.
 Comment: 0,0:07:31.45,0:07:34.12,Default,,0,0,0,,（阿良々木）\Nお前 ひょっとして\Nただのバカなんじゃないか？
+Dialogue: 0,0:07:31.45,0:07:34.12,Dialog,,0,0,0,,A może przez przyadek jesteś głupia?
 Comment: 0,0:07:34.20,0:07:36.46,Default,,0,0,0,,（戦場ヶ原）\N失礼なことを\N言わないでくれるかしら？
+Dialogue: 0,0:07:34.20,0:07:36.46,Dialog,,0,0,0,,Może przestaniesz mówić takie rzeczy?
 Comment: 0,0:07:36.54,0:07:38.50,Default,,0,0,0,,私が傷ついたら大変じゃないの
+Comment: 0,0:07:36.54,0:07:38.50,Default,,0,0,0,,Czy nie było by dziwne jabym doznała ran.
 Comment: 0,0:07:43.84,0:07:46.26,Default,,0,0,0,,（阿良々木）\Nさっき 楽天的って言ってたな
+Dialogue: 0,0:07:43.84,0:07:46.26,Dialog,,0,0,0,,Powiedziałaś wcześniej, że jesteś optymistką.
 Comment: 0,0:07:46.34,0:07:47.72,Default,,0,0,0,,（戦場ヶ原）そうじゃなくて？
-Comment: 0,0:07:47.80,0:07:48.97,Default,,0,0,0,,（阿良々木）かもしんね
+Dialogue: 0,0:07:46.34,0:07:47.72,Dialog,,0,0,0,,Nie o to chodzi?
+Comment: 0,0:07:47.80,0:07:48.97,Dialog,,0,0,0,,（阿良々木）かもしんね
+Dialogue: 0,0:07:47.80,0:07:48.97,Dialog,,0,0,0,,Może?
 Comment: 0,0:07:49.05,0:07:52.26,Default,,0,0,0,,でも いいんじゃねえの？\N別に楽天的でも
+Dialogue: 0,0:07:49.05,0:07:52.26,Dialog,,0,0,0,,Ale czy to nie dobrze? Nie jestem szczególnie optymistą ale...
 Comment: 0,0:07:52.72,0:07:54.43,Default,,0,0,0,,悪いことをしてるわけじゃないし
+Dialogue: 0,0:07:52.72,0:07:54.43,Dialog,,0,0,0,,Ale raczej nie przydaż ci się nic złego.
 Comment: 0,0:07:54.52,0:07:55.98,Default,,0,0,0,,ズルしているわけでも\Nないんだから
-Comment: 0,0:07:56.81,0:07:59.73,Default,,0,0,0,,悪いことを\Nしているわけじゃない… か
+Dialogue: 0,0:07:54.52,0:07:55.98,Dialog,,0,0,0,,Nie oszukam cię ani nic takiego.
+Dialogue: 0,0:07:56.81,0:07:59.73,Dialog,,0,0,0,,Nic złego... co...
 Comment: 0,0:08:00.23,0:08:02.36,Default,,0,0,0,,（阿良々木）だろ？\N（戦場ヶ原）まあ そうね
 Comment: 0,0:08:03.40,0:08:04.23,Default,,0,0,0,,でも…
 Comment: 0,0:08:05.11,0:08:06.24,Default,,0,0,0,,ズルは しているかも

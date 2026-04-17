@@ -11,13 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Bakemonogatari - 01 - Krab Hitagi Część Pierwsza.mkv
-Video File: Bakemonogatari - 01 - Krab Hitagi Część Pierwsza.mkv
+Audio File: ../../../filmy i seriale/Seriale dla dekeneratów/化物語(2009)/化物語 S01E01.mkv
+Video File: ../../../filmy i seriale/Seriale dla dekeneratów/化物語(2009)/化物語 S01E01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 1
-Video Position: 22290
+Scroll Position: 368
+Active Line: 183
+Video Position: 6988
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,15 +36,17 @@ Style: Plansza black,MS Mincho,70,&H000F0F0F,&H000000FF,&H00000000,&H00000000,0,
 Style: Plansza Green,MS Mincho,70,&H00696E58,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Stable,Metropolis,48,&H00FFFFFF,&H000000FF,&H004B235A,&H00000000,0,0,0,0,100,100,1,0,1,1.5,0,3,30,30,10,1
 Style: Kimi no shiranai monogatari,Playfair Display Medium,70,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,3,10,30,10,1
+Style: przypis,Playfair Display Medium,70,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,7,10,30,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:01.48,Default,JP,0,0,0,, （学校のチャイム）
 Dialogue: 0,0:00:00.00,0:00:01.48,Znak,Znak,0,0,0,,{\an7\frz270\pos(1220,268)}Przed Liceum Naotsu
+Dialogue: 0,0:00:01.48,0:00:03.90,Znak,Znak,0,0,0,,{\fs13\an7\frz270\pos(1294,200)}Przed Liceum Naotsu
 Dialogue: 0,0:00:15.95,0:00:16.12,Plansza,Plansza,0,0,0,,{\pos(954,420)}Ki
 Dialogue: 0,0:00:16.12,0:00:16.29,Plansza Blue,Plansza,0,0,0,,{\pos(966,436)}Kiss
-Dialogue: 0,0:00:16.29,0:00:16.45,Plansza,,0,0,0,,{\pos(972,424)}Kiss Shot
-Dialogue: 0,0:00:16.45,0:00:16.79,Plansza Blue,,0,0,0,,{\pos(972,424)}Kiss Shot
+Dialogue: 0,0:00:16.29,0:00:16.45,Plansza,Plansza,0,0,0,,{\pos(972,424)}Kiss Shot
+Dialogue: 0,0:00:16.45,0:00:16.79,Plansza Blue,Plansza,0,0,0,,{\pos(972,424)}Kiss Shot
 Dialogue: 0,0:00:16.79,0:00:16.96,Plansza,Plansza,0,0,0,,{\pos(962,344)}Kiss Shot Acerola-Orion
 Dialogue: 0,0:00:16.96,0:00:17.12,Plansza Blue,Plansza,0,0,0,,{\pos(962,382)}Kiss Shot Acerola-Orion
 Dialogue: 0,0:00:17.12,0:00:17.29,Plansza,Plansza,0,0,0,,{\pos(954,260)}Kiss Shot
@@ -60,97 +63,97 @@ Dialogue: 0,0:00:17.79,0:00:17.96,Plansza,Plansza,0,0,0,,{\pos(980,648)}To mój 
 Dialogue: 1,0:00:17.96,0:00:18.54,Plansza Blue,Plansza,0,0,0,,{\pos(974,272)}Nadszedł czas aby porozmawiać o
 Dialogue: 1,0:00:17.96,0:00:18.54,Plansza Blue,Plansza,0,0,0,,{\pos(976,456)}Kiss Shot Acerola-Orion Heart Under Blade.
 Dialogue: 0,0:00:17.96,0:00:18.54,Plansza Blue,Plansza,0,0,0,,{\pos(980,648)}To mój obowiazek.
-Dialogue: 0,0:00:20.58,0:00:24.67,Znak,Znak,0,0,0,,{\an7\frz270\pos(1220,268)}Przed Liceum Naotsu
+Dialogue: 0,0:00:20.58,0:00:24.67,Znak,Plansza,0,0,0,,{\an7\frz270\pos(1220,268)}Przed Liceum Naotsu
 Dialogue: 0,0:00:32.55,0:00:34.47,Znak,Plansza,0,0,0,,{\pos(950,776)}Liceum Naoetsu
 Dialogue: 0,0:00:46.03,0:00:47.44,Plansza,Plansza,0,0,0,,{\fs30\pos(372,450)}Krew
 Dialogue: 0,0:00:46.03,0:00:47.44,Plansza,Plansza,0,0,0,,{\fs40\pos(444,388)}Krew
 Dialogue: 0,0:00:46.03,0:00:47.44,Plansza,Plansza,0,0,0,,{\fs60\pos(448,666)}Krew
-Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,,0,0,0,,{\fs40\pos(1608,348)}Krew
-Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,,0,0,0,,{\fs35\pos(1348,536)}Krew
-Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,,0,0,0,,{\fs35\pos(1084,680)}Krew
-Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,,0,0,0,,{\pos(1262,366)}Krew
-Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,,0,0,0,,{\pos(172,500)}Krew
-Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,,0,0,0,,{\fs50\pos(636,842)}Krew
-Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,,0,0,0,,{\fs25\pos(1246,844)}Krew
-Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,,0,0,0,,{\pos(1450,814)}Krew
-Dialogue: 0,0:00:47.44,0:00:47.99,Plansza Blue,,0,0,0,,{\pos(962,430)}Araragi Koyomi
-Dialogue: 0,0:00:49.57,0:00:50.07,Plansza,,0,0,0,,{\fs50\pos(1162,472)}Światło
-Dialogue: 0,0:00:49.57,0:00:50.07,Plansza,,0,0,0,,{\fs50\pos(1506,302)}Światło
-Dialogue: 0,0:00:53.99,0:00:54.20,Plansza,,0,0,0,,{\fs70\pos(726,418)}Poznałem ją podczas przerwy wiosenej
-Dialogue: 0,0:00:54.20,0:00:54.41,Plansza Blue Yellow,,0,0,0,,{\an1\fs70\frz270\pos(1362,160)}To było szokujące
-Dialogue: 0,0:00:54.20,0:00:54.41,Plansza Blue Yellow,,0,0,0,,{\an1\fs70\frz270\pos(626,156)}Spotkanie
-Dialogue: 0,0:00:54.20,0:00:54.41,Plansza Blue Yellow,,0,0,0,,{\an1\fs70\frz270\pos(626,156)}Spotkanie
-Dialogue: 0,0:00:54.20,0:00:54.41,Plansza Blue Yellow,,0,0,0,,{\an1\fs70\frz270\pos(878,166)}a zarazem katastrofalne
-Dialogue: 0,0:00:54.41,0:00:54.62,Plansza,,0,0,0,,{\an1\fs60\pos(448,508)}W każdym razie uważam, że miałem pecha
-Dialogue: 0,0:00:55.95,0:00:56.16,Plansza,,0,0,0,,{\fs60\pos(958,396)}——Oczywiście, w tym samym sensie, w którym akurat nie udało mi się uniknąć tego pecha,
-Dialogue: 0,0:00:55.95,0:00:56.16,Plansza,,0,0,0,,{\fs60\pos(958,552)}nawet jeśli do tej pory akurat udawało mi się go unikać——
-Dialogue: 0,0:00:56.16,0:00:56.37,Plansza Blue,,0,0,0,,{\fs70\pos(962,472)}Gdy kogoś innego spotkał ten samo los
-Dialogue: 0,0:00:56.37,0:00:56.58,Plansza,,0,0,0,,{\pos(962,468)}Prawdopodobnie, By tak nie było
-Dialogue: 0,0:00:57.83,0:00:58.04,Plansza,,0,0,0,,{\pos(960,466)}Powiedzenie, że miałem pecha wystarczy.
-Dialogue: 0,0:00:58.04,0:00:58.25,Plansza Red,,0,0,0,,{\pos(942,466)}To niezwykle nieodpowiedzialne słowa,
-Dialogue: 0,0:01:01.33,0:01:01.50,Plansza,,0,0,0,,{\fs120\pos(968,420)}Meme Oshino
-Dialogue: 0,0:01:04.79,0:01:05.00,Plansza,,0,0,0,,{\frz270\pos(1056,490)}Ostatecznie tam to
-Dialogue: 0,0:01:05.00,0:01:05.21,Plansza gold,,0,0,0,,{\fs45\frz270\pos(1186,546)}Wydarzyło się to właśnie dlatego,
-Dialogue: 0,0:01:05.00,0:01:05.21,Plansza gold,,0,0,0,,{\fs60\frz270\pos(872,394)}że byłem sobą,
-Dialogue: 0,0:01:05.21,0:01:05.42,Plansza,,0,0,0,,{\pos(956,432)}Myślę, że to była po prostu seria takich właśnie incydentów.
-Dialogue: 0,0:01:06.05,0:01:06.38,Plansza,,0,0,0,,{\pos(952,610)}Hitagi Senjougahara, ma w klasie
-Dialogue: 0,0:01:06.05,0:01:06.38,Plansza,,0,0,0,,{\pos(954,764)}przydomek chorowitej dziewczyny.
-Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,,0,0,0,,{\fs40\pos(930,256)}Z Senjougaharą od początku liceum, przez pierwszą, drugą, a teraz i trzecią klasę,
-Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,,0,0,0,,{\fs40\pos(530,352)}zawsze jesteśmy w tej samej klasie, ale...
-Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,,0,0,0,,{\fs40\pos(386,450)}jeszcze nigdy nie widziałem,
-Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,,0,0,0,,{\fs40\pos(448,542)}by poruszała się jakoś energicznie.
-Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,,0,0,0,,{\fs40\pos(792,644)}Senjougahara zawsze przesiaduje sama w kącie klasy, czytając książki.
-Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,,0,0,0,,{\fs40\pos(732,738)}Czasem są to skomplikowanie wyglądające tomy w twardej oprawie
-Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,,0,0,0,,{\fs40\pos(538,836)}a czasem komiksy z okładkami sugerującymi,
-Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,,0,0,0,,{\fs35\pos(600,914)}że od samego ich czytania obniża się poziom inteligencji.
-Dialogue: 0,0:01:06.71,0:01:09.92,Znak,,0,0,0,,{\move(1312,386,1376,386)}Pięć
-Dialogue: 0,0:01:06.71,0:01:09.92,Znak,,0,0,0,,{\fs40\move(1322,588,1370,588,23,3193)}Najwyższa prędkość
-Dialogue: 0,0:01:06.71,0:01:09.92,Znak,,0,0,0,,{\fs20\pos(356,518)}Najwyższa prędkość
-Dialogue: 0,0:01:06.71,0:01:09.92,Znak,,0,0,0,,{\fs15\pos(362,288)}Ograniczenie prędkości
-Dialogue: 0,0:01:06.71,0:01:09.92,Znak,,0,0,0,,{\fs20\move(360,424,354,422,23,3193)}Pięć
-Dialogue: 0,0:01:09.92,0:01:10.13,Plansza,,0,0,0,,{\frz270\pos(844,502)}To nawet przyjemne,
-Dialogue: 0,0:01:09.92,0:01:10.13,Plansza,,0,0,0,,{\fs60\frz270\pos(282,514)}byc w najwyższej klasie.
-Dialogue: 0,0:01:10.13,0:01:10.34,Plansza Blue Yellow,,0,0,0,,{\frz270\pos(940,424)}Po egzaminach
-Dialogue: 0,0:01:10.13,0:01:10.34,Plansza Blue Yellow,,0,0,0,,{\fs60\frz270\pos(696,546)}w 10 najlepszych osobach
-Dialogue: 0,0:01:10.13,0:01:10.34,Plansza Blue Yellow,,0,0,0,,{\fs60\frz270\pos(474,466)}jest zapisane imie
-Dialogue: 0,0:01:10.13,0:01:10.34,Plansza Blue Yellow,,0,0,0,,{\fs60\frz270\pos(240,500)}Hitagi Senjoiugahary.
-Dialogue: 0,0:01:10.34,0:01:10.55,Plansza,,0,0,0,,{\pos(978,476)}Scena 41 część trzecia
-Dialogue: 0,0:01:18.89,0:01:19.18,Plansza Red,,0,0,0,,{\pos(948,600)}Jest też, samotna
-Dialogue: 0,0:01:18.89,0:01:19.18,Plansza Red,,0,0,0,,{\pos(946,344)}Nie ma przyjaciół.
-Dialogue: 0,0:01:19.18,0:01:19.39,Plansza,,0,0,0,,{\fs50\pos(964,268)}To nie oznacza, że jestem prześladowana.
-Dialogue: 0,0:01:19.18,0:01:19.39,Plansza,,0,0,0,,{\fs50\pos(944,390)}Nieważne kiedy, Senjougahara jest tam
-Dialogue: 0,0:01:19.18,0:01:19.39,Plansza,,0,0,0,,{\fs50\pos(948,512)}siedzi w kącie klasy,
-Dialogue: 0,0:01:19.18,0:01:19.39,Plansza,,0,0,0,,{\fs50\pos(934,632)}czytając książkę.
-Dialogue: 0,0:01:19.18,0:01:19.39,Plansza,,0,0,0,,{\fs50\pos(964,760)}Zbudowała wokół siebie mury.
-Dialogue: 0,0:01:21.39,0:01:21.69,Plansza,,0,0,0,,{\fs42\frz270\pos(1022,528)}Jej obecność jest czymś nienormalnym.
-Dialogue: 0,0:01:21.69,0:01:21.89,Plansza gold,,0,0,0,,{\fs35\frz270\pos(1008,534)}Jakby jej nieobecność było czymś normalnym.
-Dialogue: 0,0:01:23.10,0:01:23.19,Plansza,,0,0,0,,{\pos(958,486)}Cóż, jej obecność nic nie znaczy.
-Dialogue: 0,0:01:23.19,0:01:23.40,Plansza Blue Yellow,,0,0,0,,{\fs40\pos(966,266)}Na przykłąd chodziłem z nią do tej samej kalsy 3 lata, cojest niezwykłym pzrypatkiem,
-Dialogue: 0,0:01:23.19,0:01:23.40,Plansza Blue Yellow,,0,0,0,,{\fs40\pos(546,396)}Była osobą, z którą nie maieniłem ani słowa
-Dialogue: 0,0:01:23.19,0:01:23.40,Plansza Blue Yellow,,0,0,0,,{\fs40\pos(422,516)}Pozatym, nie czułem się samotny.
-Dialogue: 0,0:01:23.19,0:01:23.40,Plansza Blue Yellow,,0,0,0,,{\fs40\pos(470,638)}I myśle, że Senjougahara ma tak samo.
-Dialogue: 0,0:01:24.40,0:01:24.69,Plansza,,0,0,0,,{\fs100\pos(942,446)}Tak myślałem.
-Dialogue: 0,0:01:24.69,0:01:24.90,Plansza Blue,,0,0,0,,{\pos(950,366)}Jednak.
-Dialogue: 0,0:01:24.69,0:01:24.90,Plansza Blue,,0,0,0,,{\pos(960,580)}To był jeden z takich dni.
-Dialogue: 0,0:01:25.98,0:01:26.19,Plansza,,0,0,0,,{\fs100\pos(964,280)}Krab
-Dialogue: 0,0:01:26.48,0:01:26.69,Plansza,,0,0,0,,{\fs100\pos(974,548)}Ślimak
-Dialogue: 0,0:01:26.98,0:01:27.19,Plansza,,0,0,0,,{\fs100\pos(972,280)}Małpa
-Dialogue: 0,0:01:27.48,0:01:27.69,Plansza,,0,0,0,,{\fs100\pos(964,282)}Wąż
-Dialogue: 0,0:01:27.98,0:01:28.19,Plansza,,0,0,0,,{\fs100\pos(974,316)}Kot
-Dialogue: 0,0:01:28.48,0:01:28.69,Plansza,,0,0,0,,{\fs100\pos(970,394)}Wampir
-Dialogue: 0,0:01:28.69,0:01:28.99,Plansza,,0,0,0,,{\pos(982,584)}Początek
-Dialogue: 0,0:01:28.99,0:01:29.44,Plansza Red,,0,0,0,,{\pos(968,606)}Autor Oryginału: Nisio Isin
-Dialogue: 0,0:01:29.44,0:01:29.82,Plansza gold,,0,0,0,,{\pos(958,564)}Dyrektor: AkiYuki Shinbou
-Dialogue: 0,0:00:58.25,0:00:58.45,Plansza,,0,0,0,,{\pos(954,440)}Być może powinienem wprost powiedzieć, że to ja zawiniłem
-Dialogue: 0,0:00:49.57,0:00:50.07,Plansza,,0,0,0,,{\fs50\pos(1334,386)}Światło
-Dialogue: 0,0:01:33.49,0:01:34.66,Plansza,,0,0,0,,{\fs50\frz270\pos(1786,616)}Jak zawsze byłem spóźniony na lekcje,
-Dialogue: 0,0:01:33.49,0:01:34.66,Plansza,,0,0,0,,{\fs50\frz270\pos(1598,668)}Gdy byłem w budynku szkoły
-Dialogue: 0,0:01:33.49,0:01:34.66,Plansza,,0,0,0,,{\fs50\frz270\pos(1410,676)}Wbiegałęm na góre
-Dialogue: 0,0:01:33.49,0:01:34.66,Plansza,,0,0,0,,{\fs50\frz270\pos(1228,766)}Na półpiętrze,
-Dialogue: 0,0:01:33.49,0:01:34.66,Plansza,,0,0,0,,{\fs50\frz270\pos(1042,842)}Z nieba dziewczyna
-Dialogue: 0,0:01:33.49,0:01:34.66,Plansza,,0,0,0,,{\fs50\frz270\pos(850,914)}Spadła
-Dialogue: 0,0:01:48.63,0:01:48.80,Plansza,,0,0,0,,{\pos(966,702)}Czerwony
-Dialogue: 0,0:01:48.80,0:01:49.92,Plansza brown,,0,0,0,,{\frz270\pos(1140,426)}Hitagi Senjougahara
+Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,Plansza,0,0,0,,{\fs40\pos(1608,348)}Krew
+Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,Plansza,0,0,0,,{\fs35\pos(1348,536)}Krew
+Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,Plansza,0,0,0,,{\fs35\pos(1084,680)}Krew
+Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,Plansza,0,0,0,,{\pos(1262,366)}Krew
+Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,Plansza,0,0,0,,{\pos(172,500)}Krew
+Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,Plansza,0,0,0,,{\fs50\pos(636,842)}Krew
+Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,Plansza,0,0,0,,{\fs25\pos(1246,844)}Krew
+Dialogue: 0,0:00:46.36,0:00:47.44,Plansza,Plansza,0,0,0,,{\pos(1450,814)}Krew
+Dialogue: 0,0:00:47.44,0:00:47.99,Plansza Blue,Plansza,0,0,0,,{\pos(962,430)}Araragi Koyomi
+Dialogue: 0,0:00:49.57,0:00:50.07,Plansza,Plansza,0,0,0,,{\fs50\pos(1162,472)}Światło
+Dialogue: 0,0:00:49.57,0:00:50.07,Plansza,Plansza,0,0,0,,{\fs50\pos(1506,302)}Światło
+Dialogue: 0,0:00:53.99,0:00:54.20,Plansza,Plansza,0,0,0,,{\fs70\pos(726,418)}Poznałem ją podczas przerwy wiosenej
+Dialogue: 0,0:00:54.20,0:00:54.41,Plansza Blue Yellow,Plansza,0,0,0,,{\an1\fs70\frz270\pos(1362,160)}To było szokujące
+Dialogue: 0,0:00:54.20,0:00:54.41,Plansza Blue Yellow,Plansza,0,0,0,,{\an1\fs70\frz270\pos(626,156)}Spotkanie
+Dialogue: 0,0:00:54.20,0:00:54.41,Plansza Blue Yellow,Plansza,0,0,0,,{\an1\fs70\frz270\pos(626,156)}Spotkanie
+Dialogue: 0,0:00:54.20,0:00:54.41,Plansza Blue Yellow,Plansza,0,0,0,,{\an1\fs70\frz270\pos(878,166)}a zarazem katastrofalne
+Dialogue: 0,0:00:54.41,0:00:54.62,Plansza,Plansza,0,0,0,,{\an1\fs60\pos(448,508)}W każdym razie uważam, że miałem pecha
+Dialogue: 0,0:00:55.95,0:00:56.16,Plansza,Plansza,0,0,0,,{\fs60\pos(958,396)}——Oczywiście, w tym samym sensie, w którym akurat nie udało mi się uniknąć tego pecha,
+Dialogue: 0,0:00:55.95,0:00:56.16,Plansza,Plansza,0,0,0,,{\fs60\pos(958,552)}nawet jeśli do tej pory akurat udawało mi się go unikać——
+Dialogue: 0,0:00:56.16,0:00:56.37,Plansza Blue,Plansza,0,0,0,,{\fs70\pos(962,472)}Gdy kogoś innego spotkał ten samo los
+Dialogue: 0,0:00:56.37,0:00:56.58,Plansza,Plansza,0,0,0,,{\pos(962,468)}Prawdopodobnie, By tak nie było
+Dialogue: 0,0:00:57.83,0:00:58.04,Plansza,Plansza,0,0,0,,{\pos(960,466)}Powiedzenie, że miałem pecha wystarczy.
+Dialogue: 0,0:00:58.04,0:00:58.25,Plansza Red,Plansza,0,0,0,,{\pos(942,466)}To niezwykle nieodpowiedzialne słowa,
+Dialogue: 0,0:01:01.33,0:01:01.50,Plansza,Plansza,0,0,0,,{\fs120\pos(968,420)}Meme Oshino
+Dialogue: 0,0:01:04.79,0:01:05.00,Plansza,Plansza,0,0,0,,{\frz270\pos(1056,490)}Ostatecznie tam to
+Dialogue: 0,0:01:05.00,0:01:05.21,Plansza gold,Plansza,0,0,0,,{\fs45\frz270\pos(1186,546)}Wydarzyło się to właśnie dlatego,
+Dialogue: 0,0:01:05.00,0:01:05.21,Plansza gold,Plansza,0,0,0,,{\fs60\frz270\pos(872,394)}że byłem sobą,
+Dialogue: 0,0:01:05.21,0:01:05.42,Plansza,Plansza,0,0,0,,{\pos(956,432)}Myślę, że to była po prostu seria takich właśnie incydentów.
+Dialogue: 0,0:01:06.05,0:01:06.38,Plansza,Plansza,0,0,0,,{\pos(952,610)}Hitagi Senjougahara, ma w klasie
+Dialogue: 0,0:01:06.05,0:01:06.38,Plansza,Plansza,0,0,0,,{\pos(954,764)}przydomek chorowitej dziewczyny.
+Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,Plansza,0,0,0,,{\fs40\pos(930,256)}Z Senjougaharą od początku liceum, przez pierwszą, drugą, a teraz i trzecią klasę,
+Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,Plansza,0,0,0,,{\fs40\pos(530,352)}zawsze jesteśmy w tej samej klasie, ale...
+Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,Plansza,0,0,0,,{\fs40\pos(386,450)}jeszcze nigdy nie widziałem,
+Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,Plansza,0,0,0,,{\fs40\pos(448,542)}by poruszała się jakoś energicznie.
+Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,Plansza,0,0,0,,{\fs40\pos(792,644)}Senjougahara zawsze przesiaduje sama w kącie klasy, czytając książki.
+Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,Plansza,0,0,0,,{\fs40\pos(732,738)}Czasem są to skomplikowanie wyglądające tomy w twardej oprawie
+Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,Plansza,0,0,0,,{\fs40\pos(538,836)}a czasem komiksy z okładkami sugerującymi,
+Dialogue: 0,0:01:06.38,0:01:06.71,Plansza Red,Plansza,0,0,0,,{\fs35\pos(600,914)}że od samego ich czytania obniża się poziom inteligencji.
+Dialogue: 0,0:01:06.71,0:01:09.92,Znak,Plansza,0,0,0,,{\move(1312,386,1376,386)}Pięć
+Dialogue: 0,0:01:06.71,0:01:09.92,Znak,Plansza,0,0,0,,{\fs40\move(1322,588,1370,588,23,3193)}Najwyższa prędkość
+Dialogue: 0,0:01:06.71,0:01:09.92,Znak,Plansza,0,0,0,,{\fs20\pos(356,518)}Najwyższa prędkość
+Dialogue: 0,0:01:06.71,0:01:09.92,Znak,Plansza,0,0,0,,{\fs15\pos(362,288)}Ograniczenie prędkości
+Dialogue: 0,0:01:06.71,0:01:09.92,Znak,Plansza,0,0,0,,{\fs20\move(360,424,354,422,23,3193)}Pięć
+Dialogue: 0,0:01:09.92,0:01:10.13,Plansza,Plansza,0,0,0,,{\frz270\pos(844,502)}To nawet przyjemne,
+Dialogue: 0,0:01:09.92,0:01:10.13,Plansza,Plansza,0,0,0,,{\fs60\frz270\pos(282,514)}byc w najwyższej klasie.
+Dialogue: 0,0:01:10.13,0:01:10.34,Plansza Blue Yellow,Plansza,0,0,0,,{\frz270\pos(940,424)}Po egzaminach
+Dialogue: 0,0:01:10.13,0:01:10.34,Plansza Blue Yellow,Plansza,0,0,0,,{\fs60\frz270\pos(696,546)}w 10 najlepszych osobach
+Dialogue: 0,0:01:10.13,0:01:10.34,Plansza Blue Yellow,Plansza,0,0,0,,{\fs60\frz270\pos(474,466)}jest zapisane imie
+Dialogue: 0,0:01:10.13,0:01:10.34,Plansza Blue Yellow,Plansza,0,0,0,,{\fs60\frz270\pos(240,500)}Hitagi Senjoiugahary.
+Dialogue: 0,0:01:10.34,0:01:10.55,Plansza,Plansza,0,0,0,,{\pos(978,476)}Scena 41 część trzecia
+Dialogue: 0,0:01:18.89,0:01:19.18,Plansza Red,Plansza,0,0,0,,{\pos(948,600)}Jest też, samotna
+Dialogue: 0,0:01:18.89,0:01:19.18,Plansza Red,Plansza,0,0,0,,{\pos(946,344)}Nie ma przyjaciół.
+Dialogue: 0,0:01:19.18,0:01:19.39,Plansza,Plansza,0,0,0,,{\fs50\pos(964,268)}To nie oznacza, że jestem prześladowana.
+Dialogue: 0,0:01:19.18,0:01:19.39,Plansza,Plansza,0,0,0,,{\fs50\pos(944,390)}Nieważne kiedy, Senjougahara jest tam
+Dialogue: 0,0:01:19.18,0:01:19.39,Plansza,Plansza,0,0,0,,{\fs50\pos(948,512)}siedzi w kącie klasy,
+Dialogue: 0,0:01:19.18,0:01:19.39,Plansza,Plansza,0,0,0,,{\fs50\pos(934,632)}czytając książkę.
+Dialogue: 0,0:01:19.18,0:01:19.39,Plansza,Plansza,0,0,0,,{\fs50\pos(964,760)}Zbudowała wokół siebie mury.
+Dialogue: 0,0:01:21.39,0:01:21.69,Plansza,Plansza,0,0,0,,{\fs42\frz270\pos(1022,528)}Jej obecność jest czymś nienormalnym.
+Dialogue: 0,0:01:21.69,0:01:21.89,Plansza gold,Plansza,0,0,0,,{\fs35\frz270\pos(1008,534)}Jakby jej nieobecność było czymś normalnym.
+Dialogue: 0,0:01:23.10,0:01:23.19,Plansza,Plansza,0,0,0,,{\pos(958,486)}Cóż, jej obecność nic nie znaczy.
+Dialogue: 0,0:01:23.19,0:01:23.40,Plansza Blue Yellow,Plansza,0,0,0,,{\fs40\pos(966,266)}Na przykłąd chodziłem z nią do tej samej kalsy 3 lata, cojest niezwykłym pzrypatkiem,
+Dialogue: 0,0:01:23.19,0:01:23.40,Plansza Blue Yellow,Plansza,0,0,0,,{\fs40\pos(546,396)}Była osobą, z którą nie maieniłem ani słowa
+Dialogue: 0,0:01:23.19,0:01:23.40,Plansza Blue Yellow,Plansza,0,0,0,,{\fs40\pos(422,516)}Pozatym, nie czułem się samotny.
+Dialogue: 0,0:01:23.19,0:01:23.40,Plansza Blue Yellow,Plansza,0,0,0,,{\fs40\pos(470,638)}I myśle, że Senjougahara ma tak samo.
+Dialogue: 0,0:01:24.40,0:01:24.69,Plansza,Plansza,0,0,0,,{\fs100\pos(942,446)}Tak myślałem.
+Dialogue: 0,0:01:24.69,0:01:24.90,Plansza Blue,Plansza,0,0,0,,{\pos(950,366)}Jednak.
+Dialogue: 0,0:01:24.69,0:01:24.90,Plansza Blue,Plansza,0,0,0,,{\pos(960,580)}To był jeden z takich dni.
+Dialogue: 0,0:01:25.98,0:01:26.19,Plansza,Plansza,0,0,0,,{\fs100\pos(964,280)}Krab
+Dialogue: 0,0:01:26.48,0:01:26.69,Plansza,Plansza,0,0,0,,{\fs100\pos(974,548)}Ślimak
+Dialogue: 0,0:01:26.98,0:01:27.19,Plansza,Plansza,0,0,0,,{\fs100\pos(972,280)}Małpa
+Dialogue: 0,0:01:27.48,0:01:27.69,Plansza,Plansza,0,0,0,,{\fs100\pos(964,282)}Wąż
+Dialogue: 0,0:01:27.98,0:01:28.19,Plansza,Plansza,0,0,0,,{\fs100\pos(974,316)}Kot
+Dialogue: 0,0:01:28.48,0:01:28.69,Plansza,Plansza,0,0,0,,{\fs100\pos(970,394)}Wampir
+Dialogue: 0,0:01:28.69,0:01:28.99,Plansza,Plansza,0,0,0,,{\pos(982,584)}Początek
+Dialogue: 0,0:01:28.99,0:01:29.44,Plansza Red,Plansza,0,0,0,,{\pos(968,606)}Autor Oryginału: Nisio Isin
+Dialogue: 0,0:01:29.44,0:01:29.82,Plansza gold,Plansza,0,0,0,,{\pos(958,564)}Dyrektor: AkiYuki Shinbou
+Dialogue: 0,0:00:58.25,0:00:58.45,Plansza,Plansza,0,0,0,,{\pos(954,440)}Być może powinienem wprost powiedzieć, że to ja zawiniłem
+Dialogue: 0,0:00:49.57,0:00:50.07,Plansza,Plansza,0,0,0,,{\fs50\pos(1334,386)}Światło
+Dialogue: 0,0:01:33.49,0:01:34.66,Plansza,Plansza,0,0,0,,{\fs50\frz270\pos(1786,616)}Jak zawsze byłem spóźniony na lekcje,
+Dialogue: 0,0:01:33.49,0:01:34.66,Plansza,Plansza,0,0,0,,{\fs50\frz270\pos(1598,668)}Gdy byłem w budynku szkoły
+Dialogue: 0,0:01:33.49,0:01:34.66,Plansza,Plansza,0,0,0,,{\fs50\frz270\pos(1410,676)}Wbiegałęm na góre
+Dialogue: 0,0:01:33.49,0:01:34.66,Plansza,Plansza,0,0,0,,{\fs50\frz270\pos(1228,766)}Na półpiętrze,
+Dialogue: 0,0:01:33.49,0:01:34.66,Plansza,Plansza,0,0,0,,{\fs50\frz270\pos(1042,842)}Z nieba dziewczyna
+Dialogue: 0,0:01:33.49,0:01:34.66,Plansza,Plansza,0,0,0,,{\fs50\frz270\pos(850,914)}Spadła
+Dialogue: 0,0:01:48.63,0:01:48.80,Plansza,Plansza,0,0,0,,{\pos(966,702)}Czerwony
+Dialogue: 0,0:01:48.80,0:01:49.92,Plansza brown,Plansza,0,0,0,,{\frz270\pos(1140,426)}Hitagi Senjougahara
 Dialogue: 0,0:01:52.53,0:01:52.55,Dialog,JP,0,0,0,,（戦場ヶ原(せんじょうがはら)）ハッ
 Dialogue: 0,0:01:52.55,0:01:53.82,Dialog,JP,0,0,0,,Ahhh...
 Comment: 0,0:01:57.66,0:01:57.68,Default,JP,0,0,0,,（阿良々木）あっ
@@ -171,10 +174,10 @@ Comment: 0,0:02:28.19,0:02:28.17,Default,JP,0,0,0,,とてつもなく\N軽かっ
 Dialogue: 0,0:02:28.17,0:02:30.44,Dialog,JP,0,0,0,,Bardzo lekkie.
 Comment: 0,0:02:31.23,0:02:31.21,Default,JP,0,0,0,,そう 彼女 戦場ヶ原には
 Dialogue: 0,0:02:31.21,0:02:34.45,Dialog,JP,0,0,0,,Tak... Ona, Senjougahara
-Dialogue: 0,0:02:31.17,0:02:38.43,Plansza,,0,0,0,,{\frz270\pos(1792,514)}Tak bardzo nieśmieszne,
-Dialogue: 0,0:02:31.17,0:02:38.43,Plansza,,0,0,0,,{\frz270\pos(1564,266)}Osobliwe,
-Dialogue: 0,0:02:31.17,0:02:38.43,Plansza,,0,0,0,,{\frz270\pos(1340,234)}Dziwne,
-Dialogue: 0,0:02:31.17,0:02:38.43,Plansza,,0,0,0,,{\fs60\frz270\pos(1122,526)}Jakby nie było go ani krzty,
+Dialogue: 0,0:02:31.17,0:02:38.43,Plansza,Plansza,0,0,0,,{\frz270\pos(1792,514)}Tak bardzo nieśmieszne,
+Dialogue: 0,0:02:31.17,0:02:38.43,Plansza,Plansza,0,0,0,,{\frz270\pos(1564,266)}Osobliwe,
+Dialogue: 0,0:02:31.17,0:02:38.43,Plansza,Plansza,0,0,0,,{\frz270\pos(1340,234)}Dziwne,
+Dialogue: 0,0:02:31.17,0:02:38.43,Plansza,Plansza,0,0,0,,{\fs60\frz270\pos(1122,526)}Jakby nie było go ani krzty,
 Comment: 0,0:02:34.74,0:02:34.76,Default,JP,0,0,0,,およそ体重と呼べるものが\N全くと言っていいほど
 Dialogue: 0,0:02:34.76,0:02:37.62,Dialog,JP,0,0,0,,Praktycznie nie posiadała niczego, co można by nazwać wagą.
 Dialogue: 0,0:02:37.82,0:02:39.08,Dialog,JP,0,0,0,,Nie istniało.
@@ -219,8 +222,8 @@ Comment: 0,0:04:37.78,0:04:41.20,Default,JP,0,0,0,,（阿良々木）\Nいいん
 Dialogue: 0,0:04:41.57,0:04:44.95,Dialog,JP,0,0,0,,Nadal mówisz w taki nieprzyjemny sposób, Araragi?
 Comment: 0,0:04:45.49,0:04:48.12,Default,JP,0,0,0,,ひねてるっていうか フフッ
 Dialogue: 0,0:04:45.49,0:04:48.12,Dialog,JP,0,0,0,,To dosyć cyniczne podejście.
-Dialogue: 0,0:04:51.27,0:04:51.44,Plansza,,0,0,0,,{\pos(1034,552)}Hanekawa
-Dialogue: 0,0:04:51.44,0:04:51.65,Plansza Blue Yellow,,0,0,0,,{\pos(970,686)}Tsubasa
+Dialogue: 0,0:04:51.27,0:04:51.44,Plansza,Plansza,0,0,0,,{\pos(1034,552)}Hanekawa
+Dialogue: 0,0:04:51.44,0:04:51.65,Plansza Blue Yellow,Plansza,0,0,0,,{\pos(970,686)}Tsubasa
 Comment: 0,0:04:53.88,0:04:56.75,Default,JP,0,0,0,,（阿良々木）\N羽川翼(つばさ) クラスの委員長
 Dialogue: 0,0:04:53.56,0:04:55.36,Dialog,JP,0,0,0,,Tsubasa Hanekawa
 Dialogue: 0,0:04:55.36,0:04:56.73,Dialog,JP,0,0,0,,Przewodnicąca klasy
@@ -352,7 +355,7 @@ Dialogue: 0,0:07:58.85,0:08:02.48,Dialog,JP,0,0,0,,Słyszałam rózne rozmowy na
 Comment: 0,0:08:02.57,0:08:03.40,Default,JP,0,0,0,,（阿良々木）話って？
 Dialogue: 0,0:08:02.57,0:08:03.40,Dialog,JP,0,0,0,,Rozmowy?
 Comment: 0,0:08:04.28,0:08:07.61,Default,JP,0,0,0,,（羽川）\Nすごく人当たりのいい\Nいい人だって話
-Dialogue: 0,0:08:04.28,0:08:07.61,Dialog,JP,0,0,0,,Że jest bardzo kulturalna i miła osobą.
+Dialogue: 0,0:08:04.28,0:08:07.61,Dialog,JP,0,0,0,,Że jest bardzo kulturalną i miła osobą.
 Comment: 0,0:08:08.24,0:08:11.91,Default,JP,0,0,0,,何かお父さんが外資系の企業の\Nお偉いさんらしくて
 Dialogue: 0,0:08:08.24,0:08:11.91,Dialog,JP,0,0,0,,Najwyraźniej jej Ojciec jest wysoko\N postawiony w jakiejś firmie zagranicznej.
 Comment: 0,0:08:11.99,0:08:13.78,Default,JP,0,0,0,,お家(うち)も すごい豪邸で
@@ -531,7 +534,7 @@ Dialogue: 0,0:11:22.60,0:11:25.23,Dialog,JP,0,0,0,,Jęsli ją obiecasz,
 Comment: 0,0:11:25.60,0:11:28.31,Default,JP,0,0,0,,２回 うなずいてちょうだい\N阿良々木くん
 Dialogue: 0,0:11:25.60,0:11:28.31,Dialog,JP,0,0,0,,Kiwnij 2 razy, Araragi.
 Comment: 0,0:11:28.94,0:11:32.32,Default,JP,0,0,0,,それ以外の動作は停止であれ\N敵対行為とみなして
-Dialogue: 0,0:11:28.94,0:11:32.32,Dialog,JP,0,0,0,,Każdy inny ruch, będzie uważane za wrogie,
+Dialogue: 0,0:11:28.94,0:11:32.32,Dialog,JP,0,0,0,,Każdy inny ruch, będzie uważany za wrogi,
 Comment: 0,0:11:33.23,0:11:34.90,Default,JP,0,0,0,,即座に攻撃に移るわ
 Dialogue: 0,0:11:33.23,0:11:34.90,Dialog,JP,0,0,0,,Przejde wtedy od razu do ofensywy.
 Dialogue: 0,0:11:35.28,0:11:36.24,Default,JP,0,0,0,,（阿良々木）うっ うっ
@@ -624,7 +627,7 @@ Dialogue: 0,0:13:54.29,0:13:57.67,Dialog,JP,0,0,0,,Nie żartuj sobie. Nic nie mo
 Comment: 0,0:13:58.17,0:14:00.97,Default,JP,0,0,0,,黙って気を払わないで\Nいてくれたら それでいいの
 Dialogue: 0,0:13:58.17,0:14:00.97,Dialog,JP,0,0,0,,Jeśli będziesz cicho i nie będziesz się o mnie martwić, to wszystko czego potrzebuje.
 Comment: 0,0:14:01.47,0:14:03.93,Default,JP,0,0,0,,優しさも敵対行為と見なすわよ
-Dialogue: 0,0:14:01.47,0:14:03.93,Dialog,JP,0,0,0,,Życzliwość będę uważała również za wrogi akt.
+Dialogue: 0,0:14:01.47,0:14:03.93,Dialog,JP,0,0,0,,Życzliwość będę uważana również za wrogi akt.
 Dialogue: 0,0:14:06.55,0:14:07.39,Default,JP,0,0,0,,あっ
 Comment: 0,0:14:16.52,0:14:17.48,Default,JP,0,0,0,,傷が…
 Dialogue: 0,0:14:16.52,0:14:17.48,Dialog,JP,0,0,0,,Rana...
@@ -656,6 +659,7 @@ Dialogue: 0,0:14:47.26,0:14:49.56,Dialog,JP,0,0,0,,To dojrzały facet po trzydzi
 Dialogue: 0,0:14:50.01,0:14:50.89,Default,JP,0,0,0,,（戦場ヶ原）あっそ
 Comment: 0,0:14:51.02,0:14:54.31,Default,JP,0,0,0,,でも 子供のころは さぞかし\N萌えキャラだったのでしょうね
 Dialogue: 0,0:14:51.04,0:14:54.31,Dialog,JP,0,0,0,,Ale założę się, że jako dziecko był idealną postacią typu {\i1}moe{\i0}.
+Dialogue: 0,0:14:51.04,0:14:54.31,Kimi no shiranai monogatari,JP,0,0,0,,{\fs50\pos(1806,56)}Moe (萌え) japońskie slangowe określenie reakcji emocjonalnej lub miłości – wzbudzanej przez postacie fikcyjne
 Comment: 0,0:14:54.81,0:14:57.23,Default,JP,0,0,0,,（阿良々木）\Nそういう目で生身の人物を見るな
 Dialogue: 0,0:14:54.81,0:14:57.23,Dialog,JP,0,0,0,,Nie patrz tak na żywch ludzi.
 Comment: 0,0:14:57.73,0:15:00.57,Default,JP,0,0,0,,ていうか お前 萌えとかキャラとか\N分かるヤツなのか？
@@ -672,8 +676,10 @@ Comment: 0,0:15:01.23,0:15:03.44,Default,JP,0,0,0,,これしき 一般教養の�
 Dialogue: 0,0:15:01.23,0:15:03.44,Dialog,JP,0,0,0,,To wiedza ogólna,
 Comment: 0,0:15:03.78,0:15:06.95,Default,JP,0,0,0,,私みたいなキャラのことを\Nツンデレっていうんでしょう？
 Dialogue: 0,0:15:03.78,0:15:06.95,Dialog,JP,0,0,0,,Takich jak ja nazywa się tsundere.
+Dialogue: 0,0:15:03.78,0:15:06.95,Kimi no shiranai monogatari,JP,0,0,0,,{\fs50\pos(1584,56)}Tsundere(ツンデレ) chłodną uczuciowo postać ale która w pewnym momencie zmienia się w ciepłą,
 Comment: 0,0:15:08.20,0:15:10.95,Default,JP,0,0,0,,（阿良々木）\Nお前みたいなキャラは\Nツンドラって感じだ
-Dialogue: 0,0:15:08.20,0:15:10.95,Dialog,JP,0,0,0,,Takich jak ty raczej nazywa się Tsundora.
+Dialogue: 0,0:15:08.20,0:15:10.95,Dialog,JP,0,0,0,,Takich jak ty raczej nazywa się {\i1}Tsundora{\i0}.
+Dialogue: 0,0:15:08.20,0:15:10.95,Kimi no shiranai monogatari,JP,0,0,0,,{\fs50\pos(1430,68)}{\i1}Tsundora{\i0} (ツンドラ) Postać, podobna do {\i1}Tsundere{\i0} lecz poważniejsza i chłodniejsza postać
 Comment: 0,0:15:21.88,0:15:26.43,Default,JP,0,0,0,,（戦場ヶ原）\Nお尻が痛いわ ジンジンする\Nスカートにしわが寄っちゃったし
 Dialogue: 0,0:15:21.88,0:15:26.43,Dialog,JP,0,0,0,,Boli mnie tyłek, mrowi, a spódnica jest pognieciona.
 Comment: 0,0:15:26.55,0:15:27.72,Default,JP,0,0,0,,（阿良々木）僕の責任じゃない
@@ -723,7 +729,7 @@ Dialogue: 0,0:16:34.74,0:16:35.79,Dialog,JP,0,0,0,,Ty...
 Comment: 0,0:16:36.20,0:16:37.66,Default,JP,0,0,0,,勘違いしないでね
 Dialogue: 0,0:16:36.20,0:16:37.66,Dialog,JP,0,0,0,,Nie zrozum mnie źle,
 Comment: 0,0:16:38.00,0:16:41.17,Default,JP,0,0,0,,別に私は あなたに\N気を許したというわけではないのよ
-Dialogue: 0,0:16:38.00,0:16:41.17,Dialog,JP,0,0,0,,Nie szczególnie starciłam przy tobie czujność.
+Dialogue: 0,0:16:38.00,0:16:41.17,Dialog,JP,0,0,0,,Nie szczególnie starciłam przy tobie czujności.
 Comment: 0,0:16:42.00,0:16:43.96,Default,JP,0,0,0,,（阿良々木）\N気を許したわけではないって…
 Dialogue: 0,0:16:42.00,0:16:43.96,Dialog,JP,0,0,0,,Nie straciłaś....
 Comment: 0,0:16:44.21,0:16:48.22,Default,JP,0,0,0,,（戦場ヶ原）\Nいいこと？ もしも 私から\N１分おきに連絡が なかったら
@@ -774,7 +780,7 @@ Dialogue: 0,0:17:46.75,0:17:51.84,Znak,,0,0,0,,{\frz270\pos(1834,350)}Takie tam 
 Dialogue: 0,0:17:46.75,0:17:51.84,Znak,,0,0,0,,{\frz270\pos(546,532)}robienie ○○ i bycie poddawanym ○○
 Dialogue: 0,0:17:48.67,0:17:48.88,Znak,,0,0,0,,{\frz270\pos(1706,352)}i owakie też
 Dialogue: 0,0:17:48.88,0:17:51.67,Znak,,0,0,0,,{\frz0\pos(274,882)}* Personel zjadł to\N później ze smakiem.
-Dialogue: 0,0:17:46.75,0:17:51.84,Znak,,0,0,0,,{\frz270\pos(684,378)}Ilustracja przedstawiająca, 
+Dialogue: 0,0:17:46.75,0:17:51.84,Znak,,0,0,0,,{\frz270\pos(684,378)}Ilustracja przedstawiająca,
 Comment: 0,0:17:44.77,0:17:47.94,Default,JP,0,0,0,,（戦場ヶ原）\N不死身って便利そうね\Nって言われたら傷つく？
 Dialogue: 0,0:17:44.77,0:17:47.94,Dialog,JP,0,0,0,,Obraziłbyś się, gdyby ktoś powiedział\N że nieśmiertelność jest wygodna?
 Comment: 0,0:17:48.23,0:17:50.03,Default,JP,0,0,0,,（阿良々木）\N今は そうでもない
@@ -845,6 +851,7 @@ Comment: 0,0:19:18.49,0:19:21.12,Default,JP,0,0,0,,う… センジョーガハ�
 Dialogue: 0,0:19:18.49,0:19:21.12,Dialog,JP,0,0,0,,U... WIELMOŻNA SENJOUGAHARA...
 Comment: 0,0:19:21.62,0:19:25.08,Default,JP,0,0,0,,カタカナ発音は いただけないわ\Nちゃんと言いなさい
 Dialogue: 0,0:19:21.62,0:19:25.08,Dialog,JP,0,0,0,,Nie znoszę wymowy w katakanie. Spróbuj powiedzieć to pożądnie.
+Dialogue: 0,0:19:21.62,0:19:27.02,Kimi no shiranai monogatari,JP,0,0,0,,{\fs50\pos(1878,64)}Chodzi o zwrot Chanto itte (ちゃんと言って), które oznacza "Powiedz to wyraźnie" ale może też znaczyć powiedz -chan
 Comment: 0,0:19:25.62,0:19:26.96,Default,JP,0,0,0,,戦場ヶ原ちゃん
 Dialogue: 0,0:19:25.62,0:19:26.96,Dialog,JP,0,0,0,,Senjougahara-chan...
 Dialogue: 0,0:19:27.02,0:19:27.81,Plansza black,,0,0,0,,{\fs40\pos(1342,124)}Prawe ucho
@@ -894,6 +901,7 @@ Comment: 0,0:20:07.79,0:20:10.50,Default,JP,0,0,0,,（阿良々木）\Nへえ �
 Dialogue: 0,0:20:07.79,0:20:10.50,Dialog,JP,0,0,0,,Hee... imie, niby jakie?
 Comment: 0,0:20:11.08,0:20:13.09,Default,JP,0,0,0,,“忍野忍(しのぶ)”と名付けてみた
 Dialogue: 0,0:20:11.08,0:20:13.09,Dialog,JP,0,0,0,,Ma na imie Shinobu Oshino.
+Dialogue: 0,0:20:11.08,0:20:13.09,przypis,JP,0,0,0,,{\fs50}Chodzi o zapis imienia 忍 zapisanym znakiami 刃 i 心 znaczącymi ostrze i serce zapisane jedno pod drugim nawiązując do poprzeniego imienia Shinobu
 Comment: 0,0:20:13.96,0:20:17.38,Default,JP,0,0,0,,“刃(やいば)の下に心あり”\N彼女らしい いい名前だろ？
 Dialogue: 0,0:20:13.96,0:20:17.38,Dialog,JP,0,0,0,,"serce po ostrzem" do niej pasuje.
 Comment: 0,0:20:17.84,0:20:20.09,Default,JP,0,0,0,,名字は僕のを\Nそのまま流用させてもらった
@@ -928,7 +936,7 @@ Dialogue: 0,0:20:57.59,0:21:01.47,Dialog,JP,0,0,0,,Hahaha... Panienko, jesteś b
 Comment: 0,0:21:01.55,0:21:03.43,Default,JP,0,0,0,,何か いいことでも あったのかい？
 Dialogue: 0,0:21:01.55,0:21:03.43,Dialog,JP,0,0,0,,Co fajnego ci się wydarzyło?
 Comment: 0,0:21:03.97,0:21:08.02,Default,JP,0,0,0,,まあ 何にせよ話してくれないと\N話は先に進まないかな
-Dialogue: 0,0:21:03.97,0:21:08.02,Dialog,JP,0,0,0,,żebyśmy mogli mówić dalej musisz opowiedzieć co się stało,
+Dialogue: 0,0:21:03.97,0:21:08.02,Dialog,JP,0,0,0,,żebyśmy mogli mówić dalej musisz opowiedzieć mi co się stało,
 Comment: 0,0:21:08.23,0:21:10.06,Default,JP,0,0,0,,秘密は厳守するから 平気 平気
 Dialogue: 0,0:21:08.23,0:21:10.06,Dialog,JP,0,0,0,,Twoja tajemnica pozostanie ze mną, więc spokojnie.
 Comment: 0,0:21:10.52,0:21:13.94,Default,JP,0,0,0,,（阿良々木）\Nあっ ああ まず\N僕が簡単に説明すると
@@ -1040,11 +1048,11 @@ Dialogue: 0,0:23:53.45,0:23:53.66,Plansza Green,,0,0,0,,{\fs50\pos(962,738)}Krab
 Dialogue: 0,0:23:53.66,0:23:54.96,Plansza,,0,0,0,,{\pos(1208,134)}Ciągl dalszy
 Dialogue: 0,0:23:53.66,0:23:54.96,Plansza,,0,0,0,,{\pos(1218,458)}Nastąpi
 Comment: 0,0:23:55.23,0:24:01.23,Default,JP,0,0,0,,♪〜
-Dialogue: 0,0:24:12.90,0:24:16.04,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Tam jest Deneb, Altair i Wega"
+Dialogue: 0,0:24:12.90,0:24:16.04,Kimi no shiranai monogatari,,0,0,0,,{\blur5}"Tam jest Deneb, Altair i Wega"
 Dialogue: 0,0:24:16.04,0:24:19.04,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Wskazałeś Letni Trójkąt
 Dialogue: 0,0:24:19.04,0:24:24.78,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Patrzę w niebo, przypominając to sobie
-Dialogue: 0,0:24:24.78,0:24:27.62,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Wreszcie odnalazłam Orihime
-Dialogue: 0,0:24:27.62,0:24:30.62,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Ale gdzie jest Hikoboshi?
+Dialogue: 0,0:24:24.78,0:24:27.62,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Wreszcie odnalazłam Orihime-Sama
+Dialogue: 0,0:24:27.62,0:24:30.62,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Ale gdzie jest Hikoboshi-Sama?
 Dialogue: 0,0:24:30.62,0:24:38.82,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Tak zostaję całkiem sama
 Dialogue: 0,0:24:38.82,0:24:45.08,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Patrzyłam w górę z ciemnego świata
 Dialogue: 0,0:24:45.08,0:24:51.90,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Z nocnego nieba zdawały się spadać gwiazdy
