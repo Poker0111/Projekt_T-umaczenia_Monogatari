@@ -16,9 +16,9 @@ Video File: ../../../filmy i seriale/Seriale dla dekeneratów/化物語(2009)/�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 207
-Active Line: 241
-Video Position: 11515
+Scroll Position: 325
+Active Line: 345
+Video Position: 14812
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -281,63 +281,121 @@ Comment: 0,0:07:54.52,0:07:55.98,Default,,0,0,0,,ズルしているわけでも\
 Dialogue: 0,0:07:54.52,0:07:55.98,Dialog,,0,0,0,,Nie oszukam cię ani nic takiego.
 Dialogue: 0,0:07:56.81,0:07:59.73,Dialog,,0,0,0,,Nic złego... co...
 Comment: 0,0:08:00.23,0:08:02.36,Default,,0,0,0,,（阿良々木）だろ？\N（戦場ヶ原）まあ そうね
+Dialogue: 0,0:08:00.23,0:08:00.63,Dialog,,0,0,0,,Widzisz?
+Dialogue: 0,0:08:00.67,0:08:02.36,Dialog,,0,0,0,,Możliwe.
 Comment: 0,0:08:03.40,0:08:04.23,Default,,0,0,0,,でも…
+Dialogue: 0,0:08:03.40,0:08:04.23,Dialog,,0,0,0,,Lecz...
 Comment: 0,0:08:05.11,0:08:06.24,Default,,0,0,0,,ズルは しているかも
+Dialogue: 0,0:08:05.11,0:08:06.24,Dialog,,0,0,0,,Nadal może mnie oszukiwać
 Comment: 0,0:08:06.61,0:08:07.99,Default,,0,0,0,,（阿良々木）え？\N（戦場ヶ原）何でもないわ
+Dialogue: 0,0:08:06.59,0:08:06.63,Default,,0,0,0,,（阿良々木）え？
+Dialogue: 0,0:08:07.34,0:08:08.26,Dialog,,0,0,0,,Nic takiego.
 Comment: 0,0:08:12.28,0:08:14.87,Default,,0,0,0,,（戦場ヶ原）\Nねえ 阿良々木くん\N１つ聞いていい？
+Dialogue: 0,0:08:12.28,0:08:14.87,Dialog,,0,0,0,,Hej, Araragi mogę zadać ci jedno pytanie?
 Comment: 0,0:08:15.58,0:08:18.08,Default,,0,0,0,,月の模様みたいって\Nどういうこと？
+Dialogue: 0,0:08:15.58,0:08:18.08,Dialog,,0,0,0,,Co miałeś na myśli mówiąc o „wzorze na księżycu"?
 Comment: 0,0:08:18.16,0:08:19.75,Default,,0,0,0,,（阿良々木）え？ 何の話だ？
+Dialogue: 0,0:08:18.16,0:08:19.75,Dialog,,0,0,0,,E? O czym ty mówisz?
 Comment: 0,0:08:19.83,0:08:22.13,Default,,0,0,0,,（戦場ヶ原）\N言っていたじゃないの 忍野さんに
+Dialogue: 0,0:08:19.83,0:08:22.13,Dialog,,0,0,0,,Przecież mówiłeś tak u Oshino.
 Comment: 0,0:08:22.50,0:08:24.75,Default,,0,0,0,,ほら 月の模様って 日本からだと
+Dialogue: 0,0:08:22.50,0:08:24.75,Dialog,,0,0,0,,Widzisz, wzory na księżcu z Japonii...
 Comment: 0,0:08:25.34,0:08:27.26,Default,,0,0,0,,うさぎが 餅をついているように\N見えるけれど
+Dialogue: 0,0:08:25.34,0:08:27.26,Dialog,,0,0,0,,Przypominają królika ubijającego Mochi.
 Comment: 0,0:08:27.88,0:08:29.63,Default,,0,0,0,,海外からだと 蟹(かに)だったり
+Dialogue: 0,0:08:27.88,0:08:29.63,Dialog,,0,0,0,,za granicą już widzą kraba...
 Comment: 0,0:08:29.84,0:08:32.01,Default,,0,0,0,,美人の横顔だったりする\Nっていうから
+Dialogue: 0,0:08:29.84,0:08:32.01,Dialog,,0,0,0,,...albo profil pięknej kobiety.
 Comment: 0,0:08:32.43,0:08:34.10,Default,,0,0,0,,（戦場ヶ原）へえ そうなんだ
+Dialogue: 0,0:08:32.43,0:08:34.10,Dialog,,0,0,0,,Hee. Rozumiem.
 Comment: 0,0:08:34.18,0:08:36.77,Default,,0,0,0,,そんなくだらないことを\Nよく知っているわね
+Dialogue: 0,0:08:34.18,0:08:36.77,Dialog,,0,0,0,,Znasz się na takich trywialnych rzeczach, nieprawdzasz?
 Comment: 0,0:08:36.89,0:08:39.98,Default,,0,0,0,,生まれて初めて\Nあなたに感心したわ
+Dialogue: 0,0:08:36.89,0:08:39.98,Dialog,,0,0,0,,Po raz pierwszy raz w życiu jestem podwrażeniem twojej osoby.
 Comment: 0,0:08:40.06,0:08:40.98,Default,,0,0,0,,（阿良々木）なあに
+Dialogue: 0,0:08:40.06,0:08:40.98,Dialog,,0,0,0,,Cóż...
 Comment: 0,0:08:41.06,0:08:44.23,Default,,0,0,0,,僕は 天文学や宇宙科学には\N詳しいんだよ
-Comment: 0,0:08:44.44,0:08:47.65,Default,,0,0,0,,（戦場ヶ原）\Nいいのよ\N私の前では格好つけなくとも
+Dialogue: 0,0:08:41.06,0:08:44.23,Dialog,,0,0,0,,Mam sporą wiedze na temat astronomii oraz naukach o kosmosie.
+Dialogue: 0,0:08:44.44,0:08:47.65,Dialog,,0,0,0,,Nie szkodzi. Przede mną nie musisz udawać fajnego.
 Comment: 0,0:08:47.74,0:08:50.40,Default,,0,0,0,,どうせ それ以外は\N何も知らないんでしょう？
+Dialogue: 0,0:08:47.74,0:08:50.40,Dialog,,0,0,0,,I tak pewnie nie wiesz nic po za tym.
 Comment: 0,0:08:50.53,0:08:52.32,Default,,0,0,0,,言葉の暴力って知ってるか
+Dialogue: 0,0:08:50.53,0:08:52.32,Dialog,,0,0,0,,Wiesz może czym jest „przemoc słowana"?
 Comment: 0,0:08:52.70,0:08:55.37,Default,,0,0,0,,（戦場ヶ原）\Nなら 言葉の警察を呼びなさいよ
+Dialogue: 0,0:08:52.70,0:08:55.37,Dialog,,0,0,0,,Więc zadzwoń na „policje słowną".
 Comment: 0,0:08:56.08,0:08:57.37,Default,,0,0,0,,お前…
+Dialogue: 0,0:08:56.08,0:08:57.37,Dialog,,0,0,0,,Ty...
 Comment: 0,0:08:57.45,0:09:00.92,Default,,0,0,0,,実は 自慢の肉体を\N僕に見せびらかしたいだけなのか？
+Dialogue: 0,0:08:57.45,0:09:00.92,Dialog,,0,0,0,,Czy chcesz się przede mną popisać swoją dumną sylwetką?
 Comment: 0,0:09:01.00,0:09:03.92,Default,,0,0,0,,（戦場ヶ原）\N自慢の肉体だなんて\Nそんなに うぬぼれていないわ
+Dialogue: 0,0:09:01.00,0:09:03.92,Dialog,,0,0,0,,Nie jestem aż tak zarozumiała, by zachwycać się własnym ciałem.
 Comment: 0,0:09:04.46,0:09:08.05,Default,,0,0,0,,服を着るのは得意じゃないの\N重たいのよ
+Dialogue: 0,0:09:04.46,0:09:08.05,Dialog,,0,0,0,,Nie przepadam za noszeniem ubrań. Są dla mnie strasznie ciężkie.
 Comment: 0,0:09:08.34,0:09:09.17,Default,,0,0,0,,あ…
+Dialogue: 0,0:09:08.34,0:09:09.17,Dialog,,0,0,0,,A...
 Comment: 0,0:09:09.76,0:09:12.76,Default,,0,0,0,,（戦場ヶ原）\Nけれど 意外と学があるのね\N阿良々木くん
+Dialogue: 0,0:09:09.76,0:09:12.76,Dialog,,0,0,0,,Mimo wszystko jesteś zaskakująco wyedukowany, Araragi.
 Comment: 0,0:09:12.84,0:09:14.10,Default,,0,0,0,,びっくりしたわ
+Dialogue: 0,0:09:12.84,0:09:14.10,Dialog,,0,0,0,,Jestem zaskoczona.
 Comment: 0,0:09:14.26,0:09:17.97,Default,,0,0,0,,ひょっとしたら 頭の中に脳みそが\N入っているのかもしれないわね
+Dialogue: 0,0:09:14.26,0:09:17.97,Dialog,,0,0,0,,Możliwe, że jednak jesteś w posiadaniu mózgu.
 Comment: 0,0:09:18.06,0:09:18.89,Default,,0,0,0,,（阿良々木）当たり前だろ
+Dialogue: 0,0:09:18.06,0:09:18.89,Dialog,,0,0,0,,Oczywiście.
 Comment: 0,0:09:19.27,0:09:20.23,Default,,0,0,0,,（戦場ヶ原）当たり前って…
+Dialogue: 0,0:09:19.27,0:09:20.23,Dialog,,0,0,0,,Oczywiste...
 Comment: 0,0:09:20.81,0:09:22.65,Default,,0,0,0,,あなたのような生物(せいぶつ)の頭蓋骨に
+Dialogue: 0,0:09:20.81,0:09:22.65,Dialog,,0,0,0,,Pomyśleć, że w czaszce takie żywej istoty jak ty...
 Comment: 0,0:09:23.23,0:09:25.23,Default,,0,0,0,,脳みそが入っているというのは
+Dialogue: 0,0:09:23.23,0:09:25.23,Dialog,,0,0,0,,Może znajdować się mózg.
 Comment: 0,0:09:25.31,0:09:28.36,Default,,0,0,0,,それはそれは\Nもう奇跡のような出来事なのよ？
+Dialogue: 0,0:09:25.31,0:09:28.36,Dialog,,0,0,0,,To doprawdy... zdarzenie zakrawające na cud, nie uważasz?
 Comment: 0,0:09:28.73,0:09:31.74,Default,,0,0,0,,お前 僕の頭がすごく悪い\Nと思っているだろう
+Dialogue: 0,0:09:28.73,0:09:31.74,Dialog,,0,0,0,,To bardzo niemiłe, że tak myślisz o mojej głowie.
 Comment: 0,0:09:32.07,0:09:33.91,Default,,0,0,0,,あっ！ なぜ気付いたの？
+Dialogue: 0,0:09:32.07,0:09:33.91,Dialog,,0,0,0,,A!? Jak to zauważyłeś?
 Comment: 0,0:09:34.87,0:09:36.16,Default,,0,0,0,,真顔で驚かれた！
+Dialogue: 0,0:09:34.87,0:09:36.16,Dialog,,0,0,0,,Masz to wypisane na twarzy!
 Comment: 0,0:09:38.33,0:09:40.33,Default,,0,0,0,,私のせいで 阿良々木くんが
+Dialogue: 0,0:09:38.33,0:09:40.33,Dialog,,0,0,0,,To moja wina Araragi...
 Comment: 0,0:09:40.41,0:09:43.54,Default,,0,0,0,,自分の頭のお粗末さ加減に\N気付いてしまった
+Dialogue: 0,0:09:40.41,0:09:43.54,Dialog,,0,0,0,,Przeze mnie Araragi zdał sobie sprawę, jak marny jest jego własny umysł.
 Comment: 0,0:09:43.62,0:09:44.67,Default,,0,0,0,,責任を感じるわ
-Comment: 0,0:09:45.00,0:09:46.59,Default,,0,0,0,,おい ちょっと待て
-Comment: 0,0:09:46.67,0:09:49.63,Default,,0,0,0,,僕は そんな深刻なレベルの\N頭の悪さなのか？
+Dialogue: 0,0:09:43.62,0:09:44.67,Dialog,,0,0,0,,Poczułam się odpowiedzialna.
+Comment: 0,0:09:45.00,0:09:46.59,Dialog,,0,0,0,,おい ちょっと待て
+Dialogue: 0,0:09:45.00,0:09:46.59,Dialog,,0,0,0,,Ej, poczekaj chwile
+Dialogue: 0,0:09:44.73,0:09:49.69,Dialog,,0,0,0,,Czy jestem aż tak głupi?
 Comment: 0,0:09:49.96,0:09:52.38,Default,,0,0,0,,偏差値チェック 私 74
+Dialogue: 0,0:09:49.96,0:09:52.38,Dialog,,0,0,0,,Sprawdźmy ranking: Ja mam 74.
 Comment: 0,0:09:52.80,0:09:54.64,Default,,0,0,0,,くっ… 僕 46
+Dialogue: 0,0:09:52.80,0:09:54.64,Dialog,,0,0,0,,Krcze... 46
 Comment: 0,0:09:54.89,0:09:56.35,Default,,0,0,0,,四捨五入すればゼロね
+Dialogue: 0,0:09:54.89,0:09:56.35,Dialog,,0,0,0,,Jak zaokrąglisz wyjdzie zero.
 Comment: 0,0:09:56.89,0:09:58.76,Default,,0,0,0,,はあ？ ウソつけ ６だから…
+Dialogue: 0,0:09:56.89,0:09:58.76,Dialog,,0,0,0,,Ha? Kłamiesz! jest 6 na kończu.
 Comment: 0,0:09:59.81,0:10:02.98,Default,,0,0,0,,（阿良々木）\Nあっ！ お前 さては十の位を！
+Dialogue: 0,0:09:59.81,0:10:02.98,Dialog,,0,0,0,,A! Ty zaokrągliłaś cyfrę dziesiątek!
 Comment: 0,0:10:03.06,0:10:05.44,Default,,0,0,0,,僕の偏差値に何てことするんだ！
+Dialogue: 0,0:10:03.06,0:10:05.44,Dialog,,0,0,0,,Co ty wyrabiasz z moimi wynikami?!
 Comment: 0,0:10:05.52,0:10:08.57,Default,,0,0,0,,（戦場ヶ原）\N100… 差をつけないと\N勝った気がしないのよ
+Dialogue: 0,0:10:05.52,0:10:08.57,Dialog,,0,0,0,,100... nie czuje się wygraną gdy nie prowadze.
 Comment: 0,0:10:08.65,0:10:10.44,Default,,0,0,0,,（阿良々木）\N自分の数値も十の位を…
+Dialogue: 0,0:10:08.65,0:10:10.44,Dialog,,0,0,0,,Swoje też pewnie tak zaokrągliłaś...
 Comment: 0,0:10:11.74,0:10:14.03,Default,,0,0,0,,うん　決めたわ
+Dialogue: 0,0:10:11.74,0:10:14.03,Dialog,,0,0,0,,Tak, zdecydowałam.
 Comment: 0,0:10:15.78,0:10:17.70,Default,,0,0,0,,（戦場ヶ原）\Nもしも 全てがうまくいったら
+Dialogue: 0,0:10:15.78,0:10:17.70,Dialog,,0,0,0,,Jeśli wszytko pójdzie zgodnie z planem...
+Dialogue: 0,0:10:17.78,0:10:19.87,Dialog,,0,0,0,,Może by tak pojechać do Hokkaido zjeść kraba?
 Comment: 0,0:10:17.78,0:10:19.87,Default,,0,0,0,,北海道へ蟹を食べにいきましょう
 Comment: 0,0:10:19.95,0:10:22.12,Default,,0,0,0,,（阿良々木）\Nまあ いいんじゃないのか？
+Dialogue: 0,0:10:19.95,0:10:22.12,Dialog,,0,0,0,,No cóż, brzmi git.
 Comment: 0,0:10:22.37,0:10:23.46,Default,,0,0,0,,（戦場ヶ原）あなたも行くのよ
+Dialogue: 0,0:10:22.37,0:10:23.46,Dialog,,0,0,0,,Ty też jedziesz.
 Comment: 0,0:10:23.62,0:10:24.46,Default,,0,0,0,,（阿良々木）なんで？
+Dialogue: 0,0:10:23.62,0:10:24.46,Dialog,,0,0,0,,Dlaczego?
 Comment: 0,0:10:24.96,0:10:26.71,Default,,0,0,0,,（戦場ヶ原）\Nあら 知らなかったの？
+Dialogue: 0,0:10:24.96,0:10:26.71,Dialog,,0,0,0,,A, nie wiesz?
 Comment: 0,0:10:27.88,0:10:30.67,Default,,0,0,0,,蟹って とってもおししいのよ
+Dialogue: 0,0:10:27.88,0:10:30.67,Dialog,,0,0,0,,Kraby są przepyszne.
 Comment: 0,0:10:53.19,0:10:54.03,Default,,0,0,0,,あっ
 Comment: 0,0:10:57.45,0:10:58.37,Default,,0,0,0,,（戦場ヶ原）え…
 Comment: 0,0:11:01.04,0:11:04.08,Default,,0,0,0,,（戦場ヶ原）\N忍野さんって\N神職の方だったんですか？
