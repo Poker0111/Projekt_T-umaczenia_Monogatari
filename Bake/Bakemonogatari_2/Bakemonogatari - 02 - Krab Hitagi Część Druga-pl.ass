@@ -16,9 +16,9 @@ Video File: ../../../filmy_seriale/Seriale dla dekeneratów/化物語(2009)/化�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 376
-Active Line: 409
-Video Position: 17550
+Scroll Position: 518
+Active Line: 558
+Video Position: 23474
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -458,75 +458,145 @@ Dialogue: 0,0:12:18.74,0:12:20.41,Dialog,,0,0,0,,jej ciężar.
 Comment: 0,0:12:21.03,0:12:21.91,Default,,0,0,0,,（忍野）多分ね
 Dialogue: 0,0:12:21.03,0:12:21.91,Dialog,,0,0,0,,Możliwe.
 Comment: 0,0:12:22.45,0:12:26.91,Default,,0,0,0,,切実な人間の頼みを断るほど\N彼らは頑(かたく)なじゃないさ
+Dialogue: 0,0:12:22.45,0:12:26.91,Dialog,,0,0,0,,Nie są tak bardzo uparci gdy ktoś rozpaczliwie się uprasza.
 Comment: 0,0:12:27.00,0:12:30.71,Default,,0,0,0,,それに神様っていうのは\N結構 大ざっぱな連中なんだ
+Dialogue: 0,0:12:27.00,0:12:30.71,Dialog,,0,0,0,,Lecz poza tym są niedrobiazgowqymi bóstwami.
 Comment: 0,0:12:31.08,0:12:32.38,Default,,0,0,0,,（阿良々木）大ざっぱって？
+Dialogue: 0,0:12:31.08,0:12:32.38,Dialog,,0,0,0,,Niedrobiazgowymi?
 Comment: 0,0:12:32.92,0:12:35.92,Default,,0,0,0,,（忍野）\N人間 個々人のことなんて\Nどうでもいいんだよ
+Dialogue: 0,0:12:32.92,0:12:35.92,Dialog,,0,0,0,,Mają gdzieś pojedyncze jednostki.
 Comment: 0,0:12:36.01,0:12:37.30,Default,,0,0,0,,実際 神様の前じゃ
+Dialogue: 0,0:12:36.01,0:12:37.30,Dialog,,0,0,0,,Praktycznie dla Bogów...
+Dialogue: 0,0:12:37.38,0:12:41.01,Dialog,,0,0,0,,Nie oróżniają nas ze względem wiek, płeć czy wagę.
 Comment: 0,0:12:37.38,0:12:41.01,Default,,0,0,0,,僕ら３人 年齢も性別も重みも\N区別なんかつかないよ
 Comment: 0,0:12:41.51,0:12:44.31,Default,,0,0,0,,（戦場ヶ原）ねえ あの蟹は
+Dialogue: 0,0:12:41.51,0:12:44.31,Dialog,,0,0,0,,Powiedz... czy ten krab...
 Comment: 0,0:12:44.39,0:12:46.14,Default,,0,0,0,,今も 私のそばにいますか？
+Dialogue: 0,0:12:44.39,0:12:46.14,Dialog,,0,0,0,,Również teraz, jest przy mnie?
 Comment: 0,0:12:47.60,0:12:51.23,Default,,0,0,0,,そう そこにいるし どこにでもいる
+Dialogue: 0,0:12:47.60,0:12:51.23,Dialog,,0,0,0,,Ta, jest tu, lecz również jest wszędzie.
 Comment: 0,0:12:51.90,0:12:54.52,Default,,0,0,0,,ただし ここに\N降りてきてもらうためには
+Dialogue: 0,0:12:51.90,0:12:54.52,Dialog,,0,0,0,,Lecz żeby chciał przyjść...
 Comment: 0,0:12:54.69,0:12:56.57,Default,,0,0,0,,（忍野）手順が必要だけどね\N（戦場ヶ原）あ…
+Dialogue: 0,0:12:54.69,0:12:55.87,Dialog,,0,0,0,,Wymagana jest procedura.
 Comment: 0,0:13:06.33,0:13:08.25,Default,,0,0,0,,（忍野）２人とも 目を伏せて
+Dialogue: 0,0:13:06.33,0:13:08.25,Dialog,,0,0,0,,Oboje, spuścić wzrok.
 Comment: 0,0:13:08.33,0:13:10.04,Default,,0,0,0,,（忍野）頭を低くしてくれる？\N（２人）え？
+Dialogue: 0,0:13:08.33,0:13:10.04,Dialog,,0,0,0,,opuśćcie też głowy?
+Dialogue: 0,0:13:08.33,0:13:10.04,Default,,0,0,0,,（忍野）頭を低くしてくれる？\N（２人）え？
 Comment: 0,0:13:10.58,0:13:12.54,Default,,0,0,0,,神前だよ　ここはもう
+Dialogue: 0,0:13:10.58,0:13:12.54,Dialog,,0,0,0,,Jesteście przed Bogiem.\N On tu już jest.
 Comment: 0,0:13:26.64,0:13:28.43,Default,,0,0,0,,（戦場ヶ原）え… 何ですか？
+Dialogue: 0,0:13:26.64,0:13:28.43,Dialog,,0,0,0,,Eee... Co to ma być?
 Comment: 0,0:13:28.56,0:13:29.89,Default,,0,0,0,,（忍野）お酒を飲むと
+Dialogue: 0,0:13:28.56,0:13:29.89,Dialog,,0,0,0,,Napij się sake.
 Comment: 0,0:13:29.98,0:13:33.77,Default,,0,0,0,,神様との距離を\N縮めることができるそうだよ
+Dialogue: 0,0:13:29.98,0:13:33.77,Dialog,,0,0,0,,Podobno skraca dystans pomiędzy tobą a Bogiem.
 Comment: 0,0:13:33.98,0:13:35.27,Default,,0,0,0,,（戦場ヶ原）未成年です
+Dialogue: 0,0:13:33.98,0:13:35.27,Dialog,,0,0,0,,Jestem niepełnioletnia.
 Comment: 0,0:13:35.36,0:13:38.57,Default,,0,0,0,,（忍野）\N酔うほどの量は飲まなくていいさ\Nちっとだけ
+Dialogue: 0,0:13:35.36,0:13:38.57,Dialog,,0,0,0,,Nie musisz się upić, wystarczy, że się tylko trochę napijesz.
 Comment: 0,0:13:48.33,0:13:49.25,Default,,0,0,0,,さて…
+Dialogue: 0,0:13:48.33,0:13:49.25,Dialog,,0,0,0,,Zatem...
 Comment: 0,0:13:49.33,0:13:51.71,Default,,0,0,0,,じゃあ リラックスするところから\N始めよう
+Dialogue: 0,0:13:49.33,0:13:51.71,Dialog,,0,0,0,,Zrelaksuj się i będę zaczynać.
 Comment: 0,0:13:53.42,0:13:57.71,Default,,0,0,0,,ここは自分の場所だ\N君がいて当たり前の場所
+Dialogue: 0,0:13:53.42,0:13:57.71,Dialog,,0,0,0,,Tutaj jest twoje miejsce.\NMiejsce gdzie czujesz się naturalnie.
 Comment: 0,0:13:58.88,0:13:59.71,Default,,0,0,0,,はい…
+Dialogue: 0,0:13:58.88,0:13:59.71,Dialog,,0,0,0,,Tak...
 Comment: 0,0:14:01.05,0:14:05.14,Default,,0,0,0,,頭を下げたまま\N目を閉じて 数を数えよう
+Dialogue: 0,0:14:01.05,0:14:05.14,Dialog,,0,0,0,,Miej ciągle pochyloną głowę, zamknij oczy i licz.
 Comment: 0,0:14:10.31,0:14:13.19,Default,,0,0,0,,（忍野）一つ 二つ
+Dialogue: 0,0:14:10.31,0:14:13.19,Dialog,,0,0,0,,Jeden, Dwa...
 Comment: 0,0:14:13.73,0:14:16.44,Default,,0,0,0,,三つ 四つ
+Dialogue: 0,0:14:13.73,0:14:16.44,Dialog,,0,0,0,,Trzy, Cztery...
 Comment: 0,0:14:16.98,0:14:19.69,Default,,0,0,0,,五つ 六つ
+Dialogue: 0,0:14:16.98,0:14:19.69,Dialog,,0,0,0,,Pięć, Sześć...
 Comment: 0,0:14:20.11,0:14:21.36,Default,,0,0,0,,七つ
+Dialogue: 0,0:14:20.11,0:14:21.36,Dialog,,0,0,0,,Siedem...
 Comment: 0,0:14:21.94,0:14:22.99,Default,,0,0,0,,八つ
+Dialogue: 0,0:14:21.94,0:14:22.99,Dialog,,0,0,0,,Osiem...
 Comment: 0,0:14:23.65,0:14:24.49,Default,,0,0,0,,九つ
+Dialogue: 0,0:14:23.65,0:14:24.49,Dialog,,0,0,0,,Dziewięć.
 Comment: 0,0:14:27.99,0:14:28.95,Default,,0,0,0,,落ち着いた？
+Dialogue: 0,0:14:27.99,0:14:28.95,Dialog,,0,0,0,,Uspokoiłaś się?
 Comment: 0,0:14:29.99,0:14:30.83,Default,,0,0,0,,（戦場ヶ原）はい
+Dialogue: 0,0:14:29.99,0:14:30.83,Dialog,,0,0,0,,Tak.
 Comment: 0,0:14:30.91,0:14:33.62,Default,,0,0,0,,（忍野）\Nそう じゃあ 質問に答えてみよう
+Dialogue: 0,0:14:30.91,0:14:33.62,Dialog,,0,0,0,,Dobra, więc spróbujodpowiadać na moje pytania.
 Comment: 0,0:14:35.71,0:14:37.63,Default,,0,0,0,,お嬢ちゃん\N君の名前は？
+Dialogue: 0,0:14:35.71,0:14:37.63,Dialog,,0,0,0,,Imię Panienki?
 Comment: 0,0:14:38.29,0:14:39.75,Default,,0,0,0,,（戦場ヶ原）\N戦場ヶ原ひたぎ
+Dialogue: 0,0:14:38.29,0:14:39.75,Dialog,,0,0,0,,Hitagi Senjougahara.
 Comment: 0,0:14:40.38,0:14:41.63,Default,,0,0,0,,（忍野）\N通っている学校は？
+Dialogue: 0,0:14:40.38,0:14:41.63,Dialog,,0,0,0,,Do jakiej szkoły uczęszczasz?
 Comment: 0,0:14:42.46,0:14:44.13,Default,,0,0,0,,（戦場ヶ原）\N私立直江津(なおえつ)高校
+Dialogue: 0,0:14:42.46,0:14:44.13,Dialog,,0,0,0,,Prywatne Liceum Naoetsu.
 Comment: 0,0:14:44.55,0:14:45.38,Default,,0,0,0,,（忍野）誕生日は？
+Dialogue: 0,0:14:44.55,0:14:45.38,Dialog,,0,0,0,,Kiedy masz urodziny?
 Comment: 0,0:14:46.18,0:14:47.26,Default,,0,0,0,,（戦場ヶ原）７月７日
+Dialogue: 0,0:14:46.18,0:14:47.26,Dialog,,0,0,0,, Siódmego lipca.
 Comment: 0,0:14:48.01,0:14:49.51,Default,,0,0,0,,（忍野）\Nいちばん好きな\N小説家は？
+Dialogue: 0,0:14:48.01,0:14:49.51,Dialog,,0,0,0,,Ulubiony powieściopisarz?
 Comment: 0,0:14:50.39,0:14:51.39,Default,,0,0,0,,（戦場ヶ原）夢野久作(ゆめのきゅうさく)
+Dialogue: 0,0:14:50.39,0:14:51.39,Dialog,,0,0,0,,Kyuusaku Yumeno.
 Comment: 0,0:14:52.06,0:14:54.39,Default,,0,0,0,,（忍野）\N子供のころの失敗談を\N聞かせてくれる？
+Dialogue: 0,0:14:52.06,0:14:54.39,Dialog,,0,0,0,,Możesz powiedzieć o jakiejś krępującej historii z dzieciństwa?
 Comment: 0,0:14:54.98,0:14:56.02,Default,,0,0,0,,言いたくありません
+Dialogue: 0,0:14:54.98,0:14:56.02,Dialog,,0,0,0,,Nie chcę powiedzieć.
 Comment: 0,0:14:56.73,0:14:57.90,Default,,0,0,0,,（忍野）\N好きな古典音楽は？
+Dialogue: 0,0:14:56.73,0:14:57.90,Dialog,,0,0,0,,Ulubiona muzyka klasyczna?
 Comment: 0,0:14:58.65,0:15:00.40,Default,,0,0,0,,（戦場ヶ原）\N音楽は\Nあまり たしなみません
+Dialogue: 0,0:14:58.65,0:15:00.40,Dialog,,0,0,0,,Niezbyt lubię, muzykę.
 Comment: 0,0:15:00.77,0:15:03.28,Default,,0,0,0,,（忍野）\N小学校を卒業するとき\Nどう思った？
+Dialogue: 0,0:15:00.77,0:15:03.28,Dialog,,0,0,0,,Co myślałaś po ukończeniu podstawówki?
 Comment: 0,0:15:03.90,0:15:07.24,Default,,0,0,0,,（戦場ヶ原）\N単純に中学校に\N移るだけだと思いました
+Dialogue: 0,0:15:03.90,0:15:07.24,Dialog,,0,0,0,,Myślałam, że teraz po prostu pójde do gimnazjum.
 Comment: 0,0:15:07.45,0:15:09.53,Default,,0,0,0,,公立から公立へ\N行くだけだったから
+Dialogue: 0,0:15:07.45,0:15:09.53,Dialog,,0,0,0,,Przechodziłam z jednej instysucji do drugiej.
 Comment: 0,0:15:09.95,0:15:11.83,Default,,0,0,0,,（忍野）\N初恋の男の子は\Nどんな子だった？
+Dialogue: 0,0:15:09.95,0:15:11.83,Dialog,,0,0,0,,Jaki chłopka był twoją pierwszą miłością?
 Comment: 0,0:15:12.45,0:15:13.33,Default,,0,0,0,,（戦場ヶ原）\N言いたくありません
+Dialogue: 0,0:15:12.45,0:15:13.33,Dialog,,0,0,0,,Nie chcę odpowiadać.
 Comment: 0,0:15:14.04,0:15:15.33,Default,,0,0,0,,（忍野）\N今までの人生で
+Dialogue: 0,0:15:14.04,0:15:15.33,Dialog,,0,0,0,,Do tej pory w twoim życiu...
 Comment: 0,0:15:15.41,0:15:16.83,Default,,0,0,0,,いちばん\Nつらかった思い出は？
+Dialogue: 0,0:15:15.41,0:15:16.83,Dialog,,0,0,0,,Jakiej jest najboleśniejsze wspomnienie?
 Comment: 0,0:15:19.75,0:15:20.96,Default,,0,0,0,,（忍野）どうしたの？
+Dialogue: 0,0:15:19.75,0:15:20.96,Dialog,,0,0,0,,Co się stało?
 Comment: 0,0:15:21.34,0:15:24.72,Default,,0,0,0,,いちばん つらかった思い出\N記憶について聞いているんだ
+Dialogue: 0,0:15:21.34,0:15:24.72,Dialog,,0,0,0,,Najboleśniejsze wspomnienie. Chce o nim usłyszeć.
 Comment: 0,0:15:26.72,0:15:29.85,Default,,0,0,0,,（戦場ヶ原）\Nお… お… お母さんが…
+Dialogue: 0,0:15:26.72,0:15:29.85,Dialog,,0,0,0,,Ma... Ma... Matka...
 Comment: 0,0:15:30.85,0:15:31.72,Default,,0,0,0,,（忍野）お母さんが
+Dialogue: 0,0:15:30.85,0:15:31.72,Dialog,,0,0,0,,Matka...
 Comment: 0,0:15:32.89,0:15:35.23,Default,,0,0,0,,悪い宗教に はまったこと
+Dialogue: 0,0:15:32.89,0:15:35.23,Dialog,,0,0,0,,Dołaczyła do złego kultu.
 Comment: 0,0:15:36.31,0:15:37.23,Default,,0,0,0,,（忍野）それだけかい？
+Dialogue: 0,0:15:36.31,0:15:37.23,Dialog,,0,0,0,,Czy to wszytko?
 Comment: 0,0:15:38.19,0:15:39.36,Default,,0,0,0,,それだけって…
+Dialogue: 0,0:15:38.19,0:15:39.36,Dialog,,0,0,0,,Pozatym...
 Comment: 0,0:15:40.40,0:15:42.98,Default,,0,0,0,,（忍野）\N言ってごらん\N何があった？
+Dialogue: 0,0:15:40.40,0:15:42.98,Dialog,,0,0,0,,Powiesz mi co się wydarzyło?
 Comment: 0,0:15:44.69,0:15:49.24,Default,,0,0,0,,（戦場ヶ原）\Nう… うちに\Nその宗教団体の幹部の人が
+Dialogue: 0,0:15:44.69,0:15:49.24,Dialog,,0,0,0,,W... W domu przywódca tego kultu.
 Comment: 0,0:15:49.99,0:15:52.16,Default,,0,0,0,,お母さんに連れられて\Nやって来て
+Dialogue: 0,0:15:49.99,0:15:52.16,Dialog,,0,0,0,,Matka go tam przywiozła...
 Comment: 0,0:15:52.99,0:15:54.62,Default,,0,0,0,,（忍野）やって来て どうした？
+Dialogue: 0,0:15:52.99,0:15:54.62,Dialog,,0,0,0,,Przyszedł i co zrobił?
 Comment: 0,0:15:55.91,0:15:58.12,Default,,0,0,0,,（戦場ヶ原）\N儀式だと言って 私を…
+Dialogue: 0,0:15:55.91,0:15:58.12,Dialog,,0,0,0,,Powiedział, że to rytuał...
 Comment: 0,0:15:59.63,0:16:01.34,Default,,0,0,0,,わ… 私に
+Dialogue: 0,0:15:59.63,0:16:01.34,Dialog,,0,0,0,,M... Mnie....
 Comment: 0,0:16:02.34,0:16:03.17,Default,,0,0,0,,乱暴を
-Comment: 0,0:16:03.34,0:16:04.17,Default,,0,0,0,,あっ
+Dialogue: 0,0:16:02.34,0:16:03.17,Dialog,,0,0,0,,Użyć siły...
+Dialogue: 0,0:16:03.34,0:16:04.17,Default,,0,0,0,,あっ
 Comment: 0,0:16:07.72,0:16:10.64,Default,,0,0,0,,私を… 犯そうとしたわ
+Dialogue: 0,0:16:07.72,0:16:10.64,Dialog,,0,0,0,,Próbował mnie... zgwałcić.
 Comment: 0,0:16:11.39,0:16:12.47,Default,,0,0,0,,（忍野）そうかい
+Dialogue: 0,0:16:11.39,0:16:12.47,Dialog,,0,0,0,,Rozumiem.
 Comment: 0,0:16:13.18,0:16:17.89,Default,,0,0,0,,でも“犯そうと”ということは\N未遂だったんだろう？
+Dialogue: 0,0:16:13.18,0:16:17.89,Dialog,,0,0,0,,Ale mówiąc „próbował", to znaczy, że skończyło się na usiłowaniu, prawda?
 Comment: 0,0:16:19.06,0:16:21.65,Default,,0,0,0,,近くにあったスパイクで\N殴ってやったわ
 Comment: 0,0:16:22.77,0:16:27.24,Default,,0,0,0,,でも お母さんは\N私を助けてくれなかった
 Comment: 0,0:16:28.15,0:16:28.99,Default,,0,0,0,,（忍野）そして？
