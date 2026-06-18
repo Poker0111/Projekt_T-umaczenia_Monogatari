@@ -16,9 +16,9 @@ Video File: ../../../filmy_seriale/Seriale dla dekeneratów/化物語(2009)/化�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 518
-Active Line: 558
-Video Position: 23474
+Scroll Position: 665
+Active Line: 701
+Video Position: 29688
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -597,82 +597,150 @@ Comment: 0,0:16:11.39,0:16:12.47,Default,,0,0,0,,（忍野）そうかい
 Dialogue: 0,0:16:11.39,0:16:12.47,Dialog,,0,0,0,,Rozumiem.
 Comment: 0,0:16:13.18,0:16:17.89,Default,,0,0,0,,でも“犯そうと”ということは\N未遂だったんだろう？
 Dialogue: 0,0:16:13.18,0:16:17.89,Dialog,,0,0,0,,Ale mówiąc „próbował", to znaczy, że skończyło się na usiłowaniu, prawda?
-Comment: 0,0:16:19.06,0:16:21.65,Default,,0,0,0,,近くにあったスパイクで\N殴ってやったわ
+Comment: 0,0:16:19.06,0:16:21.65,Default,,0,0,0,,h近くにあったスパイクで\N殴ってやったわ
+Dialogue: 0,0:16:19.06,0:16:21.65,Dialog,,0,0,0,,Uderzyłam go obcasem, który był niedaleko.
 Comment: 0,0:16:22.77,0:16:27.24,Default,,0,0,0,,でも お母さんは\N私を助けてくれなかった
+Dialogue: 0,0:16:22.77,0:16:27.24,Dialog,,0,0,0,,Lecz moja matka mi nie pomogła.
 Comment: 0,0:16:28.15,0:16:28.99,Default,,0,0,0,,（忍野）そして？
+Dialogue: 0,0:16:28.15,0:16:28.99,Dialog,,0,0,0,,I?
 Comment: 0,0:16:30.24,0:16:35.54,Default,,0,0,0,,（戦場ヶ原）\N私が その幹部に\Nケガをさせたせいで お母さんは…
+Dialogue: 0,0:16:30.24,0:16:35.54,Dialog,,0,0,0,,Dlatego, że skrzywdziłam tego przywódcę, Matka...
 Comment: 0,0:16:36.70,0:16:39.67,Default,,0,0,0,,（忍野）\Nお母さんはペナルティを負った？
+Dialogue: 0,0:16:36.70,0:16:39.67,Dialog,,0,0,0,,Otrzymałą karę?
 Comment: 0,0:16:40.54,0:16:44.09,Default,,0,0,0,,はい　でも 考えてしまうんです
+Dialogue: 0,0:16:40.54,0:16:44.09,Dialog,,0,0,0,,Tak, ale nie mogę przestać o tym myśleć.
 Comment: 0,0:16:44.29,0:16:46.92,Default,,0,0,0,,もしも 私が あのとき\N抵抗しなかったら
+Dialogue: 0,0:16:44.29,0:16:46.92,Dialog,,0,0,0,,Gdybym wtedy nie stawiała oporu...
 Comment: 0,0:16:47.88,0:16:51.72,Default,,0,0,0,,少なくとも こんなことには\Nならなかったんじゃないかって
+Dialogue: 0,0:16:47.88,0:16:51.72,Dialog,,0,0,0,,Przynajmniej to wszystko potoczyło się inaczej.
 Comment: 0,0:16:52.05,0:16:53.97,Default,,0,0,0,,壊れなかったんじゃないかって
+Dialogue: 0,0:16:52.05,0:16:53.97,Dialog,,0,0,0,,Myśle, że wtedy nic by się nie zepsuło.
 Comment: 0,0:16:54.43,0:16:58.68,Default,,0,0,0,,（忍野）\Nだったら それは\Nお嬢ちゃん 君の思いだ
+Dialogue: 0,0:16:54.43,0:16:58.68,Dialog,,0,0,0,,W takim razie to sa twoje myśli Panienko.
 Comment: 0,0:16:58.89,0:17:00.39,Default,,0,0,0,,どんなに重かろうと
+Dialogue: 0,0:16:58.89,0:17:00.39,Dialog,,0,0,0,,Nieważne jak ciężkie...
 Comment: 0,0:17:00.52,0:17:03.27,Default,,0,0,0,,それは君が\N背負わなくてはならないものだ
+Dialogue: 0,0:17:00.52,0:17:03.27,Dialog,,0,0,0,,To jest rzecz, którą musisz wytrzymać.
 Comment: 0,0:17:03.44,0:17:05.44,Default,,0,0,0,,人任せにしちゃあ いけないね
+Dialogue: 0,0:17:03.44,0:17:05.44,Dialog,,0,0,0,,Nie powinnaś zrzucać tego na innych.
 Comment: 0,0:17:06.90,0:17:08.69,Default,,0,0,0,,（戦場ヶ原）\N人任せに… し…
+Dialogue: 0,0:17:06.90,0:17:08.69,Dialog,,0,0,0,,Zrzucać... na innych...
 Comment: 0,0:17:09.40,0:17:12.70,Default,,0,0,0,,（忍野）\N目を背けずに\N目を開けて見てみよう
+Dialogue: 0,0:17:09.40,0:17:12.70,Dialog,,0,0,0,,Nie odwracaj wzroku. Spróbuj otwórzyć oczy.
 Comment: 0,0:17:21.50,0:17:26.00,Default,,0,0,0,,（戦場ヶ原）ハッ… あっ あ…
+Dialogue: 0,0:17:21.50,0:17:26.00,Default,,0,0,0,,（戦場ヶ原）ハッ… あっ あ…
 Comment: 0,0:17:26.59,0:17:28.59,Default,,0,0,0,,（忍野）何か見えるかい？
+Dialogue: 0,0:17:26.59,0:17:28.59,Dialog,,0,0,0,,Widzisz coś?
 Comment: 0,0:17:28.80,0:17:32.01,Default,,0,0,0,,み… 見えます　あのときと同じ…
+Dialogue: 0,0:17:28.80,0:17:32.01,Dialog,,0,0,0,,Wi... Widzę. Tak samo jak wtedy...
 Comment: 0,0:17:32.68,0:17:38.02,Default,,0,0,0,,あのときと同じ大きな蟹が\N蟹が見える
+Dialogue: 0,0:17:32.68,0:17:38.02,Dialog,,0,0,0,,Tak samo jak wtedy widzę... Widzę dużego kraba.
 Comment: 0,0:17:39.48,0:17:40.81,Default,,0,0,0,,（忍野）そうかい
+Dialogue: 0,0:17:39.48,0:17:40.81,Dialog,,0,0,0,,Tak jest?
 Comment: 0,0:17:40.89,0:17:44.40,Default,,0,0,0,,僕には 全く見えないがね\N阿良々木くんは？
+Dialogue: 0,0:17:40.89,0:17:44.40,Dialog,,0,0,0,,Ja w ogóle tego nie widzę A ty Araragi?
 Comment: 0,0:17:44.90,0:17:46.23,Default,,0,0,0,,（阿良々木）何も見えない
+Dialogue: 0,0:17:44.90,0:17:46.23,Dialog,,0,0,0,,Nic nie widzę.
 Comment: 0,0:17:46.65,0:17:50.49,Default,,0,0,0,,で… でも\Nはっきりと見えます 私には
+Dialogue: 0,0:17:46.65,0:17:50.49,Dialog,,0,0,0,,A... Ale ja widzę go dokładnie.
 Comment: 0,0:17:51.15,0:17:52.11,Default,,0,0,0,,（忍野）そう　だったら…
+Dialogue: 0,0:17:51.15,0:17:52.11,Dialog,,0,0,0,,Cóż, jeśli tak...
 Comment: 0,0:17:53.28,0:17:55.62,Default,,0,0,0,,だったら 言うべきことが\Nあるんじゃないか？
+Dialogue: 0,0:17:53.28,0:17:55.62,Dialog,,0,0,0,,Co powinnaś powiedzieć?
 Comment: 0,0:17:57.28,0:18:00.00,Default,,0,0,0,,言うべき… こと あっ
-Comment: 0,0:18:01.66,0:18:02.50,Default,,0,0,0,,あ…
-Comment: 0,0:18:06.38,0:18:07.67,Default,,0,0,0,,あ…
+Dialogue: 0,0:17:57.28,0:18:00.00,Dialog,,0,0,0,,Co... powiedzieć? A...
+Dialogue: 0,0:18:01.66,0:18:02.50,Default,,0,0,0,,あ…
+Dialogue: 0,0:18:06.38,0:18:07.67,Default,,0,0,0,,あ…
 Comment: 0,0:18:09.00,0:18:11.17,Default,,0,0,0,,あっ 戦場ヶ原！
-Comment: 0,0:18:11.26,0:18:13.01,Default,,0,0,0,,あ… あ…
-Comment: 0,0:18:13.38,0:18:16.68,Default,,0,0,0,,あっ う… うう…
+Dialogue: 0,0:18:09.00,0:18:11.17,Dialog,,0,0,0,,A Senjougahara.
+Dialogue: 0,0:18:11.26,0:18:13.01,Default,,0,0,0,,あ… あ…
+Dialogue: 0,0:18:13.38,0:18:16.68,Default,,0,0,0,,あっ う… うう…
 Comment: 0,0:18:19.64,0:18:21.35,Default,,0,0,0,,（忍野）しかたがないな
+Dialogue: 0,0:18:19.64,0:18:21.35,Dialog,,0,0,0,,Nie ma wyjścia.
 Comment: 0,0:18:21.52,0:18:23.94,Default,,0,0,0,,やれやれ せっかちな神さんだ
+Dialogue: 0,0:18:21.52,0:18:23.94,Dialog,,0,0,0,,O ludzie, ale niecierpliwy Bóg.
 Comment: 0,0:18:24.02,0:18:26.36,Default,,0,0,0,,気のいいヤツだよ 本当に
+Dialogue: 0,0:18:24.02,0:18:26.36,Dialog,,0,0,0,,Niezły z ciebie gość. Naprawdę.
 Comment: 0,0:18:26.44,0:18:27.94,Default,,0,0,0,,何か いいことでも あったのかな
+Dialogue: 0,0:18:26.44,0:18:27.94,Dialog,,0,0,0,,Może spotkało go dziś coś miłego?
 Comment: 0,0:18:28.32,0:18:30.28,Default,,0,0,0,,（阿良々木）お… おい　忍野
+Dialogue: 0,0:18:28.32,0:18:30.28,Dialog,,0,0,0,,H... Hej Oshino.
 Comment: 0,0:18:30.44,0:18:33.57,Default,,0,0,0,,（忍野）\N分かっているよ 方針変更だ\Nやむをえん
+Dialogue: 0,0:18:30.44,0:18:33.57,Dialog,,0,0,0,,Rozumiem, zmianna planu. Nie ma wyjścia.
 Comment: 0,0:18:34.70,0:18:37.32,Default,,0,0,0,,よっ こらっ せっと
-Comment: 0,0:18:40.99,0:18:42.50,Default,,0,0,0,,（戦場ヶ原）あっ ああ…
+Dialogue: 0,0:18:34.70,0:18:37.32,Dialog,,0,0,0,,No to Hop.
+Dialogue: 0,0:18:40.99,0:18:42.50,Default,,0,0,0,,（戦場ヶ原）あっ ああ…
 Comment: 0,0:18:46.29,0:18:50.25,Default,,0,0,0,,（忍野）\N結局 こういうのって\N心の持ちようの問題だからさ
+Dialogue: 0,0:18:46.29,0:18:50.25,Dialog,,0,0,0,,Mimo wszystko takie problemy są kwestią nastawienia.
+Dialogue: 0,0:18:50.50,0:18:53.51,Dialog,,0,0,0,,Jeśli nie można się doprosić ani słowa nie docierają.
 Comment: 0,0:18:50.50,0:18:53.51,Default,,0,0,0,,お願いできないなら\N言葉が通じないなら
 Comment: 0,0:18:53.59,0:18:55.51,Default,,0,0,0,,戦争しかないのさ
+Dialogue: 0,0:18:53.59,0:18:55.51,Dialog,,0,0,0,,Została tylko wojna.
 Comment: 0,0:18:55.59,0:18:56.43,Default,,0,0,0,,（阿良々木）でも…
+Dialogue: 0,0:18:55.59,0:18:56.43,Dialog,,0,0,0,,Ale...
 Comment: 0,0:18:56.51,0:18:58.72,Default,,0,0,0,,（忍野）\Nまあ このまま\N潰しちゃったところで
+Dialogue: 0,0:18:56.51,0:18:58.72,Dialog,,0,0,0,,Cóż, jeśli po prostu go zmiażdżę...
 Comment: 0,0:18:58.80,0:19:01.01,Default,,0,0,0,,形の上では解決するからさ
+Dialogue: 0,0:18:58.80,0:19:01.01,Dialog,,0,0,0,,To czysto formalnie rozwiąże ten problem.
 Comment: 0,0:19:01.47,0:19:03.60,Default,,0,0,0,,この際 それもありかなって
+Dialogue: 0,0:19:01.47,0:19:03.60,Dialog,,0,0,0,,W tym wypadku myślę, że mogę.
 Comment: 0,0:19:03.68,0:19:05.35,Default,,0,0,0,,（阿良々木）あ… ありかなって
+Dialogue: 0,0:19:03.68,0:19:05.35,Dialog,,0,0,0,,Mo... Możesz?
 Comment: 0,0:19:05.44,0:19:07.86,Default,,0,0,0,,（忍野）\N僕は 蟹が\Nとてつもなく嫌いなんだよ
+Dialogue: 0,0:19:05.44,0:19:07.86,Dialog,,0,0,0,,Niewiarygodnie nienawidzę krabów.
 Comment: 0,0:19:08.40,0:19:09.48,Default,,0,0,0,,食べにくいからね
+Dialogue: 0,0:19:08.40,0:19:09.48,Dialog,,0,0,0,,Trudno je zjeść.
 Comment: 0,0:19:10.90,0:19:11.73,Default,,0,0,0,,（戦場ヶ原）待って
+Dialogue: 0,0:19:10.90,0:19:11.73,Dialog,,0,0,0,,Czekaj.
 Comment: 0,0:19:12.57,0:19:14.32,Default,,0,0,0,,待ってください 忍野さん
+Dialogue: 0,0:19:12.57,0:19:14.32,Dialog,,0,0,0,,Proszę cię poczekaj, Panie Oshino.
 Comment: 0,0:19:14.40,0:19:15.24,Default,,0,0,0,,ん？
+Dialogue: 0,0:19:14.40,0:19:15.24,Dialog,,0,0,0,,Hm?
 Comment: 0,0:19:16.66,0:19:19.78,Default,,0,0,0,,（忍野）\N待つって\N待つって何をさ？ お嬢ちゃん
+Dialogue: 0,0:19:16.66,0:19:19.78,Dialog,,0,0,0,,Poczekać?  Ale na co mam czekać, Panienko?
 Comment: 0,0:19:20.16,0:19:23.16,Default,,0,0,0,,さっきは驚いただけだから
+Dialogue: 0,0:19:20.16,0:19:23.16,Dialog,,0,0,0,,Byłam po prostu trochę zaskoczona.
 Comment: 0,0:19:23.95,0:19:26.71,Default,,0,0,0,,ちゃんと できますから
+Dialogue: 0,0:19:23.95,0:19:26.71,Dialog,,0,0,0,,Poradze sobie z tym.
 Comment: 0,0:19:26.79,0:19:28.79,Default,,0,0,0,,自分で できるから
+Dialogue: 0,0:19:26.79,0:19:28.79,Dialog,,0,0,0,,Zrobię to sama.
 Comment: 0,0:19:28.96,0:19:29.79,Default,,0,0,0,,ふうん
+Dialogue: 0,0:19:28.96,0:19:29.79,Default,,0,0,0,,ふうん
 Comment: 0,0:19:30.38,0:19:32.67,Default,,0,0,0,,（忍野）\Nじゃあ どうぞ　やってごらん
+Dialogue: 0,0:19:30.38,0:19:32.67,Dialog,,0,0,0,,Dobra, Spróbuj
 Comment: 0,0:19:32.92,0:19:33.76,Default,,0,0,0,,あっ
+Dialogue: 0,0:19:32.92,0:19:33.76,Default,,0,0,0,,あっ
 Comment: 0,0:19:37.26,0:19:38.26,Default,,0,0,0,,（戦場ヶ原）ごめんなさい
+Dialogue: 0,0:19:37.26,0:19:38.26,Dialog,,0,0,0,,Przepraszam.
 Comment: 0,0:19:39.47,0:19:42.01,Default,,0,0,0,,それから ありがとうございました
+Dialogue: 0,0:19:39.47,0:19:42.01,Dialog,,0,0,0,,Ale oprócz tego dziękuje.
 Comment: 0,0:19:43.35,0:19:45.18,Default,,0,0,0,,でも もういいんです
+Dialogue: 0,0:19:43.35,0:19:45.18,Dialog,,0,0,0,,Ale tyle wystarczy.
 Comment: 0,0:19:45.31,0:19:50.15,Default,,0,0,0,,それは私の気持ちで\N私の思いで 私の記憶ですから
+Dialogue: 0,0:19:45.31,0:19:50.15,Dialog,,0,0,0,,Ale to moje uczucia, to moje, myśli i to moja wspomnienia.
 Comment: 0,0:19:50.36,0:19:51.61,Default,,0,0,0,,私が背負います
+Dialogue: 0,0:19:50.36,0:19:51.61,Dialog,,0,0,0,,Sama będę to nosić.
 Comment: 0,0:19:52.57,0:19:54.40,Default,,0,0,0,,なくしちゃ いけないものでした
+Dialogue: 0,0:19:52.57,0:19:54.40,Dialog,,0,0,0,,To jest coś czego nie powinnam stracić.
 Comment: 0,0:19:57.03,0:19:58.36,Default,,0,0,0,,お願いします
+Dialogue: 0,0:19:57.03,0:19:58.36,Dialog,,0,0,0,,Błagam.
 Comment: 0,0:19:58.57,0:20:02.12,Default,,0,0,0,,どうか 私に\N私の重みを返してください
+Dialogue: 0,0:19:58.57,0:20:02.12,Dialog,,0,0,0,,Błągam, oddaj mi moją wagę.
 Comment: 0,0:20:02.95,0:20:06.75,Default,,0,0,0,,どうか お母さんを\N私に返してください
+Dialogue: 0,0:20:02.95,0:20:06.75,Dialog,,0,0,0,,Błagam oddaj mi Matke.
 Comment: 0,0:20:12.71,0:20:16.26,Default,,0,0,0,,（戦場ヶ原の泣き声）
 Comment: 0,0:20:17.63,0:20:21.51,Default,,0,0,0,,（阿良々木）\N戦場ヶ原の母親が\N悪徳宗教に はまったのは
+Dialogue: 0,0:20:17.63,0:20:21.51,Dialog,,0,0,0,,Matka Senjougahary dała się wciągnąć do tej oszukańczej sekty...
 Comment: 0,0:20:21.89,0:20:25.10,Default,,0,0,0,,戦場ヶ原が\N小学５年生のときだったらしい
+Dialogue: 0,0:20:21.89,0:20:25.10,Dialog,,0,0,0,,Podobno wtedy, gdy Senjougahara była w 5 klasie.
 Comment: 0,0:20:25.52,0:20:28.89,Default,,0,0,0,,そのころ 戦場ヶ原は\Nひどい大病を患った
-Comment: 0,0:20:30.10,0:20:31.61,Default,,0,0,0,,娘の病気にあたり
+Dialogue: 0,0:20:25.52,0:20:28.89,Dialog,,0,0,0,,W tam tym czasie zachorowała na poważną chorobę.
+Dialogue: 0,0:20:30.10,0:20:31.61,Dialog,,0,0,0,,Z powodu choroby córki...
 Comment: 0,0:20:31.69,0:20:35.15,Default,,0,0,0,,戦場ヶ原の母親は\N心のよりどころを求めた
+Dialogue: 0,0:20:31.69,0:20:35.15,Dialog,,0,0,0,,Jej Matka desperacko szukałą jakiegoś oparcia
 Comment: 0,0:20:35.44,0:20:36.28,Default,,0,0,0,,そして…
-Comment: 0,0:20:38.20,0:20:42.24,Default,,0,0,0,,戦場ヶ原は大手術の結果\N九死に一生を得たそうだ
+Dialogue: 0,0:20:35.44,0:20:36.28,Dialog,,0,0,0,,I wtedy...
+Comment: 0,0:20:38.20,0:20:42.24,Default,,0,0,0,,Podobno w wyniku poważnej operacji Senjougahara cudem uszła z życiem.
 Comment: 0,0:20:43.33,0:20:45.62,Default,,0,0,0,,だが それによって母親は
 Comment: 0,0:20:45.70,0:20:48.21,Default,,0,0,0,,ますます\N宗教に のめり込んでしまった
 Comment: 0,0:20:48.79,0:20:52.13,Default,,0,0,0,,戦場ヶ原は\N母親と不仲になったそうだ
