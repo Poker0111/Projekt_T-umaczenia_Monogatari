@@ -16,9 +16,9 @@ Video File: ../../../filmy_seriale/Seriale dla dekeneratów/化物語(2009)/化�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 665
-Active Line: 701
-Video Position: 29688
+Scroll Position: 857
+Active Line: 863
+Video Position: 36215
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,6 +36,9 @@ Style: Plansza black,MS Mincho,70,&H000F0F0F,&H000000FF,&H00000000,&H00000000,0,
 Style: Plansza Green,MS Mincho,70,&H00696E58,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Stable,Metropolis,48,&H00FFFFFF,&H000000FF,&H004B235A,&H00000000,0,0,0,0,100,100,1,0,1,1.5,0,3,30,30,10,1
 Style: Kimi no shiranai monogatari,Playfair Display Medium,48,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,3,10,30,10,1
+Style: Karen_end,Amaranth PL,75,&H0046BDE4,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,1,2,10,10,10,1
+Style: Tsukihi_end,Amaranth PL,75,&H0046BDE4,&H000000FF,&H0092936C,&H00000000,0,0,0,0,100,100,0,0,1,3.2,1,2,10,10,10,1
+Style: Karen_Tsukihi,Amaranth PL,75,&H0092936C,&H000000FF,&H0046BDE4,&H00000000,0,0,0,0,100,100,0,0,1,3,1,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -55,7 +58,32 @@ Comment: 0,0:00:36.54,0:00:39.04,Default,,0,0,0,,私は お父さんに引き取
 Dialogue: 0,0:00:36.54,0:00:39.04,Dialog,,0,0,0,,Zostałam z Ojcem.
 Comment: 0,0:00:39.21,0:00:40.96,Default,,0,0,0,,ここで２人で暮らしているわ
 Dialogue: 0,0:00:39.21,0:00:40.96,Dialog,,0,0,0,,Mnieszkamy teraz razem.
-Comment: 0,0:00:48.30,0:00:54.30,Default,,0,0,0,,♪〜
+Comment: 0,0:00:42.29,0:00:48.30,Default,JP,0,0,0,,♪〜
+Dialogue: 0,0:00:56.20,0:00:59.20,Stable,,0,0,0,,Jeszcze masz czas
+Dialogue: 0,0:00:59.75,0:01:02.86,Stable,,0,0,0,,Lepiej byłoby się wycofać
+Dialogue: 0,0:01:03.46,0:01:08.40,Stable,,0,0,0,,Zanim jeszcze bardziej się złudzę.
+Dialogue: 0,0:01:10.51,0:01:14.10,Stable,,0,0,0,,Igła słów, która cię zamknęła
+Dialogue: 0,0:01:14.60,0:01:21.08,Stable,,0,0,0,,Zanim się spostrzegłam, przebiła mą pierś.
+Dialogue: 0,0:01:21.46,0:01:23.18,Stable,,0,0,0,,Boli
+Dialogue: 0,0:01:23.40,0:01:25.60,Stable,,0,0,0,,To twoja wina
+Dialogue: 0,0:01:25.60,0:01:26.86,Stable,,0,0,0,,Nie przychodź
+Dialogue: 0,0:01:26.86,0:01:29.36,Stable,,0,0,0,,Do takiej, takiej mnie
+Dialogue: 0,0:01:29.37,0:01:30.54,Stable,,0,0,0,,Nie patrz
+Dialogue: 0,0:01:30.54,0:01:33.07,Stable,,0,0,0,,Aż tak, tak daleko
+Dialogue: 0,0:01:33.07,0:01:34.22,Stable,,0,0,0,,Nie mów nic
+Dialogue: 0,0:01:34.22,0:01:36.33,Stable,,0,0,0,,Z tamtym,tamtym uśmiechem.
+Dialogue: 0,0:01:36.33,0:01:40.18,Stable,,0,0,0,,Do kogokolwiek
+Dialogue: 0,0:01:41.25,0:01:43.28,Stable,,0,0,0,,Ciągnąca się bez końca
+Dialogue: 0,0:01:43.28,0:01:45.12,Stable,,0,0,0,,Niczym to niebo
+Dialogue: 0,0:01:45.12,0:01:48.90,Stable,,0,0,0,,Przysięgnij mi na wieczność bez kresu
+Dialogue: 0,0:01:48.90,0:01:50.96,Stable,,0,0,0,,Złośliwy i miły
+Dialogue: 0,0:01:50.96,0:01:52.52,Stable,,0,0,0,,Niczym tam to morze
+Dialogue: 0,0:01:52.52,0:01:55.89,Stable,,0,0,0,,Gdy wskoczę w twoje serce, złap mnie
+Dialogue: 0,0:01:55.89,0:02:03.98,Stable,,0,0,0,,Tych uczuć nie da się zważyć
+Dialogue: 0,0:02:03.98,0:02:11.38,Stable,,0,0,0,,Bo wyznam je teraz tylko tobie
+Comment: 0,0:02:10.97,0:02:16.97,Default,JP,0,0,0,,〜♪
+Dialogue: 0,0:02:06.94,0:02:17.70,Plansza Red,,0,0,0,,{\fs70\t(\fs65)\pos(956,588)}Krab Hitagi
+Comment: 0,0:00:36.28,0:00:42.28,Default,,0,0,0,,♪〜
 Comment: 0,0:02:10.21,0:02:16.22,Default,,0,0,0,,〜♪
 Comment: 0,0:02:37.12,0:02:38.70,Default,,0,0,0,,（戦場ヶ原）助けてくれるんですか
 Dialogue: 0,0:02:37.12,0:02:38.70,Dialog,,0,0,0,,Pomożesz mi...?
@@ -460,7 +488,7 @@ Dialogue: 0,0:12:21.03,0:12:21.91,Dialog,,0,0,0,,Możliwe.
 Comment: 0,0:12:22.45,0:12:26.91,Default,,0,0,0,,切実な人間の頼みを断るほど\N彼らは頑(かたく)なじゃないさ
 Dialogue: 0,0:12:22.45,0:12:26.91,Dialog,,0,0,0,,Nie są tak bardzo uparci gdy ktoś rozpaczliwie się uprasza.
 Comment: 0,0:12:27.00,0:12:30.71,Default,,0,0,0,,それに神様っていうのは\N結構 大ざっぱな連中なんだ
-Dialogue: 0,0:12:27.00,0:12:30.71,Dialog,,0,0,0,,Lecz poza tym są niedrobiazgowqymi bóstwami.
+Dialogue: 0,0:12:27.00,0:12:30.71,Dialog,,0,0,0,,Lecz poza tym są niedrobiazgowymi bóstwami.
 Comment: 0,0:12:31.08,0:12:32.38,Default,,0,0,0,,（阿良々木）大ざっぱって？
 Dialogue: 0,0:12:31.08,0:12:32.38,Dialog,,0,0,0,,Niedrobiazgowymi?
 Comment: 0,0:12:32.92,0:12:35.92,Default,,0,0,0,,（忍野）\N人間 個々人のことなんて\Nどうでもいいんだよ
@@ -740,80 +768,167 @@ Comment: 0,0:20:31.69,0:20:35.15,Default,,0,0,0,,戦場ヶ原の母親は\N心�
 Dialogue: 0,0:20:31.69,0:20:35.15,Dialog,,0,0,0,,Jej Matka desperacko szukałą jakiegoś oparcia
 Comment: 0,0:20:35.44,0:20:36.28,Default,,0,0,0,,そして…
 Dialogue: 0,0:20:35.44,0:20:36.28,Dialog,,0,0,0,,I wtedy...
-Comment: 0,0:20:38.20,0:20:42.24,Default,,0,0,0,,Podobno w wyniku poważnej operacji Senjougahara cudem uszła z życiem.
+Dialogue: 0,0:20:38.20,0:20:42.24,Default,,0,0,0,,Podobno w wyniku poważnej operacji Senjougahara cudem uszła z życiem.
 Comment: 0,0:20:43.33,0:20:45.62,Default,,0,0,0,,だが それによって母親は
+Dialogue: 0,0:20:43.33,0:20:45.62,Dialog,,0,0,0,,I z tego powodu Matka...
 Comment: 0,0:20:45.70,0:20:48.21,Default,,0,0,0,,ますます\N宗教に のめり込んでしまった
+Dialogue: 0,0:20:45.70,0:20:48.21,Dialog,,0,0,0,,Coraz bardziej popadała w sekte.
 Comment: 0,0:20:48.79,0:20:52.13,Default,,0,0,0,,戦場ヶ原は\N母親と不仲になったそうだ
+Dialogue: 0,0:20:48.79,0:20:52.13,Dialog,,0,0,0,,Podobno przez to relacje Senjougahary z matką bardzo się popsuły.
 Comment: 0,0:20:52.38,0:20:55.46,Default,,0,0,0,,中学生になってからは\Nほとんど 口を利かなかったらしい
+Dialogue: 0,0:20:52.38,0:20:55.46,Dialog,,0,0,0,,Najwyraźniej kiedy poszła do gimnazjum to prawie ze sobą nie rozmawiały.
 Comment: 0,0:20:55.80,0:20:56.63,Default,,0,0,0,,そして…
+Dialogue: 0,0:20:55.80,0:20:56.63,Dialog,,0,0,0,,Oprócz tego...
 Comment: 0,0:20:57.59,0:21:00.59,Default,,0,0,0,,中学卒業を間近にして事は起きた
+Dialogue: 0,0:20:57.59,0:21:00.59,Dialog,,0,0,0,,Tuż przed ukończeniem gimnazjum, doszło do tamtego zdarzenia.
 Comment: 0,0:21:09.52,0:21:10.94,Default,,0,0,0,,その結果—
+Dialogue: 0,0:21:09.52,0:21:10.94,Dialog,,0,0,0,,W rezultacie...
 Comment: 0,0:21:14.36,0:21:16.28,Default,,0,0,0,,家庭は崩壊してしまった
+Dialogue: 0,0:21:14.36,0:21:16.28,Dialog,,0,0,0,,Ich rodzina się rozpadła.
 Comment: 0,0:21:17.44,0:21:18.28,Default,,0,0,0,,破局した
+Dialogue: 0,0:21:17.44,0:21:18.28,Dialog,,0,0,0,,Wszystko legło w gruzach.
 Comment: 0,0:21:19.40,0:21:24.16,Default,,0,0,0,,そして 戦場ヶ原は行き遭った\N１匹の蟹に
+Dialogue: 0,0:21:19.40,0:21:24.16,Dialog,,0,0,0,,I wtedy Senjougahara napotkałą pewnego kraba.
 Comment: 0,0:21:25.03,0:21:26.66,Default,,0,0,0,,うう うう…
+Dialogue: 0,0:21:25.03,0:21:26.66,Default,,0,0,0,,うう うう…
 Comment: 0,0:21:26.74,0:21:29.41,Default,,0,0,0,,（忍野）\Nおもし蟹(がに)ってのはね 阿良々木くん
+Dialogue: 0,0:21:26.74,0:21:29.41,Dialog,,0,0,0,,Widzisz Araragi, taki jest Krab Wagi.
 Comment: 0,0:21:29.54,0:21:32.67,Default,,0,0,0,,だからつまり “おもいし神(かみ)”\Nってことなんだよね
+Dialogue: 0,0:21:29.54,0:21:32.67,Dialog,,0,0,0,,Dlatego w gruncie rzeczy to „bóstwo myśli”.
 Comment: 0,0:21:33.04,0:21:35.13,Default,,0,0,0,,また“思(おも)い出(と)しがみ”
+Dialogue: 0,0:21:33.04,0:21:35.13,Dialog,,0,0,0,,A także „wspomnień".
 Comment: 0,0:21:35.21,0:21:37.17,Default,,0,0,0,,つまり しがらみってことでも\Nあるんだ
+Dialogue: 0,0:21:35.21,0:21:37.17,Dialog,,0,0,0,,Innymi słowami chodzi o życiowe więzy.
 Comment: 0,0:21:38.13,0:21:39.67,Default,,0,0,0,,（阿良々木）\Nつまり 蟹に行き遭ったとき
+Dialogue: 0,0:21:38.13,0:21:39.67,Dialog,,0,0,0,,Czyli kiedy napotkałą kraba...
 Comment: 0,0:21:39.76,0:21:42.68,Default,,0,0,0,,戦場ヶ原は\N母親へのしがらみを切ったのだ
+Dialogue: 0,0:21:39.76,0:21:42.68,Dialog,,0,0,0,,Senjougahara pozbyła się więzy z Matką.
 Comment: 0,0:21:43.76,0:21:46.60,Default,,0,0,0,,母親のことで\N思い悩むことをやめた
+Dialogue: 0,0:21:43.76,0:21:46.60,Dialog,,0,0,0,,Przestać się martwić Matką.
 Comment: 0,0:21:46.89,0:21:48.06,Default,,0,0,0,,思うのをやめた
+Dialogue: 0,0:21:46.89,0:21:48.06,Dialog,,0,0,0,,Przestać o niej myśleć.
 Comment: 0,0:21:48.14,0:21:49.68,Default,,0,0,0,,重みをなくしたのだ
+Dialogue: 0,0:21:48.14,0:21:49.68,Dialog,,0,0,0,,I tak starciła wagę.
 Comment: 0,0:21:50.39,0:21:53.44,Default,,0,0,0,,自ら進んでズルをした
+Dialogue: 0,0:21:50.39,0:21:53.44,Dialog,,0,0,0,,Z własnej woli poszła na łatwiznę.
 Comment: 0,0:21:53.98,0:21:56.90,Default,,0,0,0,,別に\N悪いことじゃないんだけどねえ
+Dialogue: 0,0:21:53.98,0:21:56.90,Dialog,,0,0,0,,Choć to nie jest niczym złym.
 Comment: 0,0:21:56.98,0:22:00.78,Default,,0,0,0,,特に今回の場合\N今更 思いを取り戻したところで
+Dialogue: 0,0:21:56.98,0:22:00.78,Dialog,,0,0,0,,Zwaszcza w tym wypadku nawet jeśli odrzyska te emocje...
 Comment: 0,0:22:00.86,0:22:02.70,Default,,0,0,0,,母親が帰ってくるわけでも
+Dialogue: 0,0:22:00.86,0:22:02.70,Dialog,,0,0,0,,Jej Matka nie wróci...
 Comment: 0,0:22:02.78,0:22:05.20,Default,,0,0,0,,崩壊した家庭が\N再生するわけでもない
+Dialogue: 0,0:22:02.78,0:22:05.20,Dialog,,0,0,0,,Ani nie odbuduje rozbitej rodzinny.
 Comment: 0,0:22:05.91,0:22:07.45,Default,,0,0,0,,（阿良々木）\Nそれなのに それでも
+Dialogue: 0,0:22:05.91,0:22:07.45,Dialog,,0,0,0,,Ale nadal...
 Comment: 0,0:22:08.04,0:22:11.71,Default,,0,0,0,,それゆえに 戦場ヶ原ひたぎは\N返してほしかった
+Dialogue: 0,0:22:08.04,0:22:11.71,Dialog,,0,0,0,,Dlatego Hitagi Senjougahara chciała je odzyskać.
 Comment: 0,0:22:11.79,0:22:13.29,Default,,0,0,0,,返してほしがった
+Dialogue: 0,0:22:11.79,0:22:13.29,Dialog,,0,0,0,,Tak bardzo chciała je odzyskać.
 Comment: 0,0:22:13.37,0:22:17.42,Default,,0,0,0,,もう どうしようもない\N母親の思い出を 記憶と悩みを
+Dialogue: 0,0:22:13.37,0:22:17.42,Dialog,,0,0,0,,Te wspomnienia o matce, tę pamięć i udrękę, z którymi i tak nic już nie da się zrobić.
 Comment: 0,0:22:17.84,0:22:21.34,Default,,0,0,0,,忍野の言うとおり\N何も変わらないのだろうけれど
+Dialogue: 0,0:22:17.84,0:22:21.34,Dialog,,0,0,0,,Tak jak zapewne poweidział Oshino nic z tym nie można zmienić.
 Comment: 0,0:22:22.76,0:22:24.97,Default,,0,0,0,,（戦場ヶ原）\N何も変わらない\Nなんてことはないわ
+Dialogue: 0,0:22:22.76,0:22:24.97,Dialog,,0,0,0,,Wcale nie jest tak, że nic się nie zmieni.
 Comment: 0,0:22:25.55,0:22:28.43,Default,,0,0,0,,それに 決して\Nムダでもなかったのよ
+Dialogue: 0,0:22:25.55,0:22:28.43,Dialog,,0,0,0,,Mimo wszystko nie poszło wszytko na marne.
 Comment: 0,0:22:28.56,0:22:31.85,Default,,0,0,0,,少なくとも\N大切な友達が１人 出来たのだから
+Dialogue: 0,0:22:28.56,0:22:31.85,Dialog,,0,0,0,,Przynajmniej zyskałam jednego ważnego przyjaciela.
 Comment: 0,0:22:32.48,0:22:33.35,Default,,0,0,0,,誰のことだ？
+Dialogue: 0,0:22:32.48,0:22:33.35,Dialog,,0,0,0,,Niby kogo?
 Comment: 0,0:22:35.02,0:22:36.61,Default,,0,0,0,,（戦場ヶ原）あなたのことよ\N（阿良々木）えっ！
+Dialogue: 0,0:22:35.02,0:22:35.92,Dialog,,0,0,0,,Ciebie.
 Comment: 0,0:22:37.36,0:22:39.40,Default,,0,0,0,,（戦場ヶ原）\Nありがとう 阿良々木くん
+Dialogue: 0,0:22:37.36,0:22:39.40,Dialog,,0,0,0,,Dziękuej, Araragi.
 Comment: 0,0:22:39.57,0:22:42.03,Default,,0,0,0,,私は あなたに\Nとても感謝しているわ
+Dialogue: 0,0:22:39.57,0:22:42.03,Dialog,,0,0,0,,Jestem tobie ogromnie wdzięczna.
 Comment: 0,0:22:42.36,0:22:44.57,Default,,0,0,0,,今までのこと 全部 謝ります
+Dialogue: 0,0:22:42.36,0:22:44.57,Dialog,,0,0,0,,I przepraszam za wszystko, co zrobiłam ci do tej pory.
 Comment: 0,0:22:46.07,0:22:48.16,Default,,0,0,0,,図々(ずうずう)しいかもしれないけれど
+Dialogue: 0,0:22:46.07,0:22:48.16,Dialog,,0,0,0,,To może być z mojej strony trochę bezczelne, ale...
 Comment: 0,0:22:48.24,0:22:51.83,Default,,0,0,0,,これからも仲良くしてくれたら\N私 とてもうれしいわ
+Dialogue: 0,0:22:48.24,0:22:51.83,Dialog,,0,0,0,,Byłabym bardzo szczęśliwa, gdybyśmy od teraz trzymali się razem.
 Comment: 0,0:22:52.29,0:22:53.12,Default,,0,0,0,,あっ
 Comment: 0,0:22:55.50,0:22:56.33,Default,,0,0,0,,フフッ
 Comment: 0,0:22:57.42,0:22:58.88,Default,,0,0,0,,（火憐(かれん)）兄ちゃん！ 朝だぞ コラ！
+Dialogue: 0,0:22:57.42,0:22:58.88,Dialog,,0,0,0,,Ej bracie! Już ranek!
 Comment: 0,0:22:59.21,0:23:01.34,Default,,0,0,0,,（月火(つきひ)）\Nいいかげんに\N起きないとダメだよ
+Dialogue: 0,0:22:59.21,0:23:01.34,Dialog,,0,0,0,,Ile można spać? Musisz w końcu wstać.
 Comment: 0,0:23:01.42,0:23:03.38,Default,,0,0,0,,さっき寝たばっかりなのに
+Dialogue: 0,0:23:01.42,0:23:03.38,Dialog,,0,0,0,,Dopiero co zasnąłem.
 Comment: 0,0:23:03.72,0:23:06.38,Default,,0,0,0,,あ〜 さては\Nまた夜更かししてやがったな！
+Dialogue: 0,0:23:03.72,0:23:06.38,Dialog,,0,0,0,,Aaa, Znów nie spałeś co!?
 Comment: 0,0:23:06.51,0:23:07.34,Default,,0,0,0,,（２人）もう！
+Dialogue: 0,0:23:06.51,0:23:07.34,Dialog,,0,0,0,,No nieee!
 Comment: 0,0:23:07.68,0:23:10.18,Default,,0,0,0,,（月火）\N朝ご飯 食べてないのは\Nお兄ちゃんだけだよ！
+Dialogue: 0,0:23:07.68,0:23:10.18,Dialog,,0,0,0,,Tylko ty nie jadłeś śniadania, braciszku!
 Comment: 0,0:23:12.56,0:23:15.94,Default,,0,0,0,,（阿良々木）\Nしかし 体がだるい\N熱でもあるみたいだ
+Dialogue: 0,0:23:12.56,0:23:15.94,Dialog,,0,0,0,,Ale moje ciało jest jakieś ociężałe. Chyba mam gorączkę.
 Comment: 0,0:23:17.69,0:23:21.32,Default,,0,0,0,,ちなみに僕の体重は55キロ でも…
+Dialogue: 0,0:23:17.69,0:23:21.32,Dialog,,0,0,0,,Tak poza tym, moja waga wynosiła 55 kilo, ale...
 Comment: 0,0:23:21.73,0:23:22.57,Default,,0,0,0,,おいおい
+Dialogue: 0,0:23:21.73,0:23:22.57,Dialog,,0,0,0,,No nie...
 Comment: 0,0:23:23.32,0:23:27.91,Default,,0,0,0,,なるほど　神様ってのは\N確かに大ざっぱな連中らしい
+Dialogue: 0,0:23:23.32,0:23:27.91,Dialog,,0,0,0,,Rozumiem. Bogowie na prawde są niedrobiazgowi.
 Comment: 0,0:23:30.62,0:23:36.62,Default,,0,0,0,,♪〜
+Dialogue: 0,0:23:47.96,0:23:51.10,Kimi no shiranai monogatari,,0,0,0,,{\blur5}"Tam jest Deneb, Altair i Wega"
+Dialogue: 0,0:23:51.10,0:23:54.10,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Wskazałeś Letni Trójkąt
+Dialogue: 0,0:23:54.10,0:23:59.84,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Patrzę w niebo, przypominając to sobie
+Dialogue: 0,0:23:59.84,0:24:02.68,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Wreszcie odnalazłam Orihime-Sama
+Dialogue: 0,0:24:02.68,0:24:05.68,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Ale gdzie jest Hikoboshi-Sama?
+Dialogue: 0,0:24:05.68,0:24:13.88,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Tak zostaję całkiem sama
+Dialogue: 0,0:24:13.88,0:24:20.14,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Patrzyłam w górę z ciemnego świata
+Dialogue: 0,0:24:20.14,0:24:26.96,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Z nocnego nieba zdawały się spadać gwiazdy
+Dialogue: 0,0:24:26.96,0:24:29.96,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Nie wiem od kiedy
+Dialogue: 0,0:24:29.96,0:24:38.46,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Gonię za tobą
+Dialogue: 0,0:24:38.46,0:24:41.46,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Proszę, błagam cię
+Dialogue: 0,0:24:41.46,0:24:47.54,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Wysłuchaj mnie i nie bądź zaskoczony
+Dialogue: 0,0:24:47.54,0:24:56.90,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Tymi moimi uczuciami
 Comment: 0,0:24:52.87,0:24:58.87,Default,,0,0,0,,〜♪
 Comment: 0,0:25:01.00,0:25:02.54,Default,,0,0,0,,（火憐）火憐だぜ！\N（月火）月火だよ！
+Dialogue: 0,0:25:01.00,0:25:01.52,Karen_end,,0,0,0,,Tu Karen!
+Dialogue: 0,0:25:01.52,0:25:02.54,Tsukihi_end,,0,0,0,,I Tsukihi!
 Comment: 0,0:25:02.63,0:25:03.46,Default,,0,0,0,,（月火）\Nジャングルジムって言うじゃん
+Dialogue: 0,0:25:02.63,0:25:03.46,Tsukihi_end,,0,0,0,,Mówi się przecież na to „małpi gaj”, nie?
 Comment: 0,0:25:03.54,0:25:04.38,Default,,0,0,0,,（火憐）\N私も言ったことある！
+Dialogue: 0,0:25:03.54,0:25:04.38,Karen_end,,0,0,0,,Też tak mówiłam!
 Comment: 0,0:25:04.46,0:25:05.30,Default,,0,0,0,,（月火）\N言い過ぎじゃないかな
+Dialogue: 0,0:25:04.46,0:25:05.30,Tsukihi_end,,0,0,0,,Czy to nie przesada?
 Comment: 0,0:25:05.38,0:25:06.92,Default,,0,0,0,,（火憐）言い過ぎって？\N（月火）ジャングルて
+Dialogue: 0,0:25:05.38,0:25:06.15,Karen_end,,0,0,0,,Przesada?
+Dialogue: 0,0:25:06.15,0:25:06.92,Tsukihi_end,,0,0,0,,No bo "małpi".
 Comment: 0,0:25:06.96,0:25:08.05,Default,,0,0,0,,（火憐）\Nジャングル… じゃないな
+Dialogue: 0,0:25:06.96,0:25:08.05,Karen_end,,0,0,0,,No, nie ma tam małp...
 Comment: 0,0:25:08.13,0:25:09.42,Default,,0,0,0,,（月火）ジムて\N（火憐）ジムでも ねえや
-Comment: 0,0:25:09.51,0:25:10.38,Default,,0,0,0,,（月火）\Nイメージ操作だよ
+Dialogue: 0,0:25:08.13,0:25:08.57,Tsukihi_end,,0,0,0,,A gaj?
+Dialogue: 0,0:25:08.57,0:25:09.42,Karen_end,,0,0,0,,Też nie ma.
+Dialogue: 0,0:25:09.51,0:25:10.38,Tsukihi_end,,0,0,0,,To manipulacja wizerunkiem!
 Comment: 0,0:25:10.43,0:25:11.72,Default,,0,0,0,,（火憐）\Nじゃ どんな名前が正しいんだ？
+Dialogue: 0,0:25:10.43,0:25:11.72,Karen_end,,0,0,0,,Dobra, więc jaka powinna być poprawna nazwa?
 Comment: 0,0:25:11.80,0:25:13.39,Default,,0,0,0,,（月火）\N“鉄棒スペシャル”とかが\Nいいんじゃないかな
+Dialogue: 0,0:25:11.80,0:25:13.39,Tsukihi_end,,0,0,0,,Na przykład "Specjalne metalowe drążki" to niezła nazwa, prawda?
 Comment: 0,0:25:13.47,0:25:14.30,Default,,0,0,0,,（火憐）\Nすさまじそう！
+Dialogue: 0,0:25:13.47,0:25:14.30,Karen_end,,0,0,0,,Ale czad!
 Comment: 0,0:25:14.39,0:25:15.43,Default,,0,0,0,,（月火）\Nでは ここで予告編クイズ！
+Dialogue: 0,0:25:14.39,0:25:15.43,Tsukihi_end,,0,0,0,,Czas na quiz zapowiadający!
 Comment: 0,0:25:15.51,0:25:16.35,Default,,0,0,0,,（火憐）\Nクイズ！
+Dialogue: 0,0:25:15.51,0:25:16.35,Karen_end,,0,0,0,,Quiz!
 Comment: 0,0:25:16.47,0:25:17.52,Default,,0,0,0,,（月火）\Nあなたはバスの運転手です
+Dialogue: 0,0:25:16.47,0:25:17.52,Tsukihi_end,,0,0,0,,Jesteś kierowcą autobusu.
 Comment: 0,0:25:17.60,0:25:19.39,Default,,0,0,0,,（火憐）\Nまさか 私が\Nバスの運転手だったとは！
+Dialogue: 0,0:25:17.60,0:25:19.39,Karen_end,,0,0,0,,Kto by pomyślał, że będę kierować autobusem!
 Comment: 0,0:25:19.48,0:25:20.48,Default,,0,0,0,,（月火）\N最初の駅で３人 乗りました！
-Comment: 0,0:25:20.56,0:25:21.60,Default,,0,0,0,,（火憐）\Nノリノリだぜ！
+Dialogue: 0,0:25:19.48,0:25:20.48,Tsukihi_end,,0,0,0,,Na pierwszej stacji wsiadły 3 osoby!
+Comment: 0,0:25:20.56,0:25:21.60,Dialog,,0,0,0,,（火憐）\Nノリノリだぜ！
+Dialogue: 0,0:25:20.56,0:25:21.60,Karen_end,,0,0,0,,Ale jazda!
 Comment: 0,0:25:21.65,0:25:23.56,Default,,0,0,0,,（月火）\Nさて バスの運転手の名前は\N何でしょう！
-Comment: 0,0:25:23.65,0:25:24.94,Default,,0,0,0,,（火憐）\Nはしょり過ぎだあ！
+Dialogue: 0,0:25:21.65,0:25:23.56,Tsukihi_end,,0,0,0,,Wieć, jak nazywa sie kierowca autobusu!?
+Comment: 0,0:25:23.65,0:25:24.94,Karen_end,,0,0,0,,（火憐）\Nはしょり過ぎだあ！
+Dialogue: 0,0:25:23.65,0:25:24.94,Karen_end,,0,0,0,,Ależ skróciłaś!
 Comment: 0,0:25:25.07,0:25:26.98,Default,,0,0,0,,（火憐･月火）\N次回「まよいマイマイ\N其ノ壹(そのいち)」
-Comment: 0,0:25:27.07,0:25:28.28,Default,,0,0,0,,（月火）\Nはい　それが あなたの名前です
+Dialogue: 0,0:25:25.07,0:25:26.98,Karen_Tsukihi,,0,0,0,,Następnym razem "Ślimak Mayoi część pierwsza".
+Comment: 0,0:25:27.07,0:25:28.28,Dialog,,0,0,0,,（月火）\Nはい　それが あなたの名前です
+Dialogue: 0,0:25:27.07,0:25:28.28,Tsukihi_end,,0,0,0,,Zgadza się. To twoje imię.
 Comment: 0,0:25:28.36,0:25:30.11,Default,,0,0,0,,（火憐）\N手品っぽく締めた！
+Dialogue: 0,0:25:28.36,0:25:30.11,Karen_end,,0,0,0,,Ale to podsumowałaś!
