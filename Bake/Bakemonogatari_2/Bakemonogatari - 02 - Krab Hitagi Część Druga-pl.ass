@@ -16,9 +16,9 @@ Video File: ../../../filmy_seriale/Seriale dla dekeneratów/化物語(2009)/化�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 857
-Active Line: 863
-Video Position: 36215
+Scroll Position: 1131
+Active Line: 1168
+Video Position: 36564
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,8 +28,8 @@ Style: Znak,Bahnschrift,50,&H00F0F0F0,&H000000FF,&H000F0F0F,&H00000000,-1,0,0,0,
 Style: Plansza,MS Mincho,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Plansza Blue,MS Mincho,70,&H006F4240,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Plansza Blue Yellow,MS Mincho,70,&H0064A4CA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
-Style: Plansza Red,MS Mincho,70,&H002E48E4,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
-Style: Plansza gold,MS Mincho,70,&H007593A7,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Plansza Red,MS Mincho,70,&H002E48E4,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,5,10,10,10,1
+Style: Plansza gold\white,MS Mincho,70,&H00FFFFFF,&H000000FF,&H007593A7,&H00000000,0,0,0,0,100,100,0,0,1,3,0,5,10,10,10,1
 Style: Plansza brown,MS Mincho,70,&H00514E64,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Note,Sans Serif Collection,50,&H00224159,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Plansza black,MS Mincho,70,&H000F0F0F,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
@@ -39,6 +39,14 @@ Style: Kimi no shiranai monogatari,Playfair Display Medium,48,&H00F0F0F0,&H00000
 Style: Karen_end,Amaranth PL,75,&H0046BDE4,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,1,2,10,10,10,1
 Style: Tsukihi_end,Amaranth PL,75,&H0046BDE4,&H000000FF,&H0092936C,&H00000000,0,0,0,0,100,100,0,0,1,3.2,1,2,10,10,10,1
 Style: Karen_Tsukihi,Amaranth PL,75,&H0092936C,&H000000FF,&H0046BDE4,&H00000000,0,0,0,0,100,100,0,0,1,3,1,2,10,10,10,1
+Style: Plansza Blue light,MS Mincho,70,&H00DF9C54,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Plansza Yellow,MS Mincho,70,&H0013A5E3,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Gazeta/Tradycyjne,EB Garamond,45,&H001A1A1A,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Plansza - Grey,MS Mincho,70,&H00ACADAC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Plansza Red - left,MS Mincho,70,&H002E48E4,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,4,10,10,10,1
+Style: Plansza gold,MS Mincho,70,&H007593A7,&H000000FF,&H007593A7,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Plansza - orange,MS Mincho,70,&H005674F4,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Plansza - black\white,MS Mincho,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -82,9 +90,86 @@ Dialogue: 0,0:01:52.52,0:01:55.89,Stable,,0,0,0,,Gdy wskoczę w twoje serce, zł
 Dialogue: 0,0:01:55.89,0:02:03.98,Stable,,0,0,0,,Tych uczuć nie da się zważyć
 Dialogue: 0,0:02:03.98,0:02:11.38,Stable,,0,0,0,,Bo wyznam je teraz tylko tobie
 Comment: 0,0:02:10.97,0:02:16.97,Default,JP,0,0,0,,〜♪
-Dialogue: 0,0:02:06.94,0:02:17.70,Plansza Red,,0,0,0,,{\fs70\t(\fs65)\pos(956,588)}Krab Hitagi
+Dialogue: 0,0:02:07.23,0:02:17.70,Plansza Red,,0,0,0,,{\fs70\t(\fs65)\pos(956,588)}Krab Hitagi
 Comment: 0,0:00:36.28,0:00:42.28,Default,,0,0,0,,♪〜
 Comment: 0,0:02:10.21,0:02:16.22,Default,,0,0,0,,〜♪
+Dialogue: 0,0:02:21.00,0:02:22.12,Plansza,,0,0,0,,{\pos(960,692)}Ludzie ratują się sami
+Dialogue: 0,0:02:22.12,0:02:23.08,Plansza Red,,0,0,0,,{\frz0\pos(1276,472)}O\Ns\Nh\Ni\Nn\No\N z\Na\Nw\Ns\Nz\Ne
+Dialogue: 0,0:02:23.08,0:02:23.87,Plansza,,0,0,0,,{\pos(944,532)}Wiesz o tym?
+Dialogue: 0,0:02:23.08,0:02:23.87,Plansza,,0,0,0,,{\pos(960,856)}Panienko.
+Dialogue: 0,0:02:22.12,0:02:23.08,Plansza Red,,0,0,0,,{\frz0\pos(868,340)}t\Na\Nk\N m\Nó\Nw\Ni\Nł
+Dialogue: 0,0:02:23.87,0:02:24.54,Plansza Red,,0,0,0,,{\frz270\pos(1104,516)}To stara, zagraniczan legenda.
+Dialogue: 0,0:02:24.54,0:02:25.17,Plansza,,0,0,0,,{\pos(334,92)}Pewnego razu,
+Dialogue: 0,0:02:24.54,0:02:25.17,Plansza,,0,0,0,,{\pos(442,808)}Dobroduszny chłopak.
+Dialogue: 0,0:02:24.54,0:02:25.17,Plansza,,0,0,0,,{\pos(454,452)}był sobie młody chłopak
+Dialogue: 0,0:02:25.17,0:02:25.71,Plansza Red,,0,0,0,,{\fs50\frz270\pos(1696,208)}Tamtego dnia,
+Dialogue: 0,0:02:25.17,0:02:25.71,Plansza Red,,0,0,0,,{\fs47\frz270\pos(1396,560)}młodzieniec spotkał w mieście tajemniczego starca.
+Dialogue: 0,0:02:25.17,0:02:25.71,Plansza Red,,0,0,0,,{\fs50\frz270\pos(1100,204)}starzeć prosi
+Dialogue: 0,0:02:25.17,0:02:25.71,Plansza Red,,0,0,0,,{\fs50\frz270\pos(792,412)}by młodzieniec sprzedał mu swój
+Dialogue: 0,0:02:25.17,0:02:25.71,Plansza Red,,0,0,0,,{\fs50\frz270\pos(472,120)}cień.
+Dialogue: 0,0:02:25.71,0:02:26.21,Plansza,,0,0,0,,{\fs100\pos(956,852)}"Cień?"
+Dialogue: 0,0:02:26.21,0:02:26.67,Plansza Red,,0,0,0,,{\frz270\pos(1572,128)}Tak.
+Dialogue: 0,0:02:26.21,0:02:26.67,Plansza Red,,0,0,0,,{\frz270\pos(1280,420)}Oświetlany przez słońce,
+Dialogue: 0,0:02:26.21,0:02:26.67,Plansza Red,,0,0,0,,{\frz270\pos(920,384)}tworzony u jego stóp,
+Dialogue: 0,0:02:26.21,0:02:26.67,Plansza Red,,0,0,0,,{\frz270\pos(564,192)}ten cień.
+Dialogue: 0,0:02:26.67,0:02:27.08,Plansza,,0,0,0,,{\pos(860,232)}"Sprzedaj mi go za dziesięć złotych monet” - poprosił.
+Dialogue: 0,0:02:26.67,0:02:27.08,Plansza,,0,0,0,,{\pos(640,456)}Młodzieniec sprzedał go bez wahania.
+Dialogue: 0,0:02:26.67,0:02:27.08,Plansza,,0,0,0,,{\pos(480,668)}Za dziesięć złotych monet.
+Dialogue: 0,0:02:27.08,0:02:27.42,Plansza Blue light,,0,0,0,,{\frz270\pos(1132,400)}"... ... Więc?"
+Dialogue: 0,0:02:27.42,0:02:27.75,Plansza,,0,0,0,,{\fs45\pos(872,96)}Ten młodzieniec,
+Dialogue: 0,0:02:27.42,0:02:27.75,Plansza,,0,0,0,,{\fs45\pos(1336,208)}nie sądzieł, że jego cień,
+Dialogue: 0,0:02:27.42,0:02:27.75,Plansza,,0,0,0,,{\fs45\pos(1528,420)}jest wart więcej niż dziesięć złotych monet,
+Dialogue: 0,0:02:27.42,0:02:27.75,Plansza,,0,0,0,,{\fs45\pos(1476,488)}ani trochę tak nie uważał.
+Dialogue: 0,0:02:27.42,0:02:27.75,Plansza,,0,0,0,,{\fs45\pos(1252,584)}Bo czemu niby nie?
+Dialogue: 0,0:02:27.42,0:02:27.75,Plansza,,0,0,0,,{\fs45\pos(1208,704)}Nawet bez cienia,
+Dialogue: 0,0:02:27.42,0:02:27.75,Plansza,,0,0,0,,{\fs45\pos(1488,892)}w rzeczywistości nie ma się żadnych kłopotów.
+Dialogue: 0,0:02:27.42,0:02:27.75,Plansza,,0,0,0,,{\fs45\pos(1436,1028)}Nie stwarza nigdzie żadnych niedogodności.
+Dialogue: 0,0:02:27.75,0:02:28.09,Plansza Blue light,,0,0,0,,{\frz270\pos(688,388)}kontynuował opowieść.
+Dialogue: 0,0:02:27.75,0:02:28.09,Plansza Blue light,,0,0,0,,{\frz270\pos(1288,456)}Oshino, dodając gestykulacje
+Dialogue: 0,0:02:28.09,0:02:28.38,Plansza,,0,0,0,,{\fs50\pos(416,320)}Lecz, co się ostatecznie stało?
+Dialogue: 0,0:02:28.09,0:02:28.38,Plansza,,0,0,0,,{\fs50\pos(728,480)}Młodzieniec, ze strony mieszkańców swojego miasta i rodziny,
+Dialogue: 0,0:02:28.09,0:02:28.38,Plansza,,0,0,0,,{\fs50\pos(484,628)}zaczął doświadczać prześladowania.
+Dialogue: 0,0:02:28.09,0:02:28.38,Plansza,,0,0,0,,{\fs50\pos(420,788)}Popadł w konflikt z otoczeniem.
+Dialogue: 0,0:02:28.09,0:02:28.38,Plansza,,0,0,0,,{\fs50\pos(556,936)}Mówili mu, że to przerażające nie mieć cienia.
+Dialogue: 0,0:02:28.38,0:02:28.59,Plansza Blue light,,0,0,0,,{\frz270\pos(1200,408)}Przecież to oczywiste.
+Dialogue: 0,0:02:28.38,0:02:28.59,Plansza Blue light,,0,0,0,,{\frz270\pos(976,504)}Przecież to jest przerażające.
+Dialogue: 0,0:02:28.59,0:02:28.88,Plansza,,0,0,0,,{\fs50\pos(576,328)}Mówi się mimo tego o przerażający cieniu,
+Dialogue: 0,0:02:28.59,0:02:28.88,Plansza,,0,0,0,,{\fs50\pos(572,472)}ale jak bardzo jest przerażający jego brak.
+Dialogue: 0,0:02:28.59,0:02:28.88,Plansza,,0,0,0,,{\fs50\pos(572,472)}ale jak bardzo jest przerażający jego brak.
+Dialogue: 0,0:02:28.59,0:02:28.88,Plansza,,0,0,0,,{\fs50\pos(492,624)}Kiedy nie ma czegoś naturalnego.
+Dialogue: 0,0:02:28.59,0:02:28.88,Plansza,,0,0,0,,{\fs50\pos(628,796)}Słowem, młodzieniec za dziesięć złotych monet,
+Dialogue: 0,0:02:28.59,0:02:28.88,Plansza,,0,0,0,,{\fs50\pos(468,944)}sprzedał poprostu normalność.
+Dialogue: 0,0:02:29.09,0:02:29.30,Plansza,,0,0,0,,{\fs100\pos(960,284)}Cisza
+Dialogue: 0,0:02:29.30,0:02:29.46,Plansza Yellow,,0,0,0,,{\fs100\pos(960,284)}Głos
+Dialogue: 0,0:02:29.46,0:02:29.59,Plansza,,0,0,0,,{\fs100\pos(960,284)}Cisza
+Dialogue: 0,0:02:29.59,0:02:29.75,Plansza Yellow,,0,0,0,,{\fs100\pos(960,284)}Głos
+Dialogue: 0,0:02:29.75,0:02:29.88,Plansza,,0,0,0,,{\fs100\pos(960,284)}Cisza
+Dialogue: 0,0:02:29.88,0:02:30.09,Plansza Yellow,,0,0,0,,{\fs100\pos(960,284)}Głos
+Dialogue: 0,0:02:30.09,0:02:30.17,Plansza,,0,0,0,,{\fs100\pos(960,284)}Cisza
+Dialogue: 0,0:02:30.17,0:02:30.30,Plansza Yellow,,0,0,0,,{\fs100\pos(960,284)}Głos
+Dialogue: 0,0:02:30.30,0:02:30.42,Plansza,,0,0,0,,{\fs100\pos(960,284)}Cisza
+Dialogue: 0,0:02:30.42,0:02:30.55,Plansza Yellow,,0,0,0,,{\fs100\pos(960,284)}Głos
+Dialogue: 0,0:02:30.55,0:02:30.67,Plansza,,0,0,0,,{\fs100\pos(960,284)}Cisza
+Dialogue: 0,0:02:30.67,0:02:30.80,Plansza Yellow,,0,0,0,,{\fs100\pos(960,284)}Głos
+Dialogue: 0,0:02:30.80,0:02:30.92,Plansza,,0,0,0,,{\fs100\pos(960,284)}Cisza
+Dialogue: 0,0:02:30.92,0:02:31.09,Plansza Yellow,,0,0,0,,{\fs100\pos(960,284)}Głos
+Dialogue: 0,0:02:31.09,0:02:31.17,Plansza,,0,0,0,,{\fs100\pos(960,284)}Cisza
+Dialogue: 0,0:02:31.17,0:02:31.30,Plansza Yellow,,0,0,0,,{\fs100\pos(960,284)}Głos
+Dialogue: 0,0:02:31.30,0:02:31.42,Plansza,,0,0,0,,{\fs100\pos(960,284)}Cisza
+Dialogue: 0,0:02:31.42,0:02:31.55,Plansza Yellow,,0,0,0,,{\fs100\pos(960,284)}Głos
+Dialogue: 0,0:02:31.55,0:02:31.67,Plansza,,0,0,0,,{\fs100\pos(960,284)}Cisza
+Dialogue: 0,0:02:31.67,0:02:31.80,Plansza Yellow,,0,0,0,,{\fs100\pos(960,284)}Głos
+Dialogue: 0,0:02:31.80,0:02:31.92,Plansza,,0,0,0,,{\fs100\pos(960,284)}Cisza
+Dialogue: 0,0:02:31.92,0:02:32.09,Plansza Yellow,,0,0,0,,{\fs100\pos(960,284)}Głos
+Dialogue: 0,0:02:32.09,0:02:32.21,Plansza,,0,0,0,,{\fs100\pos(960,284)}Cisza
+Dialogue: 0,0:02:32.21,0:02:33.01,Plansza Red,,0,0,0,,{\fs60\pos(328,236)}Młodzieniec,
+Dialogue: 0,0:02:32.21,0:02:33.01,Plansza Red,,0,0,0,,{\fs60\pos(800,392)}chiał odnaleźć starca, żeby ten oddał mu jego cień,
+Dialogue: 0,0:02:32.21,0:02:33.01,Plansza Red,,0,0,0,,{\fs60\pos(736,552)}ilekroć go szukał, jakkolwiek by nie próbował,
+Dialogue: 0,0:02:32.21,0:02:33.01,Plansza Red,,0,0,0,,{\fs60\pos(444,712)}tego dziwnego starca,
+Dialogue: 0,0:02:32.21,0:02:33.01,Plansza Red,,0,0,0,,{\fs60\pos(436,876)}nie dało się odnaleźć.
+Dialogue: 0,0:02:32.21,0:02:33.01,Plansza Red,,0,0,0,,{\fs60\pos(272,1004)}Tadam.
+Dialogue: 0,0:02:33.09,0:02:36.01,Plansza black,,0,0,0,,{\pos(960,672)}Krab Hitagi Część Druga
+Dialogue: 0,0:02:33.09,0:02:36.01,Plansza black,,0,0,0,,{\fs40\pos(960,212)}Odcinek drugi
 Comment: 0,0:02:37.12,0:02:38.70,Default,,0,0,0,,（戦場ヶ原）助けてくれるんですか
 Dialogue: 0,0:02:37.12,0:02:38.70,Dialog,,0,0,0,,Pomożesz mi...?
 Comment: 0,0:02:41.12,0:02:43.50,Default,,0,0,0,,（忍野(おしの)）助けない　力は貸すけど
@@ -194,7 +279,7 @@ Dialogue: 0,0:05:14.48,0:05:17.32,Dialog,,0,0,0,,To jest zapłata za dziś, fund
 Comment: 0,0:05:17.40,0:05:18.69,Default,,0,0,0,,ちょっとは喜びなさいよ
 Dialogue: 0,0:05:17.40,0:05:18.69,Dialog,,0,0,0,,Ucież się trochę.
 Dialogue: 0,0:05:19.11,0:05:19.94,Default,,0,0,0,,うっ
-Comment: 0,0:05:20.70,0:05:22.28,Default,,0,0,0,,Ucież się trochę!
+Dialogue: 0,0:05:20.70,0:05:22.28,Dialog,,0,0,0,,Ucież się trochę!
 Comment: 0,0:05:22.74,0:05:23.91,Default,,0,0,0,,（阿良々木）\N逆切れされた！
 Dialogue: 0,0:05:22.74,0:05:23.91,Dialog,,0,0,0,,Jeszcze to ona strzela focha!
 Comment: 0,0:05:24.28,0:05:26.78,Default,,0,0,0,,（戦場ヶ原）\N感想くらい言うのが\N礼儀でしょう
@@ -289,12 +374,36 @@ Comment: 0,0:07:26.57,0:07:28.32,Default,,0,0,0,,（阿良々木）\Nせっか�
 Dialogue: 0,0:07:26.57,0:07:28.32,Dialog,,0,0,0,,Dlaczego je zjdemujesz?
 Comment: 0,0:07:29.03,0:07:30.87,Default,,0,0,0,,（戦場ヶ原）\N髪を乾かすのを忘れていたわ
 Dialogue: 0,0:07:29.03,0:07:30.87,Dialog,,0,0,0,,Zapomniałam wysuszyć włosów.
+Dialogue: 0,0:07:30.97,0:07:33.14,Gazeta/Tradycyjne,,0,0,0,,{\fs55\pos(1024,572)}Memoriał Shinzan
+Dialogue: 0,0:07:30.97,0:07:33.14,Gazeta/Tradycyjne,,0,0,0,,{\fs50\frz270\pos(408,720)}Lek na cykl miesięczny
+Dialogue: 0,0:07:30.97,0:07:33.14,Gazeta/Tradycyjne,,0,0,0,,{\fs45\frz270\pos(428,136)}Lojalność i Odwaga
 Comment: 0,0:07:31.45,0:07:34.12,Default,,0,0,0,,（阿良々木）\Nお前 ひょっとして\Nただのバカなんじゃないか？
 Dialogue: 0,0:07:31.45,0:07:34.12,Dialog,,0,0,0,,A może przez przyadek jesteś głupia?
+Dialogue: 0,0:07:33.14,0:07:34.02,Gazeta/Tradycyjne,,0,0,0,,{\pos(756,466)}Słynny Park w Narze
+Dialogue: 0,0:07:33.14,0:07:34.02,Gazeta/Tradycyjne,,0,0,0,,{\fs36\pos(756,690)}5–15 minut pieszo na wschód \Nod stacji Kintetsu Nara
+Dialogue: 0,0:07:33.14,0:07:34.02,Gazeta/Tradycyjne,,0,0,0,,{\fs35\frz270\pos(364,706)}Rozmarzony \Nchłopiec-detektyw
+Dialogue: 0,0:07:33.14,0:07:34.02,Gazeta/Tradycyjne,,0,0,0,,{\fs38\frz270\pos(1780,602)}Protest w obronie dwóch profesorów
+Dialogue: 0,0:07:33.14,0:07:34.02,Gazeta/Tradycyjne,,0,0,0,,{\fs25\frz270\pos(1596,210)}Rozwiązanie sporu w Japońskim Przemysłe Papierniczym
 Comment: 0,0:07:34.20,0:07:36.46,Default,,0,0,0,,（戦場ヶ原）\N失礼なことを\N言わないでくれるかしら？
 Dialogue: 0,0:07:34.20,0:07:36.46,Dialog,,0,0,0,,Może przestaniesz mówić takie rzeczy?
+Dialogue: 0,0:07:34.02,0:07:38.56,Gazeta/Tradycyjne,,0,0,0,,{\pos(844,646)}Tonik leczniczniczy do skóry głowy
+Dialogue: 0,0:07:34.02,0:07:38.56,Gazeta/Tradycyjne,,0,0,0,,{\fs35\frz270\pos(1548,694)}Teatr Hongoza
+Dialogue: 0,0:07:34.02,0:07:38.56,Gazeta/Tradycyjne,,0,0,0,,{\fs30\frz0\pos(416,434)}Wielki turniej\N Shogi
+Dialogue: 0,0:07:34.02,0:07:38.56,Gazeta/Tradycyjne,,0,0,0,,{\fs35\frz0\pos(848,554)}Nowy preparat do mycia włosów polecany przez wybitnych lekarzy
 Comment: 0,0:07:36.54,0:07:38.50,Default,,0,0,0,,私が傷ついたら大変じゃないの
-Comment: 0,0:07:36.54,0:07:38.50,Default,,0,0,0,,Czy nie było by dziwne jabym doznała ran.
+Dialogue: 0,0:07:36.54,0:07:38.50,Dialog,,0,0,0,,Czy nie było by dziwne jabym doznała ran.
+Dialogue: 0,0:07:40.06,0:07:41.31,Gazeta/Tradycyjne,,0,0,0,,{\fs70\frz270\pos(644,550)}Silnik naftowy Tobata
+Dialogue: 0,0:07:40.06,0:07:41.31,Gazeta/Tradycyjne,,0,0,0,,{\fs40\frz270\pos(792,462)}Od producenta bezpośrednio do użytkownika
+Dialogue: 0,0:07:40.06,0:07:41.31,Gazeta/Tradycyjne,,0,0,0,,{\fs40\frz270\pos(792,462)}Od producenta bezpośrednio do użytkownika
+Dialogue: 0,0:07:40.06,0:07:41.31,Gazeta/Tradycyjne,,0,0,0,,{\fs30\frz270\pos(972,526)}Od producenta bezpośrednio do użytkownika
+Dialogue: 0,0:07:40.06,0:07:41.31,Gazeta/Tradycyjne,,0,0,0,,{\fs30\frz0\pos(1092,242)}Znak towarowy zastrzeżony
+Dialogue: 0,0:07:40.06,0:07:41.31,Gazeta/Tradycyjne,,0,0,0,,{\fs80\frz270\pos(1664,706)}Yanmar
+Dialogue: 0,0:07:40.06,0:07:41.31,Gazeta/Tradycyjne,,0,0,0,,{\fs45\frz270\pos(1812,374)}Do łuskania ryżu
+Dialogue: 0,0:07:42.11,0:07:43.48,Gazeta/Tradycyjne,,0,0,0,,{\fs40\frz270\pos(348,358)}Włosy to życie kobiety
+Dialogue: 0,0:07:42.11,0:07:43.48,Gazeta/Tradycyjne,,0,0,0,,{\fs40\pos(1324,938)}Gorączka szkarlatna szerzy się\N wśród dzieci w wieku szkolnym
+Dialogue: 0,0:07:42.11,0:07:43.48,Gazeta/Tradycyjne,,0,0,0,,{\fs38\frz270\pos(232,446)}Wzrost przestępczości w\N okresie Nowego Roku
+Dialogue: 0,0:07:42.11,0:07:43.48,Gazeta/Tradycyjne,,0,0,0,,{\fs30\frz270\pos(852,798)}Tragiczna śmierć dwójki dzieci w pożarze kotatsu
+Dialogue: 0,0:07:42.11,0:07:43.48,Gazeta/Tradycyjne,,0,0,0,,{\fs30\frz270\pos(372,818)}Śmierć w płomieniach\N z upojenia alkoholowego
 Comment: 0,0:07:43.84,0:07:46.26,Default,,0,0,0,,（阿良々木）\Nさっき 楽天的って言ってたな
 Dialogue: 0,0:07:43.84,0:07:46.26,Dialog,,0,0,0,,Powiedziałaś wcześniej, że jesteś optymistką.
 Comment: 0,0:07:46.34,0:07:47.72,Default,,0,0,0,,（戦場ヶ原）そうじゃなくて？
@@ -313,6 +422,7 @@ Dialogue: 0,0:08:00.23,0:08:00.63,Dialog,,0,0,0,,Widzisz?
 Dialogue: 0,0:08:00.67,0:08:02.36,Dialog,,0,0,0,,Możliwe.
 Comment: 0,0:08:03.40,0:08:04.23,Default,,0,0,0,,でも…
 Dialogue: 0,0:08:03.40,0:08:04.23,Dialog,,0,0,0,,Lecz...
+Dialogue: 0,0:08:04.42,0:08:06.30,Plansza,,0,0,0,,{\pos(956,696)}Czarny
 Comment: 0,0:08:05.11,0:08:06.24,Default,,0,0,0,,ズルは しているかも
 Dialogue: 0,0:08:05.11,0:08:06.24,Dialog,,0,0,0,,Nadal może mnie oszukiwać
 Comment: 0,0:08:06.61,0:08:07.99,Default,,0,0,0,,（阿良々木）え？\N（戦場ヶ原）何でもないわ
@@ -328,10 +438,14 @@ Comment: 0,0:08:19.83,0:08:22.13,Default,,0,0,0,,（戦場ヶ原）\N言って�
 Dialogue: 0,0:08:19.83,0:08:22.13,Dialog,,0,0,0,,Przecież mówiłeś tak u Oshino.
 Comment: 0,0:08:22.50,0:08:24.75,Default,,0,0,0,,ほら 月の模様って 日本からだと
 Dialogue: 0,0:08:22.50,0:08:24.75,Dialog,,0,0,0,,Widzisz, wzory na księżcu z Japonii...
+Dialogue: 0,0:08:24.82,0:08:27.32,Gazeta/Tradycyjne,,0,0,0,,{\frz270\pos(612,530)}Skuteczny lek na przeziębienie i \Ngorączkę
 Comment: 0,0:08:25.34,0:08:27.26,Default,,0,0,0,,うさぎが 餅をついているように\N見えるけれど
 Dialogue: 0,0:08:25.34,0:08:27.26,Dialog,,0,0,0,,Przypominają królika ubijającego Mochi.
 Comment: 0,0:08:27.88,0:08:29.63,Default,,0,0,0,,海外からだと 蟹(かに)だったり
 Dialogue: 0,0:08:27.88,0:08:29.63,Dialog,,0,0,0,,za granicą już widzą kraba...
+Dialogue: 0,0:08:28.78,0:08:29.70,Gazeta/Tradycyjne,,0,0,0,,{\pos(532,146)}Kulinarne wycieczki na kraba po Kamczatce
+Dialogue: 0,0:08:28.78,0:08:29.70,Gazeta/Tradycyjne,,0,0,0,,{\fs38\pos(1164,658)}Miasto zamarza, ludzie zamarzają... \Na gdyby tak zeskrobać ten lód, \Npowstaną lody Kakigiri
+Dialogue: 0,0:08:28.78,0:08:29.70,Gazeta/Tradycyjne,,0,0,0,,{\fs38\frz270\pos(196,574)}Jak zwykle wysoka przestępczość w Nowy Rok
 Comment: 0,0:08:29.84,0:08:32.01,Default,,0,0,0,,美人の横顔だったりする\Nっていうから
 Dialogue: 0,0:08:29.84,0:08:32.01,Dialog,,0,0,0,,...albo profil pięknej kobiety.
 Comment: 0,0:08:32.43,0:08:34.10,Default,,0,0,0,,（戦場ヶ原）へえ そうなんだ
@@ -349,6 +463,24 @@ Comment: 0,0:08:47.74,0:08:50.40,Default,,0,0,0,,どうせ それ以外は\N何�
 Dialogue: 0,0:08:47.74,0:08:50.40,Dialog,,0,0,0,,I tak pewnie nie wiesz nic po za tym.
 Comment: 0,0:08:50.53,0:08:52.32,Default,,0,0,0,,言葉の暴力って知ってるか
 Dialogue: 0,0:08:50.53,0:08:52.32,Dialog,,0,0,0,,Wiesz może czym jest „przemoc słowana"?
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1112,534)}Policja 24h: "Ocalić ludzi, którzy\N nie wytrzymują przemocy słownej"
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1064,66)}Chęć przetrwania!
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(424,378)}Teatralny\N salon dla\N gospodyń\N domowych
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1232,170)}Warsztaty tworzenia \Nlalek Kimekomi
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(436,790)}Prezent:\N Masato Mitoyo
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(400,938)}Pierwsze miłości \Nsławnych osób
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1312,838)}Show o 13:00 \NNajlepsze\N momenty
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1304,1070)}Kwiat rzodkwi:\N "Niezamężna...
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1500,174)}Rośliny, życie i \Notoczenie
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1520,290)}Lokalne inicjatywy...
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1512,414)}Dzieci angażujące\N się w...
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1536,494)}Gawędki...
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1536,582)}Pomidory
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1532,662)}"Upalny...
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1544,794)}Wolność\N muzyki...
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1616,886)}Rodzinne strony...
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1524,930)}Odkrywanie
+Dialogue: 0,0:08:52.39,0:08:53.93,Gazeta/Tradycyjne,,0,0,0,,{\pos(1544,1010)}Yagyu Jubei...
 Comment: 0,0:08:52.70,0:08:55.37,Default,,0,0,0,,（戦場ヶ原）\Nなら 言葉の警察を呼びなさいよ
 Dialogue: 0,0:08:52.70,0:08:55.37,Dialog,,0,0,0,,Więc zadzwoń na „policje słowną".
 Comment: 0,0:08:56.08,0:08:57.37,Default,,0,0,0,,お前…
@@ -381,6 +513,7 @@ Comment: 0,0:09:28.73,0:09:31.74,Default,,0,0,0,,お前 僕の頭がすごく悪
 Dialogue: 0,0:09:28.73,0:09:31.74,Dialog,,0,0,0,,To bardzo niemiłe, że tak myślisz o mojej głowie.
 Comment: 0,0:09:32.07,0:09:33.91,Default,,0,0,0,,あっ！ なぜ気付いたの？
 Dialogue: 0,0:09:32.07,0:09:33.91,Dialog,,0,0,0,,A!? Jak to zauważyłeś?
+Dialogue: 0,0:09:33.97,0:09:34.59,Plansza Red,,0,0,0,,{\pos(1288,532)}Wygląda na to, że myślała, że to ukrywa
 Comment: 0,0:09:34.87,0:09:36.16,Default,,0,0,0,,真顔で驚かれた！
 Dialogue: 0,0:09:34.87,0:09:36.16,Dialog,,0,0,0,,Masz to wypisane na twarzy!
 Comment: 0,0:09:38.33,0:09:40.33,Default,,0,0,0,,私のせいで 阿良々木くんが
@@ -391,6 +524,11 @@ Comment: 0,0:09:43.62,0:09:44.67,Default,,0,0,0,,責任を感じるわ
 Dialogue: 0,0:09:43.62,0:09:44.67,Dialog,,0,0,0,,Poczułam się odpowiedzialna.
 Comment: 0,0:09:45.00,0:09:46.59,Dialog,,0,0,0,,おい ちょっと待て
 Dialogue: 0,0:09:45.00,0:09:46.59,Dialog,,0,0,0,,Ej, poczekaj chwile
+Dialogue: 0,0:09:47.23,0:09:47.73,Gazeta/Tradycyjne,,0,0,0,,{\fs35\frz270\pos(656,226)}Wydanie noworoczne
+Dialogue: 0,0:09:47.23,0:09:47.73,Gazeta/Tradycyjne,,0,0,0,,{\fs40\frz0\pos(388,398)}Biznes
+Dialogue: 0,0:09:47.23,0:09:47.73,Gazeta/Tradycyjne,,0,0,0,,{\fs40\frz0\pos(556,618)}Ważne
+Dialogue: 0,0:09:47.23,0:09:47.73,Gazeta/Tradycyjne,,0,0,0,,{\fs25\frz0\pos(996,662)}Podwójny\N numer\N noworoczny
+Dialogue: 0,0:09:47.23,0:09:47.73,Gazeta/Tradycyjne,,0,0,0,,{\fs25\frz0\pos(788,862)}Spójrz na noworoczną stronę wydania z 2. roku ery Showa (1927 r.)
 Dialogue: 0,0:09:44.73,0:09:49.69,Dialog,,0,0,0,,Czy jestem aż tak głupi?
 Comment: 0,0:09:49.96,0:09:52.38,Default,,0,0,0,,偏差値チェック 私 74
 Dialogue: 0,0:09:49.96,0:09:52.38,Dialog,,0,0,0,,Sprawdźmy ranking: Ja mam 74.
@@ -422,8 +560,12 @@ Comment: 0,0:10:23.62,0:10:24.46,Default,,0,0,0,,（阿良々木）なんで？
 Dialogue: 0,0:10:23.62,0:10:24.46,Dialog,,0,0,0,,Dlaczego?
 Comment: 0,0:10:24.96,0:10:26.71,Default,,0,0,0,,（戦場ヶ原）\Nあら 知らなかったの？
 Dialogue: 0,0:10:24.96,0:10:26.71,Dialog,,0,0,0,,A, nie wiesz?
+Dialogue: 0,0:10:26.77,0:10:28.77,Gazeta/Tradycyjne,,0,0,0,,{\pos(896,662)}Wycieczka na\N Hokkaidō:\\N 8 dni i 7 nocy
+Dialogue: 0,0:10:26.77,0:10:28.77,Gazeta/Tradycyjne,,0,0,0,,{\pos(392,558)\frz312.4}Jesz kraba, ile chcesz
+Dialogue: 0,0:10:26.77,0:10:28.77,Gazeta/Tradycyjne,,0,0,0,,{\fs25\pos(572,378)}(Dostępne w puszkach)
 Comment: 0,0:10:27.88,0:10:30.67,Default,,0,0,0,,蟹って とってもおししいのよ
-Dialogue: 0,0:10:27.88,0:10:30.67,Dialog,,0,0,0,,Kraby są przepyszne.
+Dialogue: 0,0:10:27.88,0:10:30.67,Dialog,,0,0,0,,{\pos(836,838)}Kraby są przepyszne.
+Dialogue: 0,0:10:35.53,0:10:36.28,Note,,0,0,0,,{\pos(576,68)}Witamy na Narodowym Festiwalu Sportu Naoetsu
 Comment: 0,0:10:53.19,0:10:54.03,Default,,0,0,0,,あっ
 Dialogue: 0,0:10:53.19,0:10:54.03,Dialog,,0,0,0,,A...
 Comment: 0,0:10:57.45,0:10:58.37,Default,,0,0,0,,（戦場ヶ原）え…
@@ -447,7 +589,7 @@ Dialogue: 0,0:11:24.18,0:11:25.02,Dialog,,0,0,0,,（忍野）そう
 Comment: 0,0:11:25.10,0:11:27.14,Default,,0,0,0,,まっ とりあえず正しい判断だ
 Dialogue: 0,0:11:25.10,0:11:27.14,Dialog,,0,0,0,,To była słuszna decyzja.
 Comment: 0,0:11:27.48,0:11:29.48,Default,,0,0,0,,阿良々木くんも\Nシャワー 浴びてきたかい？
-Dialogue: 0,0:11:27.48,0:11:29.48,Dialog,,0,0,0,,A ty Araragi też wziąłeśprysznic?
+Dialogue: 0,0:11:27.48,0:11:29.48,Dialog,,0,0,0,,A ty Araragi też wziąłeś prysznic?
 Dialogue: 0,0:11:29.69,0:11:32.44,Dialog,,0,0,0,,Ta, wykąpałem się u Senjougahary, nie przejmuj się tym.
 Comment: 0,0:11:29.69,0:11:32.44,Default,,0,0,0,,（阿良々木）\Nああ 戦場ヶ原に借りた\N問題ないよ
 Comment: 0,0:11:33.48,0:11:36.20,Default,,0,0,0,,ふうん\N君は代わり映えしないねえ
@@ -502,7 +644,7 @@ Dialogue: 0,0:12:41.51,0:12:44.31,Dialog,,0,0,0,,Powiedz... czy ten krab...
 Comment: 0,0:12:44.39,0:12:46.14,Default,,0,0,0,,今も 私のそばにいますか？
 Dialogue: 0,0:12:44.39,0:12:46.14,Dialog,,0,0,0,,Również teraz, jest przy mnie?
 Comment: 0,0:12:47.60,0:12:51.23,Default,,0,0,0,,そう そこにいるし どこにでもいる
-Dialogue: 0,0:12:47.60,0:12:51.23,Dialog,,0,0,0,,Ta, jest tu, lecz również jest wszędzie.
+Dialogue: 0,0:12:47.60,0:12:51.23,Dialog,,0,0,0,,Tak, jest tu, lecz również jest wszędzie.
 Comment: 0,0:12:51.90,0:12:54.52,Default,,0,0,0,,ただし ここに\N降りてきてもらうためには
 Dialogue: 0,0:12:51.90,0:12:54.52,Dialog,,0,0,0,,Lecz żeby chciał przyjść...
 Comment: 0,0:12:54.69,0:12:56.57,Default,,0,0,0,,（忍野）手順が必要だけどね\N（戦場ヶ原）あ…
@@ -551,39 +693,50 @@ Dialogue: 0,0:14:27.99,0:14:28.95,Dialog,,0,0,0,,Uspokoiłaś się?
 Comment: 0,0:14:29.99,0:14:30.83,Default,,0,0,0,,（戦場ヶ原）はい
 Dialogue: 0,0:14:29.99,0:14:30.83,Dialog,,0,0,0,,Tak.
 Comment: 0,0:14:30.91,0:14:33.62,Default,,0,0,0,,（忍野）\Nそう じゃあ 質問に答えてみよう
-Dialogue: 0,0:14:30.91,0:14:33.62,Dialog,,0,0,0,,Dobra, więc spróbujodpowiadać na moje pytania.
+Dialogue: 0,0:14:30.91,0:14:33.62,Dialog,,0,0,0,,Dobrze więc spróbuj odpowiadać na moje pytania.
+Dialogue: 0,0:14:35.19,0:14:37.69,Plansza,,0,0,0,,{\frz270\pos(548,516)}Pytanie pierwsze
 Comment: 0,0:14:35.71,0:14:37.63,Default,,0,0,0,,お嬢ちゃん\N君の名前は？
 Dialogue: 0,0:14:35.71,0:14:37.63,Dialog,,0,0,0,,Imię Panienki?
 Comment: 0,0:14:38.29,0:14:39.75,Default,,0,0,0,,（戦場ヶ原）\N戦場ヶ原ひたぎ
 Dialogue: 0,0:14:38.29,0:14:39.75,Dialog,,0,0,0,,Hitagi Senjougahara.
+Dialogue: 0,0:14:39.82,0:14:41.69,Plansza Red,,0,0,0,,{\frz270\pos(1344,720)}Pytanie drugie
 Comment: 0,0:14:40.38,0:14:41.63,Default,,0,0,0,,（忍野）\N通っている学校は？
 Dialogue: 0,0:14:40.38,0:14:41.63,Dialog,,0,0,0,,Do jakiej szkoły uczęszczasz?
+Dialogue: 0,0:14:44.20,0:14:45.45,Plansza Red,,0,0,0,,{\frx28\fry0\pos(964,536)}Pytanie trzeczie
 Comment: 0,0:14:42.46,0:14:44.13,Default,,0,0,0,,（戦場ヶ原）\N私立直江津(なおえつ)高校
 Dialogue: 0,0:14:42.46,0:14:44.13,Dialog,,0,0,0,,Prywatne Liceum Naoetsu.
 Comment: 0,0:14:44.55,0:14:45.38,Default,,0,0,0,,（忍野）誕生日は？
 Dialogue: 0,0:14:44.55,0:14:45.38,Dialog,,0,0,0,,Kiedy masz urodziny?
 Comment: 0,0:14:46.18,0:14:47.26,Default,,0,0,0,,（戦場ヶ原）７月７日
 Dialogue: 0,0:14:46.18,0:14:47.26,Dialog,,0,0,0,, Siódmego lipca.
+Dialogue: 0,0:14:47.32,0:14:49.58,Note,,0,0,0,,{\fs60\pos(996,660)}Pytanie czwarte
 Comment: 0,0:14:48.01,0:14:49.51,Default,,0,0,0,,（忍野）\Nいちばん好きな\N小説家は？
 Dialogue: 0,0:14:48.01,0:14:49.51,Dialog,,0,0,0,,Ulubiony powieściopisarz?
 Comment: 0,0:14:50.39,0:14:51.39,Default,,0,0,0,,（戦場ヶ原）夢野久作(ゆめのきゅうさく)
 Dialogue: 0,0:14:50.39,0:14:51.39,Dialog,,0,0,0,,Kyuusaku Yumeno.
+Dialogue: 0,0:14:51.45,0:14:54.46,Plansza,,0,0,0,,{\pos(296,660)}Pyta
+Dialogue: 0,0:14:51.45,0:14:54.46,Plansza,,0,0,0,,{\pos(968,164)}nie
+Dialogue: 0,0:14:51.45,0:14:54.46,Plansza,,0,0,0,,{\pos(1516,372)}piąte
 Comment: 0,0:14:52.06,0:14:54.39,Default,,0,0,0,,（忍野）\N子供のころの失敗談を\N聞かせてくれる？
 Dialogue: 0,0:14:52.06,0:14:54.39,Dialog,,0,0,0,,Możesz powiedzieć o jakiejś krępującej historii z dzieciństwa?
 Comment: 0,0:14:54.98,0:14:56.02,Default,,0,0,0,,言いたくありません
 Dialogue: 0,0:14:54.98,0:14:56.02,Dialog,,0,0,0,,Nie chcę powiedzieć.
+Dialogue: 0,0:14:56.08,0:14:57.96,Plansza,,0,0,0,,{\pos(1368,512)}Pytanie szóste
 Comment: 0,0:14:56.73,0:14:57.90,Default,,0,0,0,,（忍野）\N好きな古典音楽は？
 Dialogue: 0,0:14:56.73,0:14:57.90,Dialog,,0,0,0,,Ulubiona muzyka klasyczna?
 Comment: 0,0:14:58.65,0:15:00.40,Default,,0,0,0,,（戦場ヶ原）\N音楽は\Nあまり たしなみません
 Dialogue: 0,0:14:58.65,0:15:00.40,Dialog,,0,0,0,,Niezbyt lubię, muzykę.
+Dialogue: 0,0:15:00.46,0:15:03.34,Plansza,,0,0,0,,{\frz270\pos(1512,488)}Pytanie siódme
 Comment: 0,0:15:00.77,0:15:03.28,Default,,0,0,0,,（忍野）\N小学校を卒業するとき\Nどう思った？
 Dialogue: 0,0:15:00.77,0:15:03.28,Dialog,,0,0,0,,Co myślałaś po ukończeniu podstawówki?
 Comment: 0,0:15:03.90,0:15:07.24,Default,,0,0,0,,（戦場ヶ原）\N単純に中学校に\N移るだけだと思いました
 Dialogue: 0,0:15:03.90,0:15:07.24,Dialog,,0,0,0,,Myślałam, że teraz po prostu pójde do gimnazjum.
 Comment: 0,0:15:07.45,0:15:09.53,Default,,0,0,0,,公立から公立へ\N行くだけだったから
 Dialogue: 0,0:15:07.45,0:15:09.53,Dialog,,0,0,0,,Przechodziłam z jednej instysucji do drugiej.
+Dialogue: 0,0:15:09.60,0:15:11.89,Plansza,,0,0,0,,{\pos(604,720)}Pytanie ósme
 Comment: 0,0:15:09.95,0:15:11.83,Default,,0,0,0,,（忍野）\N初恋の男の子は\Nどんな子だった？
 Dialogue: 0,0:15:09.95,0:15:11.83,Dialog,,0,0,0,,Jaki chłopka był twoją pierwszą miłością?
+Dialogue: 0,0:15:13.39,0:15:16.90,Plansza,,0,0,0,,{\frz313.8\pos(1144,540)}Pytanie dziewiąte
 Comment: 0,0:15:12.45,0:15:13.33,Default,,0,0,0,,（戦場ヶ原）\N言いたくありません
 Dialogue: 0,0:15:12.45,0:15:13.33,Dialog,,0,0,0,,Nie chcę odpowiadać.
 Comment: 0,0:15:14.04,0:15:15.33,Default,,0,0,0,,（忍野）\N今までの人生で
@@ -600,10 +753,12 @@ Comment: 0,0:15:30.85,0:15:31.72,Default,,0,0,0,,（忍野）お母さんが
 Dialogue: 0,0:15:30.85,0:15:31.72,Dialog,,0,0,0,,Matka...
 Comment: 0,0:15:32.89,0:15:35.23,Default,,0,0,0,,悪い宗教に はまったこと
 Dialogue: 0,0:15:32.89,0:15:35.23,Dialog,,0,0,0,,Dołaczyła do złego kultu.
+Dialogue: 0,0:15:35.29,0:15:37.29,Plansza,,0,0,0,,{\frz270\pos(880,424)}Odpowiedz na pytanie.
 Comment: 0,0:15:36.31,0:15:37.23,Default,,0,0,0,,（忍野）それだけかい？
 Dialogue: 0,0:15:36.31,0:15:37.23,Dialog,,0,0,0,,Czy to wszytko?
 Comment: 0,0:15:38.19,0:15:39.36,Default,,0,0,0,,それだけって…
 Dialogue: 0,0:15:38.19,0:15:39.36,Dialog,,0,0,0,,Pozatym...
+Dialogue: 0,0:15:39.42,0:15:43.05,Plansza,,0,0,0,,{\frz270\pos(880,424)}Odpowiedz na pytanie.
 Comment: 0,0:15:40.40,0:15:42.98,Default,,0,0,0,,（忍野）\N言ってごらん\N何があった？
 Dialogue: 0,0:15:40.40,0:15:42.98,Dialog,,0,0,0,,Powiesz mi co się wydarzyło?
 Comment: 0,0:15:44.69,0:15:49.24,Default,,0,0,0,,（戦場ヶ原）\Nう… うちに\Nその宗教団体の幹部の人が
@@ -612,10 +767,18 @@ Comment: 0,0:15:49.99,0:15:52.16,Default,,0,0,0,,お母さんに連れられて\
 Dialogue: 0,0:15:49.99,0:15:52.16,Dialog,,0,0,0,,Matka go tam przywiozła...
 Comment: 0,0:15:52.99,0:15:54.62,Default,,0,0,0,,（忍野）やって来て どうした？
 Dialogue: 0,0:15:52.99,0:15:54.62,Dialog,,0,0,0,,Przyszedł i co zrobił?
+Dialogue: 0,0:15:54.68,0:15:56.94,Plansza,,0,0,0,,{\pos(888,728)}Ręka
 Comment: 0,0:15:55.91,0:15:58.12,Default,,0,0,0,,（戦場ヶ原）\N儀式だと言って 私を…
 Dialogue: 0,0:15:55.91,0:15:58.12,Dialog,,0,0,0,,Powiedział, że to rytuał...
+Dialogue: 0,0:15:56.94,0:15:58.19,Plansza,,0,0,0,,{\pos(424,840)}Ręka
+Dialogue: 0,0:15:56.94,0:15:58.19,Plansza,,0,0,0,,{\pos(1288,744)}Ręka
+Dialogue: 0,0:15:56.94,0:15:58.19,Plansza,,0,0,0,,{\pos(1324,308)}Ręka
+Dialogue: 0,0:15:56.94,0:15:58.19,Plansza,,0,0,0,,{\pos(472,516)}Ręka
+Dialogue: 0,0:15:58.19,0:15:59.19,Plansza,,0,0,0,,{\pos(1216,744)}Ręka
+Dialogue: 0,0:15:58.19,0:15:59.19,Plansza,,0,0,0,,{\pos(572,812)}Ręka
 Comment: 0,0:15:59.63,0:16:01.34,Default,,0,0,0,,わ… 私に
 Dialogue: 0,0:15:59.63,0:16:01.34,Dialog,,0,0,0,,M... Mnie....
+Dialogue: 0,0:16:01.44,0:16:03.23,Plansza,,0,0,0,,{\frz270\pos(896,472)}Przymusowe cudzołustwo
 Comment: 0,0:16:02.34,0:16:03.17,Default,,0,0,0,,乱暴を
 Dialogue: 0,0:16:02.34,0:16:03.17,Dialog,,0,0,0,,Użyć siły...
 Dialogue: 0,0:16:03.34,0:16:04.17,Default,,0,0,0,,あっ
@@ -627,18 +790,57 @@ Comment: 0,0:16:13.18,0:16:17.89,Default,,0,0,0,,でも“犯そうと”とい�
 Dialogue: 0,0:16:13.18,0:16:17.89,Dialog,,0,0,0,,Ale mówiąc „próbował", to znaczy, że skończyło się na usiłowaniu, prawda?
 Comment: 0,0:16:19.06,0:16:21.65,Default,,0,0,0,,h近くにあったスパイクで\N殴ってやったわ
 Dialogue: 0,0:16:19.06,0:16:21.65,Dialog,,0,0,0,,Uderzyłam go obcasem, który był niedaleko.
+Dialogue: 0,0:16:22.13,0:16:23.25,Plansza Red,,0,0,0,,{\frz330.4\pos(920,680)}Udzerzenie
+Dialogue: 0,0:16:23.25,0:16:25.00,Plansza,,0,0,0,,{\pos(684,344)}Matka
+Dialogue: 0,0:16:25.00,0:16:28.00,Plansza Red,,0,0,0,,{\pos(1548,148)}Matka
+Dialogue: 0,0:16:25.00,0:16:28.00,Plansza Red,,0,0,0,,{\pos(960,804)}Powrót
 Comment: 0,0:16:22.77,0:16:27.24,Default,,0,0,0,,でも お母さんは\N私を助けてくれなかった
 Dialogue: 0,0:16:22.77,0:16:27.24,Dialog,,0,0,0,,Lecz moja matka mi nie pomogła.
 Comment: 0,0:16:28.15,0:16:28.99,Default,,0,0,0,,（忍野）そして？
 Dialogue: 0,0:16:28.15,0:16:28.99,Dialog,,0,0,0,,I?
 Comment: 0,0:16:30.24,0:16:35.54,Default,,0,0,0,,（戦場ヶ原）\N私が その幹部に\Nケガをさせたせいで お母さんは…
 Dialogue: 0,0:16:30.24,0:16:35.54,Dialog,,0,0,0,,Dlatego, że skrzywdziłam tego przywódcę, Matka...
+Dialogue: 0,0:16:33.72,0:16:34.22,Plansza Red,,0,0,0,,{\pos(980,580)}Zniszenie
+Dialogue: 0,0:16:33.72,0:16:34.22,Plansza - Grey,,0,0,0,,{\pos(1536,148)}M**ka
 Comment: 0,0:16:36.70,0:16:39.67,Default,,0,0,0,,（忍野）\Nお母さんはペナルティを負った？
 Dialogue: 0,0:16:36.70,0:16:39.67,Dialog,,0,0,0,,Otrzymałą karę?
 Comment: 0,0:16:40.54,0:16:44.09,Default,,0,0,0,,はい　でも 考えてしまうんです
 Dialogue: 0,0:16:40.54,0:16:44.09,Dialog,,0,0,0,,Tak, ale nie mogę przestać o tym myśleć.
 Comment: 0,0:16:44.29,0:16:46.92,Default,,0,0,0,,もしも 私が あのとき\N抵抗しなかったら
 Dialogue: 0,0:16:44.29,0:16:46.92,Dialog,,0,0,0,,Gdybym wtedy nie stawiała oporu...
+Dialogue: 0,0:16:46.99,0:16:58.75,Plansza gold\white,,0,0,0,,{\fscx120\fscy120\t(\fscx70\fscy70)\move(1164,744,1068,600)}I
+Dialogue: 0,0:16:46.99,0:16:58.75,Plansza gold\white,,0,0,0,,{\fscx120\fscy120\t(\fscx70\fscy70)\move(752,764,844,596,0,11694)}O
+Dialogue: 0,0:16:46.99,0:16:58.75,Plansza gold\white,,0,0,0,,{\fscx120\fscy120\t(\fscx70\fscy70)\move(956,640,952,524,0,11735)}A
+Dialogue: 0,0:16:46.99,0:16:58.75,Plansza gold\white,,0,0,0,,{\fscx120\fscy120\t(\fscx70\fscy70)\move(824,1024,888,736,0,11527)}E
+Dialogue: 0,0:16:46.99,0:16:58.75,Plansza gold\white,,0,0,0,,{\fscx120\fscy120\t(\fscx70\fscy70)\move(1144,1024,1040,740,0,11735)}U
+Dialogue: 0,0:16:52.24,0:16:58.75,Plansza gold\white,,0,0,0,,{\pos(152,144)}8
+Dialogue: 0,0:16:54.99,0:16:58.75,Plansza gold\white,,0,0,0,,{\pos(80,808)}7
+Dialogue: 0,0:16:54.99,0:16:58.75,Plansza gold\white,,0,0,0,,{\pos(1820,504)}3
+Dialogue: 0,0:16:57.91,0:16:58.75,Plansza gold\white,,0,0,0,,{\pos(1752,1008)}4
+Dialogue: 0,0:16:58.75,0:16:59.37,Plansza Red,,0,0,0,,{\pos(964,484)}Wersja live-action
+Dialogue: 0,0:16:59.37,0:17:05.50,Plansza gold\white,,0,0,0,,{\fscx120\fscy120\t(\fscx70\fscy70)\move(1068,588,1048,548,23,6112)}I
+Dialogue: 0,0:16:59.37,0:17:05.50,Plansza gold\white,,0,0,0,,{\fscx120\fscy120\t(\fscx70\fscy70)\move(956,524,960,488,23,6112)}A
+Dialogue: 0,0:16:59.37,0:17:05.50,Plansza gold\white,,0,0,0,,{\fscx120\fscy120\t(\fscx70\fscy70)\move(852,596,868,540,23,6112)}O
+Dialogue: 0,0:16:59.37,0:17:05.50,Plansza gold\white,,0,0,0,,{\fscx120\fscy120\t(\fscx70\fscy70)\move(892,732,904,676,23,6112)}E
+Dialogue: 0,0:16:59.37,0:17:05.50,Plansza gold\white,,0,0,0,,{\fscx120\fscy120\t(\fscx70\fscy70)\move(1032,748,1020,668,23,6112)}U
+Dialogue: 0,0:16:59.37,0:17:05.50,Plansza gold\white,,0,0,0,,{\fscx120\fscy120\t(\fscx100\fscy100)\move(1680,424,1520,328,23,6112)}3
+Dialogue: 0,0:16:59.37,0:17:05.50,Plansza gold\white,,0,0,0,,{\fscx120\fscy120\t(\fscx100\fscy100)\move(1628,988,1508,848,23,6112)}4
+Dialogue: 0,0:16:59.37,0:17:05.50,Plansza gold\white,,0,0,0,,{\fscx120\fscy120\t(\fscx100\fscy100)\move(240,848,416,804,23,6112)}7
+Dialogue: 0,0:16:59.37,0:17:05.50,Plansza gold\white,,0,0,0,,{\fscx120\fscy120\t(\fscx100\fscy100)\move(320,256,404,344,23,6112)}8
+Dialogue: 0,0:17:05.50,0:17:06.13,Plansza Red,,0,0,0,,{\pos(964,850)}Wersja live-action
+Dialogue: 0,0:17:06.13,0:17:08.76,Plansza gold\white,,0,0,0,,{\fscx70\fscy70\t(\fscx50\fscy50)\move(1048,544,1040,532,19,2605)}I
+Dialogue: 0,0:17:06.13,0:17:08.76,Plansza gold\white,,0,0,0,,{\fscx70\fscy70\t(\fscx50\fscy50)\move(956,500,956,476,19,2605)}A
+Dialogue: 0,0:17:06.13,0:17:08.76,Plansza gold\white,,0,0,0,,{\fscx70\fscy70\t(\fscx50\fscy50)\move(872,552,872,528,19,2605)}O
+Dialogue: 0,0:17:06.13,0:17:08.76,Plansza gold\white,,0,0,0,,{\fscx70\fscy70\t(\fscx50\fscy50)\move(908,668,912,644,19,2605)}E
+Dialogue: 0,0:17:06.13,0:17:08.76,Plansza gold\white,,0,0,0,,{\fscx70\fscy70\t(\fscx50\fscy50)\move(1012,668,1016,652,19,2605)}U
+Dialogue: 0,0:17:06.13,0:17:08.76,Plansza gold\white,,0,0,0,,{\fscx100\fscy100\t(\fscx90\fscy90)\move(404,344,436,384,19,2605)}8
+Dialogue: 0,0:17:06.13,0:17:08.76,Plansza gold\white,,0,0,0,,{\fscx100\fscy100\t(\fscx90\fscy90)\move(1500,320,1456,292,19,2605)}3
+Dialogue: 0,0:17:06.13,0:17:08.76,Plansza gold\white,,0,0,0,,{\fscx100\fscy100\t(\fscx90\fscy90)\move(1520,828,1488,764,19,2605)}4
+Dialogue: 0,0:17:06.13,0:17:08.76,Plansza gold\white,,0,0,0,,{\fscx100\fscy100\t(\fscx90\fscy90)\move(400,828,444,812,19,2605)}7
+Dialogue: 0,0:17:08.76,0:17:14.60,Plansza,,0,0,0,,{\move(1160,632,1160,832,17,3979)}Dolna kurtyna
+Dialogue: 0,0:17:08.76,0:17:14.60,Plansza,,0,0,0,,{\move(1160,444,1160,224,17,3979)}Górna kurtyna
+Dialogue: 0,0:17:08.76,0:17:14.60,Plansza,,0,0,0,,{\fs40\move(1644,636,1644,832,17,3979)}Brak numeru klatki animacji
+Dialogue: 0,0:17:08.76,0:17:14.60,Plansza,,0,0,0,,{\fs40\move(1644,444,1644,232,17,3979)}Brak numeru klatki animacji
 Comment: 0,0:16:47.88,0:16:51.72,Default,,0,0,0,,少なくとも こんなことには\Nならなかったんじゃないかって
 Dialogue: 0,0:16:47.88,0:16:51.72,Dialog,,0,0,0,,Przynajmniej to wszystko potoczyło się inaczej.
 Comment: 0,0:16:52.05,0:16:53.97,Default,,0,0,0,,壊れなかったんじゃないかって
@@ -655,6 +857,8 @@ Comment: 0,0:17:06.90,0:17:08.69,Default,,0,0,0,,（戦場ヶ原）\N人任せ�
 Dialogue: 0,0:17:06.90,0:17:08.69,Dialog,,0,0,0,,Zrzucać... na innych...
 Comment: 0,0:17:09.40,0:17:12.70,Default,,0,0,0,,（忍野）\N目を背けずに\N目を開けて見てみよう
 Dialogue: 0,0:17:09.40,0:17:12.70,Dialog,,0,0,0,,Nie odwracaj wzroku. Spróbuj otwórzyć oczy.
+Dialogue: 0,0:17:19.06,0:17:21.06,Plansza Red,,0,0,0,,{\fs100\move(1792,196,1296,216,1000,1979)}Krab
+Dialogue: 0,0:17:20.48,0:17:21.06,Plansza Red - left,,0,0,0,,{\fs40\move(22,968,42,707,17,559)}(1) Ogólna nazwa grupy stawonogów\N o krótkim odwłoku \Nnależących do rzędu dziesięcionogów\N z gromady skorupiaków.Mają parę \Nszczypiec, cztery pary odnóży\N krocznych oraz twardy pancerz. \NW większości poruszają się bokiem.\NIstnieje wiele gatunków morskich \Ni słodkowodnych, a ich rozmiary są \Nbardzo zróżnicowane.\NWiele z nich jest jadalnych.\NKraby królewskie oraz kraby palmowe \Npod względem klasyfikacji nie należą\N do krabów właściwych,\N lecz powszechnie są tak nazywane.
 Comment: 0,0:17:21.50,0:17:26.00,Default,,0,0,0,,（戦場ヶ原）ハッ… あっ あ…
 Dialogue: 0,0:17:21.50,0:17:26.00,Default,,0,0,0,,（戦場ヶ原）ハッ… あっ あ…
 Comment: 0,0:17:26.59,0:17:28.59,Default,,0,0,0,,（忍野）何か見えるかい？
@@ -666,7 +870,7 @@ Dialogue: 0,0:17:32.68,0:17:38.02,Dialog,,0,0,0,,Tak samo jak wtedy widzę... Wi
 Comment: 0,0:17:39.48,0:17:40.81,Default,,0,0,0,,（忍野）そうかい
 Dialogue: 0,0:17:39.48,0:17:40.81,Dialog,,0,0,0,,Tak jest?
 Comment: 0,0:17:40.89,0:17:44.40,Default,,0,0,0,,僕には 全く見えないがね\N阿良々木くんは？
-Dialogue: 0,0:17:40.89,0:17:44.40,Dialog,,0,0,0,,Ja w ogóle tego nie widzę A ty Araragi?
+Dialogue: 0,0:17:40.89,0:17:44.40,Dialog,,0,0,0,,Ja w ogóle tego nie widzę. A ty Araragi?
 Comment: 0,0:17:44.90,0:17:46.23,Default,,0,0,0,,（阿良々木）何も見えない
 Dialogue: 0,0:17:44.90,0:17:46.23,Dialog,,0,0,0,,Nic nie widzę.
 Comment: 0,0:17:46.65,0:17:50.49,Default,,0,0,0,,で… でも\Nはっきりと見えます 私には
@@ -745,7 +949,7 @@ Dialogue: 0,0:19:39.47,0:19:42.01,Dialog,,0,0,0,,Ale oprócz tego dziękuje.
 Comment: 0,0:19:43.35,0:19:45.18,Default,,0,0,0,,でも もういいんです
 Dialogue: 0,0:19:43.35,0:19:45.18,Dialog,,0,0,0,,Ale tyle wystarczy.
 Comment: 0,0:19:45.31,0:19:50.15,Default,,0,0,0,,それは私の気持ちで\N私の思いで 私の記憶ですから
-Dialogue: 0,0:19:45.31,0:19:50.15,Dialog,,0,0,0,,Ale to moje uczucia, to moje, myśli i to moja wspomnienia.
+Dialogue: 0,0:19:45.31,0:19:50.15,Dialog,,0,0,0,,To moje uczucia, to moje, myśli i to moje wspomnienia.
 Comment: 0,0:19:50.36,0:19:51.61,Default,,0,0,0,,私が背負います
 Dialogue: 0,0:19:50.36,0:19:51.61,Dialog,,0,0,0,,Sama będę to nosić.
 Comment: 0,0:19:52.57,0:19:54.40,Default,,0,0,0,,なくしちゃ いけないものでした
@@ -756,11 +960,57 @@ Comment: 0,0:19:58.57,0:20:02.12,Default,,0,0,0,,どうか 私に\N私の重み�
 Dialogue: 0,0:19:58.57,0:20:02.12,Dialog,,0,0,0,,Błągam, oddaj mi moją wagę.
 Comment: 0,0:20:02.95,0:20:06.75,Default,,0,0,0,,どうか お母さんを\N私に返してください
 Dialogue: 0,0:20:02.95,0:20:06.75,Dialog,,0,0,0,,Błagam oddaj mi Matke.
+Dialogue: 0,0:20:16.32,0:20:16.82,Plansza,,0,0,0,,{\frz270\pos(884,460)}Poniżej jest wspomnienie
 Comment: 0,0:20:12.71,0:20:16.26,Default,,0,0,0,,（戦場ヶ原の泣き声）
 Comment: 0,0:20:17.63,0:20:21.51,Default,,0,0,0,,（阿良々木）\N戦場ヶ原の母親が\N悪徳宗教に はまったのは
 Dialogue: 0,0:20:17.63,0:20:21.51,Dialog,,0,0,0,,Matka Senjougahary dała się wciągnąć do tej oszukańczej sekty...
 Comment: 0,0:20:21.89,0:20:25.10,Default,,0,0,0,,戦場ヶ原が\N小学５年生のときだったらしい
+Dialogue: 0,0:20:21.82,0:20:26.41,Plansza gold,,0,0,0,,{\fs50\frz31.06\move(1580,572,1575,816,359,1735)}Otwórz oko umysłu
+Dialogue: 0,0:20:21.82,0:20:26.41,Plansza gold,,0,0,0,,{\fs50\move(244,764,259,228,776,1526)}A
+Dialogue: 0,0:20:21.82,0:20:26.41,Plansza gold,,0,0,0,,{\fs50\move(581,928,584,72,692,1777)}I
+Dialogue: 0,0:20:21.82,0:20:26.41,Plansza gold,,0,0,0,,{\fs50\move(960,984,959,28,651,2027)}U
+Dialogue: 0,0:20:21.82,0:20:26.41,Plansza gold,,0,0,0,,{\fs50\move(1340,948,1335,76,734,1860)}E
+Dialogue: 0,0:20:21.82,0:20:26.41,Plansza gold,,0,0,0,,{\fs50\move(1696,776,1667,236,525,1902)}O
 Dialogue: 0,0:20:21.89,0:20:25.10,Dialog,,0,0,0,,Podobno wtedy, gdy Senjougahara była w 5 klasie.
+Dialogue: 0,0:20:26.41,0:20:26.91,Plansza,,0,0,0,,{\frz270\pos(880,520)}Czerwony
+Dialogue: 0,0:20:26.91,0:20:28.96,Plansza - orange,,0,0,0,,{\fs50\pos(1692,352)}Prawa ręka diabła
+Dialogue: 0,0:20:26.91,0:20:28.96,Plansza - orange,,0,0,0,,{\fs50\pos(968,492)}Głowa
+Dialogue: 0,0:20:26.91,0:20:28.96,Plansza - orange,,0,0,0,,{\fs50\pos(660,900)}Tułów
+Dialogue: 0,0:20:26.91,0:20:28.96,Plansza - orange,,0,0,0,,{\fs50\pos(1716,920)}Lewa ręka Boga
+Dialogue: 0,0:20:28.96,0:20:29.46,Plansza,,0,0,0,,{\fs60\frz270\pos(1460,416)}Och, co za straszna rzecz.
+Dialogue: 0,0:20:28.96,0:20:29.46,Plansza,,0,0,0,,{\fs60\frz270\pos(1112,472)}Ręce i nogi mojej ukochanej córki
+Dialogue: 0,0:20:28.96,0:20:29.46,Plansza,,0,0,0,,{\fs60\frz270\pos(784,484)}zmieniają się w coś szpetnego.
+Dialogue: 0,0:20:29.46,0:20:35.21,Plansza gold\white,,0,0,0,,{\pos(952,496)}A
+Dialogue: 0,0:20:29.46,0:20:35.21,Plansza gold\white,,0,0,0,,{\pos(1036,528)}I
+Dialogue: 0,0:20:29.46,0:20:35.21,Plansza gold\white,,0,0,0,,{\pos(912,632)}E
+Dialogue: 0,0:20:29.46,0:20:35.21,Plansza gold\white,,0,0,0,,{\pos(1004,628)}U
+Dialogue: 0,0:20:29.46,0:20:35.21,Plansza gold\white,,0,0,0,,{\pos(876,536)}O
+Dialogue: 0,0:20:29.46,0:20:35.21,Plansza gold\white,,0,0,0,,{\pos(600,108)}1
+Dialogue: 0,0:20:29.46,0:20:35.21,Plansza gold\white,,0,0,0,,{\pos(1328,136)}3
+Dialogue: 0,0:20:29.46,0:20:35.21,Plansza gold\white,,0,0,0,,{\pos(1516,576)}4
+Dialogue: 0,0:20:29.46,0:20:35.21,Plansza gold\white,,0,0,0,,{\pos(1524,1048)}5
+Dialogue: 0,0:20:29.46,0:20:35.21,Plansza gold\white,,0,0,0,,{\pos(380,964)}7
+Dialogue: 0,0:20:29.46,0:20:35.21,Plansza gold\white,,0,0,0,,{\pos(392,548)}8
+Dialogue: 0,0:20:35.21,0:20:36.34,Plansza,,0,0,0,,{\pos(1560,444)}Operacja
+Dialogue: 0,0:20:36.34,0:20:36.71,Plansza,,0,0,0,,{\frz270\pos(668,640)}Szybko
+Dialogue: 0,0:20:36.34,0:20:36.71,Plansza,,0,0,0,,{\frz270\pos(260,320)}Pielęgnacja
+Dialogue: 0,0:20:36.34,0:20:36.71,Plansza,,0,0,0,,{\frz270\pos(1704,192)}Lek
+Dialogue: 0,0:20:36.34,0:20:36.71,Plansza,,0,0,0,,{\frz270\pos(1716,648)}Zażywanie
+Dialogue: 0,0:20:36.34,0:20:36.71,Plansza,,0,0,0,,{\frz270\pos(852,848)}Maść
+Dialogue: 0,0:20:36.34,0:20:36.71,Plansza,,0,0,0,,{\frz0\pos(1192,700)}Cyprys
+Dialogue: 0,0:20:36.34,0:20:36.71,Plansza,,0,0,0,,{\frz0\pos(1312,948)}Las
+Dialogue: 0,0:20:36.71,0:20:37.09,Plansza - orange,,0,0,0,,{\frz29.69\pos(1272,124)}Muszę uciąć
+Dialogue: 0,0:20:36.71,0:20:37.09,Plansza - orange,,0,0,0,,{\frz18.11\pos(1212,320)}Jeśli nie utnę
+Dialogue: 0,0:20:36.71,0:20:37.09,Plansza - orange,,0,0,0,,{\frz325.6\pos(960,820)}Jeśli nie połączę
+Dialogue: 0,0:20:36.71,0:20:37.09,Plansza - orange,,0,0,0,,{\frz343.9\pos(1140,676)}Muszę połączyć
+Dialogue: 0,0:20:36.71,0:20:37.09,Plansza - orange,,0,0,0,,{\frz296.5\fs50\pos(668,888)}Ach, co za pośpiech
+Dialogue: 0,0:20:36.71,0:20:37.09,Plansza - orange,,0,0,0,,{\fs50\frz276.2\pos(488,900)}Pośpiech
+Dialogue: 0,0:20:37.09,0:20:37.47,Plansza,,0,0,0,,{\pos(956,220)}Ząb
+Dialogue: 0,0:20:37.09,0:20:37.47,Plansza,,0,0,0,,{\frz310.6\pos(1180,364)}Zakwitły
+Dialogue: 0,0:20:37.09,0:20:37.47,Plansza,,0,0,0,,{\frz216\pos(1104,728)}Zakwitły
+Dialogue: 0,0:20:37.09,0:20:37.47,Plansza,,0,0,0,,{\frz303.4\pos(780,652)}Kwiaty wiśni
+Dialogue: 0,0:20:37.09,0:20:37.47,Plansza,,0,0,0,,{\frz55\pos(696,400)}Kwiat
+Dialogue: 0,0:20:37.09,0:20:37.47,Plansza,,0,0,0,,{\frz28.9\pos(796,268)}Nos
 Comment: 0,0:20:25.52,0:20:28.89,Default,,0,0,0,,そのころ 戦場ヶ原は\Nひどい大病を患った
 Dialogue: 0,0:20:25.52,0:20:28.89,Dialog,,0,0,0,,W tam tym czasie zachorowała na poważną chorobę.
 Dialogue: 0,0:20:30.10,0:20:31.61,Dialog,,0,0,0,,Z powodu choroby córki...
@@ -769,6 +1019,16 @@ Dialogue: 0,0:20:31.69,0:20:35.15,Dialog,,0,0,0,,Jej Matka desperacko szukałą 
 Comment: 0,0:20:35.44,0:20:36.28,Default,,0,0,0,,そして…
 Dialogue: 0,0:20:35.44,0:20:36.28,Dialog,,0,0,0,,I wtedy...
 Dialogue: 0,0:20:38.20,0:20:42.24,Default,,0,0,0,,Podobno w wyniku poważnej operacji Senjougahara cudem uszła z życiem.
+Dialogue: 0,0:20:42.80,0:20:46.77,Plansza - black\white,,0,0,0,,{\fs50\frz270\pos(1592,576)}Jednomyślność
+Dialogue: 0,0:20:42.80,0:20:46.77,Plansza - black\white,,0,0,0,,{\fs50\frz270\pos(300,572)}Jednomyślność
+Dialogue: 0,0:20:46.77,0:20:48.27,Plansza - Grey,,0,0,0,,{\fs40\frx0\fry2\frz315.3\pos(960,136)}Wspomnienie
+Dialogue: 0,0:20:46.77,0:20:48.27,Plansza,,0,0,0,,{\fs40\frx0\fry2\frz270\pos(368,132)}Wspomnienie
+Dialogue: 0,0:20:46.77,0:20:48.27,Plansza,,0,0,0,,{\fs40\frx0\fry2\frz270\pos(1512,140)}Wspomnienie
+Dialogue: 0,0:20:46.77,0:20:46.77,Plansza - black\white,,0,0,0,,{\fs40\frx0\fry2\frz270\pos(1012,644)}Wspomnienie Wspomnienie Wspomnienie
+Dialogue: 0,0:20:46.77,0:20:48.27,Plansza - black\white,,0,0,0,,{\fs40\frx0\fry2\frz270\pos(1012,644)}Wspomnienie Wspomnienie Wspomnienie
+Dialogue: 0,0:20:48.27,0:20:55.53,Plansza - Grey,,0,0,0,,{\pos(936,216)}Wspomnienie
+Dialogue: 0,0:20:48.27,0:20:55.53,Plansza,,0,0,0,,{\fs40\frz270\pos(892,716)}W trakcie modlitwy
+Dialogue: 0,0:20:55.53,0:20:56.69,Plansza,,0,0,0,,{\frz270\pos(884,500)}Spojrzała na mnie jak bestia
 Comment: 0,0:20:43.33,0:20:45.62,Default,,0,0,0,,だが それによって母親は
 Dialogue: 0,0:20:43.33,0:20:45.62,Dialog,,0,0,0,,I z tego powodu Matka...
 Comment: 0,0:20:45.70,0:20:48.21,Default,,0,0,0,,ますます\N宗教に のめり込んでしまった
@@ -781,14 +1041,35 @@ Comment: 0,0:20:55.80,0:20:56.63,Default,,0,0,0,,そして…
 Dialogue: 0,0:20:55.80,0:20:56.63,Dialog,,0,0,0,,Oprócz tego...
 Comment: 0,0:20:57.59,0:21:00.59,Default,,0,0,0,,中学卒業を間近にして事は起きた
 Dialogue: 0,0:20:57.59,0:21:00.59,Dialog,,0,0,0,,Tuż przed ukończeniem gimnazjum, doszło do tamtego zdarzenia.
+Dialogue: 0,0:21:00.70,0:21:01.82,Plansza Red,,0,0,0,,{\fs50\frz270\pos(1844,628)}Żądza kłębiąca się na ciele dziewczyny
+Dialogue: 0,0:21:01.82,0:21:03.24,Plansza,,0,0,0,,{\fs50\frz276.7\pos(840,92)}Bestia
+Dialogue: 0,0:21:01.82,0:21:03.24,Plansza,,0,0,0,,{\fs40\frz286.6\pos(508,52)}Bestia
+Dialogue: 0,0:21:01.82,0:21:03.24,Plansza,,0,0,0,,{\fs40\frz268.7\pos(376,72)}Bestia
+Dialogue: 0,0:21:01.82,0:21:03.24,Plansza,,0,0,0,,{\fs50\pos(660,76)\frz261.6}Bestia
+Dialogue: 0,0:21:01.82,0:21:03.24,Plansza Red,,0,0,0,,{\pos(968,1012)}Zboczeniec i porządanie seksualne
+Dialogue: 0,0:21:03.24,0:21:04.66,Plansza Red,,0,0,0,,Opuszki
+Dialogue: 0,0:21:06.12,0:21:08.58,Plansza,,0,0,0,,{\pos(164,444)}Japo
+Dialogue: 0,0:21:06.12,0:21:08.58,Plansza,,0,0,0,,{\pos(1752,444)}nia
+Dialogue: 0,0:21:06.12,0:21:08.58,Plansza gold,,0,0,0,,{\pos(1444,92)}2
+Dialogue: 0,0:21:06.12,0:21:08.58,Plansza gold,,0,0,0,,{\pos(1620,560)}3
+Dialogue: 0,0:21:06.12,0:21:08.58,Plansza gold,,0,0,0,,{\pos(1440,904)}4
+Dialogue: 0,0:21:06.12,0:21:08.58,Plansza gold,,0,0,0,,{\pos(496,968)}6
+Dialogue: 0,0:21:06.12,0:21:08.58,Plansza gold,,0,0,0,,{\pos(324,520)}7
+Dialogue: 0,0:21:06.12,0:21:08.58,Plansza gold,,0,0,0,,{\pos(452,84)}8
+Dialogue: 0,0:21:06.12,0:21:08.58,Plansza gold\white,,0,0,0,,{\pos(1112,576)}Dziwne
 Comment: 0,0:21:09.52,0:21:10.94,Default,,0,0,0,,その結果—
 Dialogue: 0,0:21:09.52,0:21:10.94,Dialog,,0,0,0,,W rezultacie...
+Dialogue: 0,0:21:12.12,0:21:13.58,Plansza Red,,0,0,0,,{\pos(316,396)}Zniszczenie
+Dialogue: 0,0:21:12.12,0:21:13.58,Plansza Red,,0,0,0,,{\pos(1616,232)}Zniszczenie
 Comment: 0,0:21:14.36,0:21:16.28,Default,,0,0,0,,家庭は崩壊してしまった
 Dialogue: 0,0:21:14.36,0:21:16.28,Dialog,,0,0,0,,Ich rodzina się rozpadła.
+Dialogue: 0,0:21:15.59,0:21:16.34,Plansza,,0,0,0,,{\pos(956,716)}Czarny
 Comment: 0,0:21:17.44,0:21:18.28,Default,,0,0,0,,破局した
 Dialogue: 0,0:21:17.44,0:21:18.28,Dialog,,0,0,0,,Wszystko legło w gruzach.
+Dialogue: 0,0:21:18.34,0:21:20.09,Znak,,0,0,0,,{\fs100\frz270\frx26\fry4\pos(1288,544)}STOP
 Comment: 0,0:21:19.40,0:21:24.16,Default,,0,0,0,,そして 戦場ヶ原は行き遭った\N１匹の蟹に
 Dialogue: 0,0:21:19.40,0:21:24.16,Dialog,,0,0,0,,I wtedy Senjougahara napotkałą pewnego kraba.
+Dialogue: 0,0:21:24.22,0:21:24.72,Plansza,,0,0,0,,{\frz270\pos(868,504)}Poniżej, koniec wspomnienia
 Comment: 0,0:21:25.03,0:21:26.66,Default,,0,0,0,,うう うう…
 Dialogue: 0,0:21:25.03,0:21:26.66,Default,,0,0,0,,うう うう…
 Comment: 0,0:21:26.74,0:21:29.41,Default,,0,0,0,,（忍野）\Nおもし蟹(がに)ってのはね 阿良々木くん
@@ -802,7 +1083,7 @@ Dialogue: 0,0:21:35.21,0:21:37.17,Dialog,,0,0,0,,Innymi słowami chodzi o życio
 Comment: 0,0:21:38.13,0:21:39.67,Default,,0,0,0,,（阿良々木）\Nつまり 蟹に行き遭ったとき
 Dialogue: 0,0:21:38.13,0:21:39.67,Dialog,,0,0,0,,Czyli kiedy napotkałą kraba...
 Comment: 0,0:21:39.76,0:21:42.68,Default,,0,0,0,,戦場ヶ原は\N母親へのしがらみを切ったのだ
-Dialogue: 0,0:21:39.76,0:21:42.68,Dialog,,0,0,0,,Senjougahara pozbyła się więzy z Matką.
+Dialogue: 0,0:21:39.76,0:21:42.68,Dialog,,0,0,0,,Senjougahara pozbyła się więzi z Matką.
 Comment: 0,0:21:43.76,0:21:46.60,Default,,0,0,0,,母親のことで\N思い悩むことをやめた
 Dialogue: 0,0:21:43.76,0:21:46.60,Dialog,,0,0,0,,Przestać się martwić Matką.
 Comment: 0,0:21:46.89,0:21:48.06,Default,,0,0,0,,思うのをやめた
@@ -821,6 +1102,10 @@ Comment: 0,0:22:02.78,0:22:05.20,Default,,0,0,0,,崩壊した家庭が\N再生�
 Dialogue: 0,0:22:02.78,0:22:05.20,Dialog,,0,0,0,,Ani nie odbuduje rozbitej rodzinny.
 Comment: 0,0:22:05.91,0:22:07.45,Default,,0,0,0,,（阿良々木）\Nそれなのに それでも
 Dialogue: 0,0:22:05.91,0:22:07.45,Dialog,,0,0,0,,Ale nadal...
+Dialogue: 0,0:22:07.51,0:22:25.03,Plansza,,0,0,0,,{\fs40\move(540,872,608,860,24,17500)}Dłoń
+Dialogue: 0,0:22:07.51,0:22:25.03,Plansza,,0,0,0,,{\fs40\move(408,860,488,852,24,17500)}Dłoń
+Dialogue: 0,0:22:07.51,0:22:25.03,Plansza,,0,0,0,,{\fs40\move(476,243,552,248,24,14914)}Głowa
+Dialogue: 0,0:22:07.51,0:22:25.03,Plansza Red,,0,0,0,,{\fs50\pos(1320,736)}Nostalgiczne wpsomnienie domowego ciepła
 Comment: 0,0:22:08.04,0:22:11.71,Default,,0,0,0,,それゆえに 戦場ヶ原ひたぎは\N返してほしかった
 Dialogue: 0,0:22:08.04,0:22:11.71,Dialog,,0,0,0,,Dlatego Hitagi Senjougahara chciała je odzyskać.
 Comment: 0,0:22:11.79,0:22:13.29,Default,,0,0,0,,返してほしがった
@@ -871,6 +1156,11 @@ Comment: 0,0:23:21.73,0:23:22.57,Default,,0,0,0,,おいおい
 Dialogue: 0,0:23:21.73,0:23:22.57,Dialog,,0,0,0,,No nie...
 Comment: 0,0:23:23.32,0:23:27.91,Default,,0,0,0,,なるほど　神様ってのは\N確かに大ざっぱな連中らしい
 Dialogue: 0,0:23:23.32,0:23:27.91,Dialog,,0,0,0,,Rozumiem. Bogowie na prawde są niedrobiazgowi.
+Dialogue: 0,0:23:28.51,0:23:28.72,Plansza Green,,0,0,0,,{\pos(984,216)}Bakemonogatari
+Dialogue: 0,0:23:28.51,0:23:28.72,Plansza Green,,0,0,0,,{\pos(980,412)}Historia o potworach
+Dialogue: 0,0:23:28.51,0:23:28.72,Plansza Green,,0,0,0,,{\pos(960,656)}Krab
+Dialogue: 0,0:23:28.51,0:23:28.72,Plansza Green,,0,0,0,,{\pos(972,960)}Krab Hitagi Część Druga
+Dialogue: 0,0:23:28.72,0:23:30.01,Plansza,,0,0,0,,{\pos(984,752)}Ciąg dalszy nastąpi
 Comment: 0,0:23:30.62,0:23:36.62,Default,,0,0,0,,♪〜
 Dialogue: 0,0:23:47.96,0:23:51.10,Kimi no shiranai monogatari,,0,0,0,,{\blur5}"Tam jest Deneb, Altair i Wega"
 Dialogue: 0,0:23:51.10,0:23:54.10,Kimi no shiranai monogatari,,0,0,0,,{\blur5}Wskazałeś Letni Trójkąt
@@ -926,6 +1216,9 @@ Comment: 0,0:25:21.65,0:25:23.56,Default,,0,0,0,,（月火）\Nさて バスの�
 Dialogue: 0,0:25:21.65,0:25:23.56,Tsukihi_end,,0,0,0,,Wieć, jak nazywa sie kierowca autobusu!?
 Comment: 0,0:25:23.65,0:25:24.94,Karen_end,,0,0,0,,（火憐）\Nはしょり過ぎだあ！
 Dialogue: 0,0:25:23.65,0:25:24.94,Karen_end,,0,0,0,,Ależ skróciłaś!
+Dialogue: 0,0:25:25.00,0:25:28.01,Plansza,,0,0,0,,{\pos(968,232)}Następny razem
+Dialogue: 0,0:25:25.00,0:25:28.01,Plansza,,0,0,0,,{\pos(1288,76)}Zapowiedz
+Dialogue: 0,0:25:25.00,0:25:28.01,Plansza,,0,0,0,,{\pos(988,756)}Ślimak Mayoi Część Pierwsza
 Comment: 0,0:25:25.07,0:25:26.98,Default,,0,0,0,,（火憐･月火）\N次回「まよいマイマイ\N其ノ壹(そのいち)」
 Dialogue: 0,0:25:25.07,0:25:26.98,Karen_Tsukihi,,0,0,0,,Następnym razem "Ślimak Mayoi część pierwsza".
 Comment: 0,0:25:27.07,0:25:28.28,Dialog,,0,0,0,,（月火）\Nはい　それが あなたの名前です
