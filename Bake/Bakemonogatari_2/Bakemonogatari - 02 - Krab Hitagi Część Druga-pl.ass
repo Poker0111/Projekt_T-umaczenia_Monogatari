@@ -16,9 +16,9 @@ Video File: ../../../filmy_seriale/Seriale dla dekeneratów/化物語(2009)/化�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 1131
-Active Line: 1168
-Video Position: 36564
+Scroll Position: 1036
+Active Line: 1077
+Video Position: 32545
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -51,7 +51,7 @@ Style: Plansza - black\white,MS Mincho,70,&H00FFFFFF,&H000000FF,&H00000000,&H000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:15.14,0:00:17.48,Default,,0,0,0,,（阿良々木(あららぎ)）\N戦場ヶ原(せんじょうがはら)の家は豪邸だって
-Dialogue: 0,0:00:15.14,0:00:17.48,Dialog,,0,0,0,,Podobno dom Senjougahary jest niesamowity.
+Dialogue: 0,0:00:15.14,0:00:17.48,Dialog,,0,0,0,,Podobno dom Senjougahary jest niesamowity...
 Comment: 0,0:00:17.56,0:00:18.77,Default,,0,0,0,,羽川(はねかわ)は言ってたけど
 Dialogue: 0,0:00:17.56,0:00:18.77,Dialog,,0,0,0,,Przynajmniej tak twierdziła Hanekawa.
 Comment: 0,0:00:22.44,0:00:25.53,Default,,0,0,0,,（戦場ヶ原）\N母親が怪しい宗教に\Nはまってしまってね
@@ -177,11 +177,11 @@ Dialogue: 0,0:02:41.12,0:02:43.50,Dialog,,0,0,0,,Nie pomoge ci. Mogę ci jedynie
 Comment: 0,0:02:45.50,0:02:48.21,Default,,0,0,0,,そうだね　一旦 家に帰りなさい
 Dialogue: 0,0:02:45.50,0:02:48.21,Dialog,,0,0,0,,Dobra, na razie idź do domu.
 Comment: 0,0:02:48.46,0:02:50.34,Default,,0,0,0,,それで 身体を冷水で清めて
-Dialogue: 0,0:02:48.46,0:02:50.34,Dialog,,0,0,0,,Potem się przemyj zimną wodą.
+Dialogue: 0,0:02:48.46,0:02:50.34,Dialog,,0,0,0,,Potem przemyj się zimną wodą.
 Comment: 0,0:02:50.42,0:02:52.71,Default,,0,0,0,,清潔な服に着替えて来てくれる？
 Dialogue: 0,0:02:50.42,0:02:52.71,Dialog,,0,0,0,,Przebierz się w czyste ubrania i wróć, dobrze?
 Comment: 0,0:02:53.34,0:02:57.64,Default,,0,0,0,,夜中の零時ごろ もういっぺん\Nここに集合ってことで いいかな？
-Dialogue: 0,0:02:53.34,0:02:57.64,Dialog,,0,0,0,,Spotkajmy się tu ponownie o północy. Pasuje?
+Dialogue: 0,0:02:53.34,0:02:57.64,Dialog,,0,0,0,,Spotkajmy się tu ponownie o północy, pasuje?
 Comment: 0,0:02:58.05,0:02:59.05,Default,,0,0,0,,（戦場ヶ原）いいですけれど
 Dialogue: 0,0:02:58.05,0:02:59.05,Dialog,,0,0,0,,Chyba tak, ale...
 Comment: 0,0:03:03.81,0:03:05.23,Default,,0,0,0,,（戦場ヶ原）お礼は…\N（忍野）うん？
@@ -247,6 +247,7 @@ Dialogue: 0,0:04:24.56,0:04:26.56,Dialog,,0,0,0,,Nie chcę. To takie plebejskie.
 Comment: 0,0:04:32.19,0:04:33.02,Default,,0,0,0,,（ゴクン）
 Comment: 0,0:04:35.19,0:04:37.78,Default,,0,0,0,,（阿良々木）\N女性の全裸を初めて見てしまった
 Dialogue: 0,0:04:35.19,0:04:37.78,Dialog,,0,0,0,,Po raz pierwszy widziałem kompletnie nagą kobiete...
+Dialogue: 0,0:04:37.84,0:04:38.22,Plansza,,0,0,0,,{\pos(956,724)}Czarny
 Comment: 0,0:04:38.32,0:04:39.40,Default,,0,0,0,,（戦場ヶ原）清潔な服ね
 Dialogue: 0,0:04:38.32,0:04:39.40,Dialog,,0,0,0,,Czyste ubrania, tak?
 Comment: 0,0:04:40.24,0:04:41.99,Default,,0,0,0,,白い服のほうが いいと思う？
@@ -283,9 +284,9 @@ Dialogue: 0,0:05:20.70,0:05:22.28,Dialog,,0,0,0,,Ucież się trochę!
 Comment: 0,0:05:22.74,0:05:23.91,Default,,0,0,0,,（阿良々木）\N逆切れされた！
 Dialogue: 0,0:05:22.74,0:05:23.91,Dialog,,0,0,0,,Jeszcze to ona strzela focha!
 Comment: 0,0:05:24.28,0:05:26.78,Default,,0,0,0,,（戦場ヶ原）\N感想くらい言うのが\N礼儀でしょう
-Dialogue: 0,0:05:24.28,0:05:26.78,Dialog,,0,0,0,,Dobre maniery nakazują wyrażenia opini.
+Dialogue: 0,0:05:24.28,0:05:26.78,Dialog,,0,0,0,,Dobre maniery nakazują wyrażenia opinii.
 Comment: 0,0:05:26.87,0:05:28.79,Default,,0,0,0,,（阿良々木）か… 感想って
-Dialogue: 0,0:05:26.87,0:05:28.79,Dialog,,0,0,0,,Op... Opini...
+Dialogue: 0,0:05:26.87,0:05:28.79,Dialog,,0,0,0,,Op... Opinii...
 Dialogue: 0,0:05:31.12,0:05:34.00,Dialog,,0,0,0,,Masz... ładne ciało.
 Comment: 0,0:05:35.84,0:05:36.92,Dialog,,0,0,0,,（戦場ヶ原）最低
 Dialogue: 0,0:05:35.84,0:05:36.92,Dialog,,0,0,0,,Żałosny.
@@ -297,6 +298,7 @@ Comment: 0,0:05:43.38,0:05:46.39,Default,,0,0,0,,（戦場ヶ原）\N唾を飛�
 Dialogue: 0,0:05:43.38,0:05:46.39,Dialog,,0,0,0,,Nie pluj tak na mnie, bo jeszcze się zarażę twoim prawictwem.
 Comment: 0,0:05:47.06,0:05:49.02,Default,,0,0,0,,女に童貞がうつるか！
 Dialogue: 0,0:05:47.06,0:05:49.02,Dialog,,0,0,0,,Niby jak kobieta ma się zarazić prawictwem?!
+Dialogue: 0,0:05:49.08,0:05:49.58,Plansza,,0,0,0,,{\pos(996,596)}Nie, na mężczyzn też się nie przenosi, ale...
 Comment: 0,0:05:50.39,0:05:52.14,Default,,0,0,0,,ていうか ちょっと待て
 Dialogue: 0,0:05:50.39,0:05:52.14,Dialog,,0,0,0,,Zaraz, poczekaj...
 Comment: 0,0:05:52.35,0:05:55.15,Default,,0,0,0,,僕が童貞であることを前提に\N話が進んでいるぞ
@@ -314,13 +316,13 @@ Dialogue: 0,0:06:09.08,0:06:10.75,Dialog,,0,0,0,,Nie mart się.
 Comment: 0,0:06:10.83,0:06:13.29,Default,,0,0,0,,羽川さんには\N内緒にしておいてあげるのに
 Dialogue: 0,0:06:10.83,0:06:13.29,Dialog,,0,0,0,,Zachowam tą tajemnice przed Hanekawą.
 Comment: 0,0:06:13.79,0:06:14.79,Default,,0,0,0,,羽川って？
-Dialogue: 0,0:06:13.79,0:06:14.79,Dialog,,0,0,0,,Hanekawa?
+Dialogue: 0,0:06:13.79,0:06:14.79,Dialog,,0,0,0,,Hanekawą?
 Comment: 0,0:06:15.33,0:06:18.42,Dialog,,0,0,0,,彼女 阿良々木くんの\N片恋(かたこい)相手じゃないの？
 Dialogue: 0,0:06:15.33,0:06:18.42,Dialog,,0,0,0,,Czy ona przypadkiem nie jest twoją nieodwzajemnioną miłością?
 Comment: 0,0:06:18.50,0:06:19.67,Default,,0,0,0,,よく話しているでしょう？
 Dialogue: 0,0:06:18.50,0:06:19.67,Dialog,,0,0,0,,Dużo rozmawiacie, nieprawdaż?
 Comment: 0,0:06:20.00,0:06:21.34,Default,,0,0,0,,（阿良々木）それは違う
-Dialogue: 0,0:06:20.00,0:06:21.34,Dialog,,0,0,0,,Jesteś w błedzie
+Dialogue: 0,0:06:20.00,0:06:21.34,Dialog,,0,0,0,,Jesteś w błędzie.
 Comment: 0,0:06:21.42,0:06:24.43,Default,,0,0,0,,あれは単純に\N羽川の面倒見がいいだけだ
 Dialogue: 0,0:06:21.42,0:06:24.43,Dialog,,0,0,0,,Po prostu Hanekawa lubi się wszystkimi opiekować.
 Comment: 0,0:06:24.51,0:06:26.93,Default,,0,0,0,,あいつは いちばんダメなヤツが\Nいちばん かわいそうで
@@ -388,7 +390,6 @@ Comment: 0,0:07:34.20,0:07:36.46,Default,,0,0,0,,（戦場ヶ原）\N失礼な�
 Dialogue: 0,0:07:34.20,0:07:36.46,Dialog,,0,0,0,,Może przestaniesz mówić takie rzeczy?
 Dialogue: 0,0:07:34.02,0:07:38.56,Gazeta/Tradycyjne,,0,0,0,,{\pos(844,646)}Tonik leczniczniczy do skóry głowy
 Dialogue: 0,0:07:34.02,0:07:38.56,Gazeta/Tradycyjne,,0,0,0,,{\fs35\frz270\pos(1548,694)}Teatr Hongoza
-Dialogue: 0,0:07:34.02,0:07:38.56,Gazeta/Tradycyjne,,0,0,0,,{\fs30\frz0\pos(416,434)}Wielki turniej\N Shogi
 Dialogue: 0,0:07:34.02,0:07:38.56,Gazeta/Tradycyjne,,0,0,0,,{\fs35\frz0\pos(848,554)}Nowy preparat do mycia włosów polecany przez wybitnych lekarzy
 Comment: 0,0:07:36.54,0:07:38.50,Default,,0,0,0,,私が傷ついたら大変じゃないの
 Dialogue: 0,0:07:36.54,0:07:38.50,Dialog,,0,0,0,,Czy nie było by dziwne jabym doznała ran.
@@ -451,14 +452,14 @@ Dialogue: 0,0:08:29.84,0:08:32.01,Dialog,,0,0,0,,...albo profil pięknej kobiety
 Comment: 0,0:08:32.43,0:08:34.10,Default,,0,0,0,,（戦場ヶ原）へえ そうなんだ
 Dialogue: 0,0:08:32.43,0:08:34.10,Dialog,,0,0,0,,Hee. Rozumiem.
 Comment: 0,0:08:34.18,0:08:36.77,Default,,0,0,0,,そんなくだらないことを\Nよく知っているわね
-Dialogue: 0,0:08:34.18,0:08:36.77,Dialog,,0,0,0,,Znasz się na takich trywialnych rzeczach, nieprawdzasz?
+Dialogue: 0,0:08:34.18,0:08:36.77,Dialog,,0,0,0,,Znasz się na takich trywialnych rzeczach, nieprawdzaż?
 Comment: 0,0:08:36.89,0:08:39.98,Default,,0,0,0,,生まれて初めて\Nあなたに感心したわ
 Dialogue: 0,0:08:36.89,0:08:39.98,Dialog,,0,0,0,,Po raz pierwszy raz w życiu jestem podwrażeniem twojej osoby.
 Comment: 0,0:08:40.06,0:08:40.98,Default,,0,0,0,,（阿良々木）なあに
 Dialogue: 0,0:08:40.06,0:08:40.98,Dialog,,0,0,0,,Cóż...
 Comment: 0,0:08:41.06,0:08:44.23,Default,,0,0,0,,僕は 天文学や宇宙科学には\N詳しいんだよ
 Dialogue: 0,0:08:41.06,0:08:44.23,Dialog,,0,0,0,,Mam sporą wiedze na temat astronomii oraz naukach o kosmosie.
-Dialogue: 0,0:08:44.44,0:08:47.65,Dialog,,0,0,0,,Nie szkodzi. Przede mną nie musisz udawać fajnego.
+Dialogue: 0,0:08:44.44,0:08:47.65,Dialog,,0,0,0,,Nie szkodzi, przede mną nie musisz udawać fajnego.
 Comment: 0,0:08:47.74,0:08:50.40,Default,,0,0,0,,どうせ それ以外は\N何も知らないんでしょう？
 Dialogue: 0,0:08:47.74,0:08:50.40,Dialog,,0,0,0,,I tak pewnie nie wiesz nic po za tym.
 Comment: 0,0:08:50.53,0:08:52.32,Default,,0,0,0,,言葉の暴力って知ってるか
@@ -508,7 +509,7 @@ Dialogue: 0,0:09:20.81,0:09:22.65,Dialog,,0,0,0,,Pomyśleć, że w czaszce takie
 Comment: 0,0:09:23.23,0:09:25.23,Default,,0,0,0,,脳みそが入っているというのは
 Dialogue: 0,0:09:23.23,0:09:25.23,Dialog,,0,0,0,,Może znajdować się mózg.
 Comment: 0,0:09:25.31,0:09:28.36,Default,,0,0,0,,それはそれは\Nもう奇跡のような出来事なのよ？
-Dialogue: 0,0:09:25.31,0:09:28.36,Dialog,,0,0,0,,To doprawdy... zdarzenie zakrawające na cud, nie uważasz?
+Dialogue: 0,0:09:25.31,0:09:28.36,Dialog,,0,0,0,,To doprawdy zdarzenie zakrawające na cud, nie uważasz?
 Comment: 0,0:09:28.73,0:09:31.74,Default,,0,0,0,,お前 僕の頭がすごく悪い\Nと思っているだろう
 Dialogue: 0,0:09:28.73,0:09:31.74,Dialog,,0,0,0,,To bardzo niemiłe, że tak myślisz o mojej głowie.
 Comment: 0,0:09:32.07,0:09:33.91,Default,,0,0,0,,あっ！ なぜ気付いたの？
@@ -523,14 +524,15 @@ Dialogue: 0,0:09:40.41,0:09:43.54,Dialog,,0,0,0,,Przeze mnie Araragi zdał sobie
 Comment: 0,0:09:43.62,0:09:44.67,Default,,0,0,0,,責任を感じるわ
 Dialogue: 0,0:09:43.62,0:09:44.67,Dialog,,0,0,0,,Poczułam się odpowiedzialna.
 Comment: 0,0:09:45.00,0:09:46.59,Dialog,,0,0,0,,おい ちょっと待て
-Dialogue: 0,0:09:45.00,0:09:46.59,Dialog,,0,0,0,,Ej, poczekaj chwile
+Dialogue: 0,0:09:45.00,0:09:46.36,Dialog,,0,0,0,,Ej, poczekaj chwile
 Dialogue: 0,0:09:47.23,0:09:47.73,Gazeta/Tradycyjne,,0,0,0,,{\fs35\frz270\pos(656,226)}Wydanie noworoczne
 Dialogue: 0,0:09:47.23,0:09:47.73,Gazeta/Tradycyjne,,0,0,0,,{\fs40\frz0\pos(388,398)}Biznes
 Dialogue: 0,0:09:47.23,0:09:47.73,Gazeta/Tradycyjne,,0,0,0,,{\fs40\frz0\pos(556,618)}Ważne
 Dialogue: 0,0:09:47.23,0:09:47.73,Gazeta/Tradycyjne,,0,0,0,,{\fs25\frz0\pos(996,662)}Podwójny\N numer\N noworoczny
 Dialogue: 0,0:09:47.23,0:09:47.73,Gazeta/Tradycyjne,,0,0,0,,{\fs25\frz0\pos(788,862)}Spójrz na noworoczną stronę wydania z 2. roku ery Showa (1927 r.)
-Dialogue: 0,0:09:44.73,0:09:49.69,Dialog,,0,0,0,,Czy jestem aż tak głupi?
+Dialogue: 0,0:09:46.73,0:09:49.69,Dialog,,0,0,0,,Czy jestem aż tak głupi?
 Comment: 0,0:09:49.96,0:09:52.38,Default,,0,0,0,,偏差値チェック 私 74
+Dialogue: 0,0:09:49.94,0:09:54.66,Note,,0,0,0,,{\pos(616,36)}Chodzi o średni wynik z egzaminów trój-semestralnych.
 Dialogue: 0,0:09:49.96,0:09:52.38,Dialog,,0,0,0,,Sprawdźmy ranking: Ja mam 74.
 Comment: 0,0:09:52.80,0:09:54.64,Default,,0,0,0,,くっ… 僕 46
 Dialogue: 0,0:09:52.80,0:09:54.64,Dialog,,0,0,0,,Krcze... 46
@@ -560,7 +562,7 @@ Comment: 0,0:10:23.62,0:10:24.46,Default,,0,0,0,,（阿良々木）なんで？
 Dialogue: 0,0:10:23.62,0:10:24.46,Dialog,,0,0,0,,Dlaczego?
 Comment: 0,0:10:24.96,0:10:26.71,Default,,0,0,0,,（戦場ヶ原）\Nあら 知らなかったの？
 Dialogue: 0,0:10:24.96,0:10:26.71,Dialog,,0,0,0,,A, nie wiesz?
-Dialogue: 0,0:10:26.77,0:10:28.77,Gazeta/Tradycyjne,,0,0,0,,{\pos(896,662)}Wycieczka na\N Hokkaidō:\\N 8 dni i 7 nocy
+Dialogue: 0,0:10:26.77,0:10:28.77,Gazeta/Tradycyjne,,0,0,0,,{\pos(896,662)}Wycieczka na\N Hokkaidō:\N 8 dni i 7 nocy
 Dialogue: 0,0:10:26.77,0:10:28.77,Gazeta/Tradycyjne,,0,0,0,,{\pos(392,558)\frz312.4}Jesz kraba, ile chcesz
 Dialogue: 0,0:10:26.77,0:10:28.77,Gazeta/Tradycyjne,,0,0,0,,{\fs25\pos(572,378)}(Dostępne w puszkach)
 Comment: 0,0:10:27.88,0:10:30.67,Default,,0,0,0,,蟹って とってもおししいのよ
@@ -637,7 +639,7 @@ Comment: 0,0:12:32.92,0:12:35.92,Default,,0,0,0,,（忍野）\N人間 個々人�
 Dialogue: 0,0:12:32.92,0:12:35.92,Dialog,,0,0,0,,Mają gdzieś pojedyncze jednostki.
 Comment: 0,0:12:36.01,0:12:37.30,Default,,0,0,0,,実際 神様の前じゃ
 Dialogue: 0,0:12:36.01,0:12:37.30,Dialog,,0,0,0,,Praktycznie dla Bogów...
-Dialogue: 0,0:12:37.38,0:12:41.01,Dialog,,0,0,0,,Nie oróżniają nas ze względem wiek, płeć czy wagę.
+Dialogue: 0,0:12:37.38,0:12:41.01,Dialog,,0,0,0,,Nie odróżniają nas ze względu na wiek, płeć czy wagę.
 Comment: 0,0:12:37.38,0:12:41.01,Default,,0,0,0,,僕ら３人 年齢も性別も重みも\N区別なんかつかないよ
 Comment: 0,0:12:41.51,0:12:44.31,Default,,0,0,0,,（戦場ヶ原）ねえ あの蟹は
 Dialogue: 0,0:12:41.51,0:12:44.31,Dialog,,0,0,0,,Powiedz... czy ten krab...
@@ -650,9 +652,9 @@ Dialogue: 0,0:12:51.90,0:12:54.52,Dialog,,0,0,0,,Lecz żeby chciał przyjść...
 Comment: 0,0:12:54.69,0:12:56.57,Default,,0,0,0,,（忍野）手順が必要だけどね\N（戦場ヶ原）あ…
 Dialogue: 0,0:12:54.69,0:12:55.87,Dialog,,0,0,0,,Wymagana jest procedura.
 Comment: 0,0:13:06.33,0:13:08.25,Default,,0,0,0,,（忍野）２人とも 目を伏せて
-Dialogue: 0,0:13:06.33,0:13:08.25,Dialog,,0,0,0,,Oboje, spuścić wzrok.
+Dialogue: 0,0:13:06.33,0:13:08.25,Dialog,,0,0,0,,Oboje, spuście wzrok.
 Comment: 0,0:13:08.33,0:13:10.04,Default,,0,0,0,,（忍野）頭を低くしてくれる？\N（２人）え？
-Dialogue: 0,0:13:08.33,0:13:10.04,Dialog,,0,0,0,,opuśćcie też głowy?
+Dialogue: 0,0:13:08.33,0:13:10.04,Dialog,,0,0,0,,opuścicie też głowy?
 Dialogue: 0,0:13:08.33,0:13:10.04,Default,,0,0,0,,（忍野）頭を低くしてくれる？\N（２人）え？
 Comment: 0,0:13:10.58,0:13:12.54,Default,,0,0,0,,神前だよ　ここはもう
 Dialogue: 0,0:13:10.58,0:13:12.54,Dialog,,0,0,0,,Jesteście przed Bogiem.\N On tu już jest.
@@ -793,7 +795,7 @@ Dialogue: 0,0:16:19.06,0:16:21.65,Dialog,,0,0,0,,Uderzyłam go obcasem, który b
 Dialogue: 0,0:16:22.13,0:16:23.25,Plansza Red,,0,0,0,,{\frz330.4\pos(920,680)}Udzerzenie
 Dialogue: 0,0:16:23.25,0:16:25.00,Plansza,,0,0,0,,{\pos(684,344)}Matka
 Dialogue: 0,0:16:25.00,0:16:28.00,Plansza Red,,0,0,0,,{\pos(1548,148)}Matka
-Dialogue: 0,0:16:25.00,0:16:28.00,Plansza Red,,0,0,0,,{\pos(960,804)}Powrót
+Dialogue: 0,0:16:25.00,0:16:27.30,Plansza Red,,0,0,0,,{\pos(960,804)}Powrót
 Comment: 0,0:16:22.77,0:16:27.24,Default,,0,0,0,,でも お母さんは\N私を助けてくれなかった
 Dialogue: 0,0:16:22.77,0:16:27.24,Dialog,,0,0,0,,Lecz moja matka mi nie pomogła.
 Comment: 0,0:16:28.15,0:16:28.99,Default,,0,0,0,,（忍野）そして？
@@ -803,7 +805,7 @@ Dialogue: 0,0:16:30.24,0:16:35.54,Dialog,,0,0,0,,Dlatego, że skrzywdziłam tego
 Dialogue: 0,0:16:33.72,0:16:34.22,Plansza Red,,0,0,0,,{\pos(980,580)}Zniszenie
 Dialogue: 0,0:16:33.72,0:16:34.22,Plansza - Grey,,0,0,0,,{\pos(1536,148)}M**ka
 Comment: 0,0:16:36.70,0:16:39.67,Default,,0,0,0,,（忍野）\Nお母さんはペナルティを負った？
-Dialogue: 0,0:16:36.70,0:16:39.67,Dialog,,0,0,0,,Otrzymałą karę?
+Dialogue: 0,0:16:36.70,0:16:39.67,Dialog,,0,0,0,,Otrzymała karę?
 Comment: 0,0:16:40.54,0:16:44.09,Default,,0,0,0,,はい　でも 考えてしまうんです
 Dialogue: 0,0:16:40.54,0:16:44.09,Dialog,,0,0,0,,Tak, ale nie mogę przestać o tym myśleć.
 Comment: 0,0:16:44.29,0:16:46.92,Default,,0,0,0,,もしも 私が あのとき\N抵抗しなかったら
@@ -846,7 +848,7 @@ Dialogue: 0,0:16:47.88,0:16:51.72,Dialog,,0,0,0,,Przynajmniej to wszystko potocz
 Comment: 0,0:16:52.05,0:16:53.97,Default,,0,0,0,,壊れなかったんじゃないかって
 Dialogue: 0,0:16:52.05,0:16:53.97,Dialog,,0,0,0,,Myśle, że wtedy nic by się nie zepsuło.
 Comment: 0,0:16:54.43,0:16:58.68,Default,,0,0,0,,（忍野）\Nだったら それは\Nお嬢ちゃん 君の思いだ
-Dialogue: 0,0:16:54.43,0:16:58.68,Dialog,,0,0,0,,W takim razie to sa twoje myśli Panienko.
+Dialogue: 0,0:16:54.43,0:16:58.68,Dialog,,0,0,0,,W takim razie to są twoje myśli Panienko.
 Comment: 0,0:16:58.89,0:17:00.39,Default,,0,0,0,,どんなに重かろうと
 Dialogue: 0,0:16:58.89,0:17:00.39,Dialog,,0,0,0,,Nieważne jak ciężkie...
 Comment: 0,0:17:00.52,0:17:03.27,Default,,0,0,0,,それは君が\N背負わなくてはならないものだ
@@ -884,7 +886,7 @@ Dialogue: 0,0:17:57.28,0:18:00.00,Dialog,,0,0,0,,Co... powiedzieć? A...
 Dialogue: 0,0:18:01.66,0:18:02.50,Default,,0,0,0,,あ…
 Dialogue: 0,0:18:06.38,0:18:07.67,Default,,0,0,0,,あ…
 Comment: 0,0:18:09.00,0:18:11.17,Default,,0,0,0,,あっ 戦場ヶ原！
-Dialogue: 0,0:18:09.00,0:18:11.17,Dialog,,0,0,0,,A Senjougahara.
+Dialogue: 0,0:18:09.00,0:18:11.17,Dialog,,0,0,0,,A... Senjougahara.
 Dialogue: 0,0:18:11.26,0:18:13.01,Default,,0,0,0,,あ… あ…
 Dialogue: 0,0:18:13.38,0:18:16.68,Default,,0,0,0,,あっ う… うう…
 Comment: 0,0:18:19.64,0:18:21.35,Default,,0,0,0,,（忍野）しかたがないな
@@ -957,7 +959,7 @@ Dialogue: 0,0:19:52.57,0:19:54.40,Dialog,,0,0,0,,To jest coś czego nie powinnam
 Comment: 0,0:19:57.03,0:19:58.36,Default,,0,0,0,,お願いします
 Dialogue: 0,0:19:57.03,0:19:58.36,Dialog,,0,0,0,,Błagam.
 Comment: 0,0:19:58.57,0:20:02.12,Default,,0,0,0,,どうか 私に\N私の重みを返してください
-Dialogue: 0,0:19:58.57,0:20:02.12,Dialog,,0,0,0,,Błągam, oddaj mi moją wagę.
+Dialogue: 0,0:19:58.57,0:20:02.12,Dialog,,0,0,0,,Błagam, oddaj mi moją wagę.
 Comment: 0,0:20:02.95,0:20:06.75,Default,,0,0,0,,どうか お母さんを\N私に返してください
 Dialogue: 0,0:20:02.95,0:20:06.75,Dialog,,0,0,0,,Błagam oddaj mi Matke.
 Dialogue: 0,0:20:16.32,0:20:16.82,Plansza,,0,0,0,,{\frz270\pos(884,460)}Poniżej jest wspomnienie
@@ -1125,7 +1127,7 @@ Dialogue: 0,0:22:32.48,0:22:33.35,Dialog,,0,0,0,,Niby kogo?
 Comment: 0,0:22:35.02,0:22:36.61,Default,,0,0,0,,（戦場ヶ原）あなたのことよ\N（阿良々木）えっ！
 Dialogue: 0,0:22:35.02,0:22:35.92,Dialog,,0,0,0,,Ciebie.
 Comment: 0,0:22:37.36,0:22:39.40,Default,,0,0,0,,（戦場ヶ原）\Nありがとう 阿良々木くん
-Dialogue: 0,0:22:37.36,0:22:39.40,Dialog,,0,0,0,,Dziękuej, Araragi.
+Dialogue: 0,0:22:37.36,0:22:39.40,Dialog,,0,0,0,,Dziękuje, Araragi.
 Comment: 0,0:22:39.57,0:22:42.03,Default,,0,0,0,,私は あなたに\Nとても感謝しているわ
 Dialogue: 0,0:22:39.57,0:22:42.03,Dialog,,0,0,0,,Jestem tobie ogromnie wdzięczna.
 Comment: 0,0:22:42.36,0:22:44.57,Default,,0,0,0,,今までのこと 全部 謝ります
