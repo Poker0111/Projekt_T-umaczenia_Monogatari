@@ -16,9 +16,9 @@ Video File: ../../../filmy_seriale/Seriale dla dekeneratów/化物語(2009)/化�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 135
-Active Line: 178
-Video Position: 6673
+Scroll Position: 678
+Active Line: 703
+Video Position: 24529
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -124,11 +124,11 @@ Comment: 0,0:01:09.53,0:01:10.70,Default,,0,0,0,,また １人か
 Dialogue: 0,0:01:09.53,0:01:10.70,Dialog,,0,0,0,,Znowu sam...
 Comment: 0,0:01:11.40,0:01:12.61,Default,,0,0,0,,そんなことを思った
 Dialogue: 0,0:01:11.40,0:01:12.61,Dialog,,0,0,0,,Tak pomyślałem.
-Dialogue: 0,0:01:13.41,0:01:14.57,Karen_end,,0,0,0,,Dlatego...
+Dialogue: 0,0:01:13.41,0:01:14.57,Karen_end,,0,0,0,,Przez to twoje podejście...
 Comment: 0,0:01:13.41,0:01:14.57,Dialog,,0,0,0,,（火憐(かれん)）\Nそんなことだから
 Dialogue: 0,0:01:14.64,0:01:16.51,Plansza,,0,0,0,,{\pos(968,436)}Czarny
 Comment: 0,0:01:14.82,0:01:16.45,Default,,0,0,0,,兄ちゃんは\Nそんなことだから…
-Dialogue: 0,0:01:14.82,0:01:16.45,Karen_end,,0,0,0,,Braciszku, dlatego...
+Dialogue: 0,0:01:14.82,0:01:16.45,Karen_end,,0,0,0,,Bracisku, przez to twoje podejście...
 Comment: 0,0:01:17.66,0:01:18.50,Default,,0,0,0,,（阿良々木）はあ…
 Comment: 0,0:01:19.04,0:01:25.04,Default,,0,0,0,,♪〜
 Dialogue: 0,0:01:35.16,0:01:37.74,帰り道ーOP2,,0,0,0,,Tutaj w prawo, potem w lewo
@@ -231,273 +231,528 @@ Dialogue: 0,0:04:35.53,0:04:38.36,Dialog,,0,0,0,,To ma przecież zupełnie inny 
 Comment: 0,0:04:38.61,0:04:39.45,Default,,0,0,0,,へえ…
 Dialogue: 0,0:04:38.61,0:04:39.45,Dialog,,0,0,0,,Hee...
 Comment: 0,0:04:41.95,0:04:43.49,Default,,0,0,0,,ところで 阿良々木くん
+Dialogue: 0,0:04:41.95,0:04:43.49,Dialog,,0,0,0,,Przy okazji, Araragi-kun.
 Comment: 0,0:04:43.57,0:04:46.20,Default,,0,0,0,,こんな所で一体全体\N何をしているの？
+Dialogue: 0,0:04:43.57,0:04:46.20,Dialog,,0,0,0,,Co ty tu w ogóle robisz?
 Comment: 0,0:04:46.37,0:04:48.50,Default,,0,0,0,,まあ ちょっとしたツーリングだよ
+Dialogue: 0,0:04:46.37,0:04:48.50,Dialog,,0,0,0,,A, zrobiłem sobie małą wycieczkę.
 Comment: 0,0:04:48.71,0:04:52.17,Default,,0,0,0,,適当に自転車 走らせていたら\Nちょっと公園があったんで
+Dialogue: 0,0:04:48.71,0:04:52.17,Dialog,,0,0,0,,Jechałem przed siebie na rowerze i trafiłem na ten park.
 Comment: 0,0:04:52.25,0:04:54.04,Default,,0,0,0,,何となく休んでいただけだよ
+Dialogue: 0,0:04:52.25,0:04:54.04,Dialog,,0,0,0,,Zatrzymałem się na chwilę odpocząć, i tyle.
 Comment: 0,0:04:54.59,0:04:57.21,Default,,0,0,0,,戦場ヶ原は？ この辺りには\Nよく来るのか？
+Dialogue: 0,0:04:54.59,0:04:57.21,Dialog,,0,0,0,,A ty, Senjougahara? Często przychodzisz w tą okolicę?
 Comment: 0,0:04:57.67,0:05:00.63,Default,,0,0,0,,（戦場ヶ原）\Nこの辺りは昔\N私の縄張りだったのよ
+Dialogue: 0,0:04:57.67,0:05:00.63,Dialog,,0,0,0,,Kiedyś to było moje teryrtorium.
 Comment: 0,0:05:00.72,0:05:01.97,Default,,0,0,0,,（阿良々木）縄張りって…
+Dialogue: 0,0:05:00.72,0:05:01.97,Dialog,,0,0,0,,Terytorium...?
 Comment: 0,0:05:02.59,0:05:05.47,Default,,0,0,0,,ああ 昔 この辺りに\N住んでいたってこと？
+Dialogue: 0,0:05:02.59,0:05:05.47,Dialog,,0,0,0,,Aaa, czyli kiedyś tu mieszkałaś?
 Comment: 0,0:05:05.64,0:05:06.93,Default,,0,0,0,,（戦場ヶ原）まあ そういうこと
+Dialogue: 0,0:05:05.64,0:05:06.93,Dialog,,0,0,0,,Mniej więcej.
 Comment: 0,0:05:08.68,0:05:10.52,Default,,0,0,0,,でも すっかり変わっちゃった
+Dialogue: 0,0:05:08.68,0:05:10.52,Dialog,,0,0,0,,Ale kompletnie się tu pozmieniało.
 Comment: 0,0:05:11.27,0:05:12.15,Default,,0,0,0,,別に そんなことで
+Dialogue: 0,0:05:11.27,0:05:14.86,Dialog,,0,0,0,,To nie tak, że jakoś specjalnie... bierze mnie przez to na sentymenty.
 Comment: 0,0:05:12.23,0:05:14.86,Default,,0,0,0,,センチメンタルな\N気持ちになったりは しないけれど
 Comment: 0,0:05:15.69,0:05:19.57,Default,,0,0,0,,でも 自分が昔 住んでいた場所が\N変わっていくというのは
+Dialogue: 0,0:05:15.69,0:05:19.57,Dialog,,0,0,0,,Jednak gdy miejsce, w którym kiedyś mieszkałam, tak się zmienia...
 Comment: 0,0:05:19.65,0:05:21.99,Default,,0,0,0,,どことなくモチベーションが\Nそがれる感じがするわね
+Dialogue: 0,0:05:19.65,0:05:21.99,Dialog,,0,0,0,,to jakoś tak odbiera mi to całą motywację.
 Comment: 0,0:05:23.49,0:05:24.87,Default,,0,0,0,,しかたないことじゃ ないのか？
+Dialogue: 0,0:05:23.49,0:05:24.87,Dialog,,0,0,0,,Ale czy na to nie da się po prostu nic poradzić?
 Comment: 0,0:05:26.41,0:05:28.66,Default,,0,0,0,,そうね　しかたのないことだわ
+Dialogue: 0,0:05:26.41,0:05:28.66,Dialog,,0,0,0,,Masz rację. Nic na to nie poradzę.
 Comment: 0,0:05:30.66,0:05:33.67,Default,,0,0,0,,ねえ 阿良々木くん\N隣 構わないかしら？
+Dialogue: 0,0:05:30.66,0:05:33.67,Dialog,,0,0,0,,Araragi-kun, masz coś przeciwko, żebym usiadła obok?
 Comment: 0,0:05:34.29,0:05:35.13,Default,,0,0,0,,（阿良々木）隣？
+Dialogue: 0,0:05:34.29,0:05:35.13,Dialog,,0,0,0,,Obok?
 Comment: 0,0:05:35.63,0:05:37.21,Default,,0,0,0,,あなたと お話がしたいわ
+Dialogue: 0,0:05:35.63,0:05:37.21,Dialog,,0,0,0,,Chciałabym z tobą porozmawiać.
 Comment: 0,0:05:38.71,0:05:41.92,Default,,0,0,0,,（阿良々木）\Nいいよ　ベンチを１人で\N独占していることに
+Dialogue: 0,0:05:38.71,0:05:41.92,Dialog,,0,0,0,,Spoko. I tak siedze tu sam.
 Comment: 0,0:05:42.01,0:05:45.01,Default,,0,0,0,,若干の心苦しさを\N感じていたところだったんだ
+Dialogue: 0,0:05:42.01,0:05:45.01,Dialog,,0,0,0,,Poczułem się z tego powdu trochę winny.
 Comment: 0,0:05:45.09,0:05:47.01,Default,,0,0,0,,（戦場ヶ原）\Nそう　では 遠慮なく
+Dialogue: 0,0:05:45.09,0:05:47.01,Dialog,,0,0,0,,W takim razie skorzystam.
 Comment: 0,0:05:47.14,0:05:47.97,Default,,0,0,0,,（阿良々木）あ…
 Comment: 0,0:05:48.26,0:05:49.10,Default,,0,0,0,,え？
 Comment: 0,0:05:51.14,0:05:51.98,Default,,0,0,0,,あ…
 Comment: 0,0:05:53.77,0:05:57.82,Default,,0,0,0,,（戦場ヶ原）\Nこの間のこと 改めてお礼を\N言わせてもらおうと思って
+Dialogue: 0,0:05:53.77,0:05:57.82,Dialog,,0,0,0,,Chiałam znowu podziękować ci za to, co zrobiłeś.
 Comment: 0,0:05:58.32,0:06:02.20,Default,,0,0,0,,（阿良々木）\Nああ いや お礼だなんて\Nそんなの別に いいよ
+Dialogue: 0,0:05:58.32,0:06:02.20,Dialog,,0,0,0,,A, nie musisz mi dziękować to nic takiego, na prawdę.
 Comment: 0,0:06:02.28,0:06:05.53,Default,,0,0,0,,礼は忍野(おしの)に言っとけよ\Nそれだけで いいと思うぜ
+Dialogue: 0,0:06:02.28,0:06:05.53,Dialog,,0,0,0,,Wystarczy, że podziękujesz Oshino.
 Comment: 0,0:06:07.20,0:06:10.45,Default,,0,0,0,,（戦場ヶ原）\N忍野さんには料金を支払うことに\Nなっているしね
+Dialogue: 0,0:06:07.20,0:06:10.45,Dialog,,0,0,0,,Panu Oshino przecież i tak płacę za jego usługi.
 Comment: 0,0:06:10.91,0:06:15.37,Default,,0,0,0,,私は阿良々木くんには忍野さんとは\N違う意味で お礼を言いたいの
+Dialogue: 0,0:06:10.91,0:06:15.37,Dialog,,0,0,0,,Lecz tobie chciałabym podziękować w zupełnie inny sposób.
 Comment: 0,0:06:15.46,0:06:19.17,Default,,0,0,0,,いや まあ\N僕に対して恩を感じるとか
+Dialogue: 0,0:06:15.46,0:06:19.17,Dialog,,0,0,0,,Znaczy... robienie z tego jakiegoś długu wdzięczności wobec mnie...
 Comment: 0,0:06:19.25,0:06:20.67,Default,,0,0,0,,そういうのは やめにしとこうぜ
+Dialogue: 0,0:06:19.25,0:06:20.67,Dialog,,0,0,0,,Dajmy sobie z tym spokój.
 Comment: 0,0:06:21.67,0:06:24.26,Default,,0,0,0,,これから仲良くやっていきにくく\Nなるだろ
+Dialogue: 0,0:06:21.67,0:06:24.26,Dialog,,0,0,0,,Bo inaczej coraz trudniej nam będzie się dogadać.
 Comment: 0,0:06:25.43,0:06:26.72,Default,,0,0,0,,仲良く… ね
+Dialogue: 0,0:06:25.43,0:06:26.72,Dialog,,0,0,0,,Dogadać... no tak.
 Comment: 0,0:06:28.76,0:06:29.64,Default,,0,0,0,,阿良々木くん
+Dialogue: 0,0:06:28.76,0:06:29.64,Dialog,,0,0,0,,Araragi-kun...
 Comment: 0,0:06:30.77,0:06:34.44,Default,,0,0,0,,私は阿良々木くんのこと\N親しく思ってもいいのかしら？
+Dialogue: 0,0:06:30.77,0:06:34.44,Dialog,,0,0,0,,Czy mogę uważać cię za bliską mi osobę?
 Comment: 0,0:06:36.60,0:06:37.81,Default,,0,0,0,,そりゃ もちろん
+Dialogue: 0,0:06:36.60,0:06:37.81,Dialog,,0,0,0,,Pewnie.
 Comment: 0,0:06:38.19,0:06:39.73,Default,,0,0,0,,でも 阿良々木くんって
+Dialogue: 0,0:06:38.19,0:06:39.73,Dialog,,0,0,0,,Ale ty Araragi-kun...
 Comment: 0,0:06:39.82,0:06:42.69,Default,,0,0,0,,あまり友だちを\N作るタイプの人間ではないわよね
+Dialogue: 0,0:06:39.82,0:06:42.69,Dialog,,0,0,0,,Nie jesteś raczej typem osoby, która zdobywa dużo znajomych.
 Comment: 0,0:06:43.24,0:06:44.90,Default,,0,0,0,,去年までは そうだったよ
+Dialogue: 0,0:06:43.24,0:06:44.90,Dialog,,0,0,0,,Tak było do zeszłego roku.
 Comment: 0,0:06:45.24,0:06:49.20,Default,,0,0,0,,ただ 春休みに ちょっとした\Nパラダイムシフトがあったわけで
+Dialogue: 0,0:06:45.24,0:06:49.20,Dialog,,0,0,0,,Ale w przerwę wiosenną nastąpiła u mnie mała zmiana paradygmatu.
 Comment: 0,0:06:50.49,0:06:51.79,Default,,0,0,0,,そういう戦場ヶ原は？
+Dialogue: 0,0:06:50.49,0:06:51.79,Dialog,,0,0,0,,A jak to jest z tobą, Senjougahara?
 Comment: 0,0:06:52.62,0:06:54.16,Default,,0,0,0,,私は ついこの間までよ
+Dialogue: 0,0:06:52.62,0:06:54.16,Dialog,,0,0,0,,Byłam do niedawna...
 Comment: 0,0:06:55.25,0:06:57.92,Default,,0,0,0,,もっと言うなら阿良々木くんに\N出会うまで
+Dialogue: 0,0:06:55.25,0:06:57.92,Dialog,,0,0,0,,A dokładnie mówiąc to do spotkania z tobą, Araragi-kun.
 Comment: 0,0:06:58.92,0:07:00.34,Default,,0,0,0,,（阿良々木）\N何だ こいつ？
+Dialogue: 0,0:06:58.92,0:07:00.34,Dialog,,0,0,0,,Co za dziewczyna...
 Comment: 0,0:07:00.42,0:07:01.96,Default,,0,0,0,,ていうか 何だ？ この状況
+Dialogue: 0,0:07:00.42,0:07:01.96,Dialog,,0,0,0,,Zresztą, co to w ogóle za sytuacja?!
 Comment: 0,0:07:02.05,0:07:04.01,Default,,0,0,0,,まるで これから\N告白されてしまいそうな
+Dialogue: 0,0:07:02.05,0:07:04.01,Dialog,,0,0,0,,To jakby miała mi wyznać miłość.
 Comment: 0,0:07:04.09,0:07:05.55,Default,,0,0,0,,このシチュエーション
+Dialogue: 0,0:07:04.09,0:07:05.55,Dialog,,0,0,0,,Ta sytuacja...
 Comment: 0,0:07:05.68,0:07:06.51,Default,,0,0,0,,ゴクッ
 Comment: 0,0:07:06.84,0:07:08.55,Default,,0,0,0,,つまりね 阿良々木くん
+Dialogue: 0,0:07:06.84,0:07:08.55,Dialog,,0,0,0,,A więc Araragi-kun.
 Comment: 0,0:07:08.97,0:07:11.60,Default,,0,0,0,,阿良々木くんが何と言おうと\N私は あなたに
+Dialogue: 0,0:07:08.97,0:07:11.60,Dialog,,0,0,0,,Nieważne, co mi powiesz Araragi-kun...
 Comment: 0,0:07:11.68,0:07:13.35,Default,,0,0,0,,お返しがしたいと思うの
+Dialogue: 0,0:07:11.68,0:07:13.35,Dialog,,0,0,0,,Chcę dać ci coś w zamian.
 Comment: 0,0:07:14.39,0:07:16.60,Default,,0,0,0,,それが終わって初めて私たちは
+Dialogue: 0,0:07:14.39,0:07:16.60,Dialog,,0,0,0,,Dopiero jak to skończę będziemy mogli...
 Comment: 0,0:07:17.19,0:07:19.69,Default,,0,0,0,,対等な友達同士に\Nなれると思うの
+Dialogue: 0,0:07:17.19,0:07:19.69,Dialog,,0,0,0,,Zostać równorzędnymi przyjaciółmi.
 Comment: 0,0:07:20.02,0:07:20.86,Default,,0,0,0,,（阿良々木）あっ あ…
 Comment: 0,0:07:21.86,0:07:23.15,Default,,0,0,0,,友達？
+Dialogue: 0,0:07:21.86,0:07:23.15,Dialog,,0,0,0,,Przyjaciółmi?
 Comment: 0,0:07:23.90,0:07:25.11,Default,,0,0,0,,友達…
+Dialogue: 0,0:07:23.90,0:07:25.11,Dialog,,0,0,0,,Przyjaciółmi...
 Comment: 0,0:07:25.53,0:07:27.28,Default,,0,0,0,,（戦場ヶ原）\Nそういう訳で阿良々木くん
+Dialogue: 0,0:07:25.53,0:07:27.28,Dialog,,0,0,0,,A więc, Araragi-kun.
 Comment: 0,0:07:27.41,0:07:29.74,Default,,0,0,0,,何か私にしてほしいことは\Nないかしら？
+Dialogue: 0,0:07:27.41,0:07:29.74,Dialog,,0,0,0,,Czy jest coś, co chciałbyś, żebym dla ciebie zrobiła?
 Comment: 0,0:07:30.41,0:07:32.58,Default,,0,0,0,,１つだけ 何でも言うことを\N聞いてあげるわ
+Dialogue: 0,0:07:30.41,0:07:32.58,Dialog,,0,0,0,,Spełnię jedno twoje życzenie, cokolwiek zechcesz.
+Dialogue: 0,0:07:32.95,0:07:34.04,Dialog,,0,0,0,,C-cokolwiek.
 Comment: 0,0:07:32.95,0:07:34.04,Default,,0,0,0,,（阿良々木）なっ 何でも？
 Comment: 0,0:07:34.58,0:07:36.50,Default,,0,0,0,,（戦場ヶ原）\N本当に何でもいいわよ
+Dialogue: 0,0:07:34.58,0:07:36.50,Dialog,,0,0,0,,Naprawdę cokolwiek.
 Comment: 0,0:07:36.58,0:07:39.21,Default,,0,0,0,,どんな願いでも１つだけ\Nかなえてあげる
+Dialogue: 0,0:07:36.58,0:07:39.21,Dialog,,0,0,0,,Spełnię dokładnie jedną prośbę, jakąkolwiek wybierzesz.
 Comment: 0,0:07:39.42,0:07:41.29,Default,,0,0,0,,世界征服でも永遠の命でも
+Dialogue: 0,0:07:39.42,0:07:41.29,Dialog,,0,0,0,,Panowanie nad światem, Życie wieczne...
 Comment: 0,0:07:41.38,0:07:44.30,Default,,0,0,0,,これから地球にやって来る\Nサイヤ人を倒してほしいでも
+Dialogue: 0,0:07:41.38,0:07:44.30,Dialog,,0,0,0,,Czy pokonanie Saiyanina przybywającego na Ziemie.
 Comment: 0,0:07:44.38,0:07:46.38,Default,,0,0,0,,（阿良々木）\Nお前は神龍(シェンロン)をも超える力を
+Dialogue: 0,0:07:44.38,0:07:46.38,Dialog,,0,0,0,,Masz moc przewyższającą nawet Shenrona?
 Comment: 0,0:07:46.47,0:07:47.30,Default,,0,0,0,,持っているというのか？
+Dialogue: 0,0:07:46.47,0:07:47.30,Dialog,,0,0,0,,Na prawdę ją posiadasz?!
 Comment: 0,0:07:47.68,0:07:48.51,Default,,0,0,0,,当たり前よ
+Dialogue: 0,0:07:47.68,0:07:48.51,Dialog,,0,0,0,,Naturalnie.
 Comment: 0,0:07:48.93,0:07:49.97,Default,,0,0,0,,（阿良々木）\N肯定しやがった
+Dialogue: 0,0:07:48.93,0:07:49.97,Dialog,,0,0,0,,I jeszcze to potwierdza.
 Comment: 0,0:07:50.68,0:07:51.68,Default,,0,0,0,,（戦場ヶ原）\Nでも まあ 確かに
+Dialogue: 0,0:07:50.68,0:07:51.68,Dialog,,0,0,0,,Lecz, cóż na pewno...
 Comment: 0,0:07:52.26,0:07:54.68,Default,,0,0,0,,私としては もっと個人的な\Nお願いのほうが
+Dialogue: 0,0:07:52.26,0:07:54.68,Dialog,,0,0,0,,Wolałabym bardziej osobiste życzenie.
 Comment: 0,0:07:54.77,0:07:56.35,Default,,0,0,0,,助かるのは事実ね
+Dialogue: 0,0:07:54.77,0:07:56.35,Dialog,,0,0,0,,Byłoby znacznie wygodniejsze.
 Comment: 0,0:07:56.43,0:07:57.27,Default,,0,0,0,,お手軽だもの
+Dialogue: 0,0:07:56.43,0:07:57.27,Dialog,,0,0,0,,Łatwiej się je spełnia.
 Comment: 0,0:07:57.52,0:07:58.35,Default,,0,0,0,,（阿良々木）だろうな
+Dialogue: 0,0:07:57.52,0:07:58.35,Dialog,,0,0,0,,Pewnie tak
 Comment: 0,0:07:59.69,0:08:01.52,Default,,0,0,0,,（戦場ヶ原）\N本当に何でもいいわよ
+Dialogue: 0,0:07:59.69,0:08:01.52,Dialog,,0,0,0,,To może być na prawdę wszystko.
 Comment: 0,0:08:01.61,0:08:04.98,Default,,0,0,0,,１週間 語尾に“にゅ”と付けて\N会話してほしいとか
+Dialogue: 0,0:08:01.61,0:08:04.98,Dialog,,0,0,0,,Może chcesz, żebym przez tydzień dodawała "nyu" do końca zdania.
 Comment: 0,0:08:05.23,0:08:08.28,Default,,0,0,0,,１週間 下着を着用せずに\N授業を受けてほしいとか
+Dialogue: 0,0:08:05.23,0:08:08.28,Dialog,,0,0,0,,Lub chodziła przez tydzień na lekcje bez bielizny.
 Comment: 0,0:08:08.40,0:08:09.24,Default,,0,0,0,,（阿良々木）ああ…
+Dialogue: 0,0:08:08.40,0:08:09.24,Dialog,,0,0,0,,A...
 Comment: 0,0:08:09.57,0:08:13.45,Default,,0,0,0,,（戦場ヶ原）\N１週間 毎朝 裸エプロンで\N起こしに来てほしいとか
+Dialogue: 0,0:08:09.57,0:08:13.45,Dialog,,0,0,0,,Może wolisz żebym przez tydzień codziennie rano budziła cię w samym fartuchu.
 Comment: 0,0:08:13.62,0:08:17.21,Default,,0,0,0,,１週間 かん腸ダイエットに\Nつきあってほしいとか
+Dialogue: 0,0:08:13.62,0:08:17.21,Dialog,,0,0,0,,Albo żebyśmy przez tydzień razem stosowali dietę lewatywową.
 Comment: 0,0:08:17.37,0:08:19.75,Default,,0,0,0,,阿良々木くんにも いろいろ\N好みは あるでしょう
+Dialogue: 0,0:08:17.37,0:08:19.75,Dialog,,0,0,0,,Pewnie masz włane preferencje, Araragi-kun.
 Comment: 0,0:08:19.83,0:08:20.88,Default,,0,0,0,,（阿良々木）お前…
+Dialogue: 0,0:08:19.83,0:08:20.88,Dialog,,0,0,0,,Ty...
 Comment: 0,0:08:20.96,0:08:23.71,Default,,0,0,0,,僕を そんなレベルのマニアックな\N変態だと思ってたのか？
+Dialogue: 0,0:08:20.96,0:08:23.71,Dialog,,0,0,0,,Naprawdę brałaś mnie za maniaka i zboczeńca aż takiego kalibru?!
 Comment: 0,0:08:24.34,0:08:26.30,Default,,0,0,0,,いくら何でも\N失礼すぎるだろうが！
+Dialogue: 0,0:08:24.34,0:08:26.30,Dialog,,0,0,0,,Nie ważne jak to powiesz to nie miłe!
 Comment: 0,0:08:26.71,0:08:30.01,Default,,0,0,0,,いえ あの 申し訳ないけれど\Nさすがに そういうのを
+Dialogue: 0,0:08:26.71,0:08:30.01,Dialog,,0,0,0,,Znaczy... przepraszam cię bardzo, ale z czymś takim...
 Comment: 0,0:08:30.43,0:08:33.22,Default,,0,0,0,,一生とか言われると\Nちょっと私としては
+Dialogue: 0,0:08:30.43,0:08:33.22,Dialog,,0,0,0,,Gdyby padło „na całe życie”, to dla mnie byłaby już przesada.
 Comment: 0,0:08:33.30,0:08:34.43,Default,,0,0,0,,ついていけないというか
+Dialogue: 0,0:08:33.30,0:08:34.43,Dialog,,0,0,0,,Jakoś nie potrafię za tobą nadążyć...
 Comment: 0,0:08:34.51,0:08:36.56,Default,,0,0,0,,（阿良々木）\Nいや 違う 違う 違う！
-Comment: 0,0:08:36.64,0:08:39.52,Default,,0,0,0,,自分のマニア度を不当に低く\N評価されていることに対して
+Dialogue: 0,0:08:34.51,0:08:36.56,Dialog,,0,0,0,,Zaraz, nie! Źle!
+Comment: 0,0:08:36.64,0:08:39.52,Dialog,,0,0,0,,自分のマニア度を不当に低く\N評価されていることに対して
+Dialogue: 0,0:08:36.64,0:08:39.52,Dialog,,0,0,0,,Protestuję przeciwko temu, że tak niesprawiedliwie zaniżyłaś poziom moich upodobań!
 Comment: 0,0:08:39.60,0:08:41.27,Default,,0,0,0,,怒ったわけじゃない！
+Dialogue: 0,0:08:39.60,0:08:41.27,Dialog,,0,0,0,,To nie tak, że się wściekłem!
 Comment: 0,0:08:41.65,0:08:42.48,Default,,0,0,0,,（戦場ヶ原）あら そう
+Dialogue: 0,0:08:41.65,0:08:42.48,Dialog,,0,0,0,,Ojej, doprawdy?
 Comment: 0,0:08:43.69,0:08:46.82,Default,,0,0,0,,参考までに\N私の個人的な お薦めは
+Dialogue: 0,0:08:43.69,0:08:46.82,Dialog,,0,0,0,,Lecz moją osobistą rekomendacją jest...
 Comment: 0,0:08:46.90,0:08:49.82,Default,,0,0,0,,毎朝 裸エプロンで起こす\Nかしらね
+Dialogue: 0,0:08:46.90,0:08:49.82,Dialog,,0,0,0,,Żebym przez tydzień codziennie rano budziła cię w samym fartuchu.
 Comment: 0,0:08:50.15,0:08:53.41,Default,,0,0,0,,なんなら ついでに\N朝食を作ってあげても いいのよ
+Dialogue: 0,0:08:50.15,0:08:53.41,Dialog,,0,0,0,,Przy okazji mogła bym również zrobić ci śniadanie.
 Comment: 0,0:08:53.49,0:08:57.04,Default,,0,0,0,,それを後ろから眺めるなんて\Nなかなか男のロマンじゃない？
+Dialogue: 0,0:08:53.49,0:08:57.04,Dialog,,0,0,0,,Czy to nie marzenie wielu facetów żeby to oglądać od tyłu?
 Comment: 0,0:08:57.58,0:08:59.58,Default,,0,0,0,,あのね 戦場ヶ原
+Dialogue: 0,0:08:57.58,0:08:59.58,Dialog,,0,0,0,,Wiesz co, Senjougahara...?
 Comment: 0,0:08:59.71,0:09:02.21,Default,,0,0,0,,仮に そのような交渉が\N成立してしまったら
+Dialogue: 0,0:08:59.71,0:09:02.21,Dialog,,0,0,0,,Gdybyśmy dobili takiego targu...
 Comment: 0,0:09:03.08,0:09:06.92,Default,,0,0,0,,僕たちの間に その後の友情は\Nありえなくなると思うんだよ
+Dialogue: 0,0:09:03.08,0:09:06.92,Dialog,,0,0,0,,Myśle że nasza przyjaźń nie mogła by istnieć.
 Comment: 0,0:09:07.17,0:09:08.01,Default,,0,0,0,,（戦場ヶ原）あら
+Dialogue: 0,0:09:07.17,0:09:08.01,Dialog,,0,0,0,,Ojej.
 Comment: 0,0:09:08.42,0:09:11.72,Default,,0,0,0,,言われてみれば確かにそうね\Nそうだったわ
+Dialogue: 0,0:09:08.42,0:09:11.72,Dialog,,0,0,0,,Gdy o tym teraz tak mówisz, chyba masz rację.
 Comment: 0,0:09:11.80,0:09:14.35,Default,,0,0,0,,では エロ方面は\N禁止ということで
+Dialogue: 0,0:09:11.80,0:09:14.35,Dialog,,0,0,0,,W takim razie motywy erotyczne są zakazane.
 Comment: 0,0:09:14.97,0:09:18.10,Default,,0,0,0,,でも どうせ阿良々木くんは\Nエロ方面の要求なんて
+Dialogue: 0,0:09:14.97,0:09:18.10,Dialog,,0,0,0,,Zresztą i tak podejrzewałam, że raczej nie wyskoczysz...
 Comment: 0,0:09:18.18,0:09:20.52,Default,,0,0,0,,してこないだろうとは\N思っていたけれどね
+Dialogue: 0,0:09:18.18,0:09:20.52,Dialog,,0,0,0,,z żadnymi erotycznymi żądaniami.
 Comment: 0,0:09:20.60,0:09:22.52,Default,,0,0,0,,（阿良々木）\Nおお えらく信頼されてんじゃん
+Dialogue: 0,0:09:20.60,0:09:22.52,Dialog,,0,0,0,,Ooo, ależ ty masz do mnie zaufanie!
 Comment: 0,0:09:23.52,0:09:24.36,Default,,0,0,0,,童貞だもの
+Dialogue: 0,0:09:23.52,0:09:24.36,Dialog,,0,0,0,,Jesteś jednak prawiczkiem.
 Comment: 0,0:09:25.19,0:09:26.82,Default,,0,0,0,,（阿良々木）\Nそんな話も しましたね
+Dialogue: 0,0:09:25.19,0:09:26.82,Dialog,,0,0,0,,Rozmawialiśmy już o tym, co nie.
 Comment: 0,0:09:27.48,0:09:30.28,Default,,0,0,0,,童貞は がっついてないから\N相手が楽で いいわ
+Dialogue: 0,0:09:27.48,0:09:30.28,Default,,0,0,0,,Z prawiczkami jest łatwiej, bo nie są tacy napastliwi.
 Comment: 0,0:09:30.57,0:09:32.74,Default,,0,0,0,,（阿良々木）あの 戦場ヶ原
+Dialogue: 0,0:09:30.57,0:09:32.74,Dialog,,0,0,0,,Ej, Senjougahara...
 Comment: 0,0:09:32.99,0:09:35.16,Default,,0,0,0,,お前だって別に経験が\Nあるわけじゃ ないんだろう？
+Dialogue: 0,0:09:32.99,0:09:35.16,Dialog,,0,0,0,,Ty raczej też nie masz żadnego doświatczenia, co?
 Comment: 0,0:09:35.58,0:09:37.83,Default,,0,0,0,,何 言ってるの？ 私は経験者よ
+Dialogue: 0,0:09:35.58,0:09:37.83,Dialog,,0,0,0,,O czym ty mówisz? Mam doświadczenie.
 Comment: 0,0:09:38.20,0:09:39.04,Default,,0,0,0,,そうなのか？
+Dialogue: 0,0:09:38.20,0:09:39.04,Dialog,,0,0,0,,Naprawdę?
 Comment: 0,0:09:39.29,0:09:40.12,Default,,0,0,0,,やりまくりよ
+Dialogue: 0,0:09:39.29,0:09:40.12,Dialog,,0,0,0,,Robię to na okrągło.
 Comment: 0,0:09:41.33,0:09:42.54,Default,,0,0,0,,（阿良々木）ウ… ウウン
 Comment: 0,0:09:42.62,0:09:45.75,Default,,0,0,0,,えっとな 仮に\N本当に そうだったとして
+Dialogue: 0,0:09:42.62,0:09:45.75,Dialog,,0,0,0,,No dobra... Załóżmy nawet, że to prawda.
 Comment: 0,0:09:45.84,0:09:49.09,Default,,0,0,0,,その事実を僕に対して\N告げることが 戦場ヶ原
+Dialogue: 0,0:09:45.84,0:09:49.09,Dialog,,0,0,0,,Powiedzenie mi tego faktu...
 Comment: 0,0:09:49.17,0:09:51.30,Default,,0,0,0,,お前にとって\N何か利益になるのか？
+Dialogue: 0,0:09:49.17,0:09:51.30,Dialog,,0,0,0,,Coś ci daje?
 Comment: 0,0:09:51.42,0:09:52.26,Default,,0,0,0,,む…
 Comment: 0,0:09:52.84,0:09:54.97,Default,,0,0,0,,わかったわ　訂正します
+Dialogue: 0,0:09:52.84,0:09:54.97,Dialog,,0,0,0,,Rozumiem, Wprowadzam korekte.
 Comment: 0,0:09:56.68,0:09:59.02,Default,,0,0,0,,経験は ありません　処女です
+Dialogue: 0,0:09:56.68,0:09:59.02,Dialog,,0,0,0,,Nie mam doświadczenia. Jestem dziewicą.
 Comment: 0,0:09:59.14,0:09:59.97,Default,,0,0,0,,はあ…
+Dialogue: 0,0:09:59.14,0:09:59.97,Dialog,,0,0,0,,Ha...
 Comment: 0,0:10:00.56,0:10:02.44,Default,,0,0,0,,（戦場ヶ原）\Nつまり 阿良々木くんみたいな
+Dialogue: 0,0:10:00.56,0:10:02.44,Dialog,,0,0,0,,Innymi słowy, z takim jak ty...
 Comment: 0,0:10:02.52,0:10:05.27,Default,,0,0,0,,いかさない童貞野郎と\N話してくれる女の子なんて
+Dialogue: 0,0:10:02.52,0:10:05.27,Dialog,,0,0,0,,Debilnym prawiczkiem w ogóle zechce porozmawiać jedynie dziewczyna...
 Comment: 0,0:10:05.73,0:10:07.23,Default,,0,0,0,,せいぜい私のような行き遅れの
+Dialogue: 0,0:10:05.73,0:10:07.23,Dialog,,0,0,0,,co najwyżej taka jak ja: przeterminowana...
 Comment: 0,0:10:07.32,0:10:09.86,Default,,0,0,0,,メンヘル処女しか\Nいないということよ！
+Dialogue: 0,0:10:07.32,0:10:09.86,Dialog,,0,0,0,,I zaburzona psychicznie dziewica!
 Comment: 0,0:10:12.65,0:10:17.74,Default,,0,0,0,,話がそれたけど実際のところ\N何かないのかしら？ 阿良々木くん
+Dialogue: 0,0:10:12.65,0:10:17.74,Dialog,,0,0,0,,Zboczyliśmy z tematu... nie masz dla mnie na prawdę żadnej prośby, Araragi-kun?
 Comment: 0,0:10:17.83,0:10:19.83,Default,,0,0,0,,もっと単純に困っていることとか
+Dialogue: 0,0:10:17.83,0:10:19.83,Dialog,,0,0,0,,Coś bardziej zwyczajnego, z czym masz problem...
 Comment: 0,0:10:20.33,0:10:22.25,Default,,0,0,0,,（阿良々木）困っていることね…
+Dialogue: 0,0:10:20.33,0:10:22.25,Dialog,,0,0,0,,Z czym mam problem, tak...?
 Comment: 0,0:10:22.33,0:10:25.12,Default,,0,0,0,,（戦場ヶ原）\N私 口下手だから\Nうまく言えないけれど
+Dialogue: 0,0:10:22.33,0:10:25.12,Dialog,,0,0,0,,Nie jestem wygadana, oraz nie zbyt umiem rozmawiać, ale...
 Comment: 0,0:10:25.21,0:10:28.46,Default,,0,0,0,,阿良々木くんの力になりたいと\N思っているのは本当なのよ
+Dialogue: 0,0:10:25.21,0:10:28.46,Dialog,,0,0,0,,Na prawdę, chcę ci pomóc, Araragi-kun.
 Comment: 0,0:10:30.71,0:10:33.42,Default,,0,0,0,,（阿良々木）\Nそうだな あえて言うなら…
+Dialogue: 0,0:10:30.71,0:10:33.42,Dialog,,0,0,0,,Cóż, jak muszę coś powiedzieć...
 Comment: 0,0:10:33.51,0:10:35.13,Default,,0,0,0,,（戦場ヶ原）あら 何かあるの？
+Dialogue: 0,0:10:33.51,0:10:35.13,Dialog,,0,0,0,,Ojej, coś jednak jest?
 Comment: 0,0:10:35.22,0:10:39.43,Default,,0,0,0,,話してみてよ　話すだけでも\N楽になるものらしいわよ
+Dialogue: 0,0:10:35.22,0:10:39.43,Dialog,,0,0,0,,Opowiedz mi. Podobno samo wygadanie się przynosi ulgę.
 Comment: 0,0:10:40.39,0:10:41.72,Default,,0,0,0,,（阿良々木）えっと…
+Dialogue: 0,0:10:40.39,0:10:41.72,Dialog,,0,0,0,,Eee...
 Comment: 0,0:10:42.27,0:10:43.98,Default,,0,0,0,,妹とケンカした
+Dialogue: 0,0:10:42.27,0:10:43.98,Dialog,,0,0,0,,Pokłóciłem się z siostrą.
 Comment: 0,0:10:44.52,0:10:46.94,Default,,0,0,0,,いまいち 力になれそうもない話ね
+Dialogue: 0,0:10:44.52,0:10:46.94,Dialog,,0,0,0,,W te kwestii raczej nie uda mi się tobie pomóc.
 Comment: 0,0:10:47.10,0:10:48.15,Default,,0,0,0,,（阿良々木）がっ！
 Comment: 0,0:10:48.69,0:10:51.32,Default,,0,0,0,,（戦場ヶ原）\Nでも一応 最後まで聞かせて
+Dialogue: 0,0:10:48.69,0:10:51.32,Dialog,,0,0,0,,Ale mimo wszytko daj mi wysłuchać cię do końca.
 Comment: 0,0:10:51.40,0:10:52.53,Default,,0,0,0,,（阿良々木）一応… かよ
+Dialogue: 0,0:10:51.40,0:10:52.53,Dialog,,0,0,0,,Mimo wszytko...?
 Comment: 0,0:10:54.11,0:10:56.91,Default,,0,0,0,,（戦場ヶ原）\Nで どちらの妹さんと\Nケンカしたの？
+Dialogue: 0,0:10:54.11,0:10:56.91,Dialog,,0,0,0,,Dobra, z którą siostrą się pokłóciłeś?
 Comment: 0,0:10:56.99,0:11:00.16,Default,,0,0,0,,確か 阿良々木くん\N２人 妹さん いたはずよね
+Dialogue: 0,0:10:56.99,0:11:00.16,Dialog,,0,0,0,,O ile dobrze pamiętam, masz dwie siostry?
 Comment: 0,0:11:00.37,0:11:02.54,Default,,0,0,0,,（阿良々木）\Nああ 知ってるんだっけ
+Dialogue: 0,0:11:00.37,0:11:02.54,Dialog,,0,0,0,,Aaa. Wiedzałaś?
 Comment: 0,0:11:03.08,0:11:05.12,Default,,0,0,0,,どちらかっていうと上のほう
+Dialogue: 0,0:11:03.08,0:11:05.12,Dialog,,0,0,0,,Znaczy... bardziej ze starszą.
 Comment: 0,0:11:05.50,0:11:07.25,Default,,0,0,0,,だけど まあ 両方みたいなもんだ
+Dialogue: 0,0:11:05.50,0:11:07.25,Dialog,,0,0,0,,Ale w sumie wyszło na to, że z obiema.
 Comment: 0,0:11:08.04,0:11:11.80,Default,,0,0,0,,あいつら何するにしても\Nいつでも どこでも５Ｗ１Ｈ
+Dialogue: 0,0:11:08.04,0:11:11.80,Dialog,,0,0,0,,Cokolwiek by nie robiły, zawsze i wszędzie trzmają się zasady 5W1H.
 Comment: 0,0:11:12.17,0:11:14.51,Default,,0,0,0,,完璧に べったりと\Nつるんでるからな
+Dialogue: 0,0:11:12.17,0:11:14.51,Dialog,,0,0,0,,Są całkowicie nierozłączne i zawsze trzymają się razem.
 Comment: 0,0:11:15.01,0:11:17.51,Default,,0,0,0,,栂(つが)の木(き)二中の\Nファイヤーシスターズだものね
+Dialogue: 0,0:11:15.01,0:11:17.51,Dialog,,0,0,0,,W końcu to Fire Sisters z Drugiego Gimnazium Tsuganoki.
 Comment: 0,0:11:18.09,0:11:19.72,Default,,0,0,0,,通り名まで知ってんのかよ
+Dialogue: 0,0:11:18.09,0:11:19.72,Dialog,,0,0,0,,Znasz nawet ich nazwę?!
 Comment: 0,0:11:20.22,0:11:21.93,Default,,0,0,0,,ほら 今日って母の日じゃん
+Dialogue: 0,0:11:20.22,0:11:21.93,Dialog,,0,0,0,,No bo wiesz, dzisiaj jest przecież Dzień Matki.
 Comment: 0,0:11:22.31,0:11:24.89,Default,,0,0,0,,ん？ ああ そういえば\Nそうだったわね
+Dialogue: 0,0:11:22.31,0:11:24.89,Dialog,,0,0,0,,Hm? A, racja, przypomniałam sobie...
 Comment: 0,0:11:26.23,0:11:29.19,Default,,0,0,0,,（阿良々木）\Nあいつら２人とも\N母親に べったりでさ
+Dialogue: 0,0:11:26.23,0:11:29.19,Dialog,,0,0,0,,Obie są bardzo przywiązane do naszej matki.
 Comment: 0,0:11:29.27,0:11:33.44,Default,,0,0,0,,で 母親のほうも そんな２人を\N猫っかわいがりしてるわけよ　で…
+Dialogue: 0,0:11:29.27,0:11:33.44,Dialog,,0,0,0,,A mama z kolei bez pamięci je rozpieszcza. No i...
 Comment: 0,0:11:33.57,0:11:34.40,Default,,0,0,0,,なるほど
+Dialogue: 0,0:11:33.57,0:11:34.40,Dialog,,0,0,0,,Rozumiem.
 Comment: 0,0:11:35.24,0:11:39.99,Default,,0,0,0,,出来の悪い長男としては\N母の日である今日 本日 この日
+Dialogue: 0,0:11:35.24,0:11:39.99,Dialog,,0,0,0,,I ja, jako ten wyrodny najstarszy syn, właśnie dzisiaj, w Dzień Matki, w ten oto dzień...
 Comment: 0,0:11:40.07,0:11:42.95,Default,,0,0,0,,自分の家には\N居場所がないというわけね
+Dialogue: 0,0:11:40.07,0:11:42.95,Dialog,,0,0,0,,Czyli czujesz jakbyś nie pasował do swojego domu?
 Comment: 0,0:11:43.45,0:11:44.50,Default,,0,0,0,,（阿良々木）そういうことだ
+Dialogue: 0,0:11:43.45,0:11:44.50,Dialog,,0,0,0,,Coś w tym stylu.
 Comment: 0,0:11:46.21,0:11:49.46,Default,,0,0,0,,朝早いうちに家をこっそり\N抜け出そうとしたんだが
+Dialogue: 0,0:11:46.21,0:11:49.46,Dialog,,0,0,0,,Próbowałem z rana wymknąć się z domu, ale...
 Comment: 0,0:11:49.54,0:11:53.21,Default,,0,0,0,,マウンテンバイクに乗ったところで\N妹に捕まったんだ
-Comment: 0,0:11:53.55,0:11:54.76,Default,,0,0,0,,で 口論
+Dialogue: 0,0:11:49.54,0:11:53.21,Dialog,,0,0,0,,Gdy wsiadałem na swój rower złapała mnie siostra.
+Comment: 0,0:11:53.55,0:11:54.76,Dialog,,0,0,0,,で 口論
+Dialogue: 0,0:11:53.55,0:11:54.76,Dialog,,0,0,0,,No i kłótnia.
 Comment: 0,0:11:54.84,0:11:55.80,Default,,0,0,0,,（戦場ヶ原）口論
+Dialogue: 0,0:11:54.84,0:11:55.80,Dialog,,0,0,0,,Kłótnia?
 Comment: 0,0:11:55.88,0:12:00.22,Default,,0,0,0,,（阿良々木）\N妹としては僕にも一緒に母の日を\N祝ってほしかったらしいんだが
+Dialogue: 0,0:11:55.88,0:12:00.22,Dialog,,0,0,0,,Według mojej siostry razem powiniśmy świętować Dzień Matki.
 Comment: 0,0:12:00.30,0:12:03.51,Default,,0,0,0,,何ていうか ほら\N僕は そんなの無理だから
+Dialogue: 0,0:12:00.30,0:12:03.51,Dialog,,0,0,0,,No bo wiesz... dla mnie coś takiego jest po prostu nie do przejścia.
 Comment: 0,0:12:03.89,0:12:05.72,Default,,0,0,0,,（火憐）\N兄ちゃんは そんなことだから
-Comment: 0,0:12:05.81,0:12:08.14,Default,,0,0,0,,そんなことだから\Nいつまでたっても…
+Dialogue: 0,0:12:03.89,0:12:05.72,Karen_end,,0,0,0,,Braciczku, przez to twoje podejście...
+Comment: 0,0:12:05.81,0:12:08.14,Karen_end,,0,0,0,,そんなことだから\Nいつまでたっても…
+Dialogue: 0,0:12:05.81,0:12:08.14,Karen_end,,0,0,0,,Nieważne, ile czasu minie, nigdy nie...
 Comment: 0,0:12:12.40,0:12:16.32,Default,,0,0,0,,（阿良々木）\Nつまりだ 母の日ひとつ\N祝ってやれない自分とか
+Dialogue: 0,0:12:12.40,0:12:16.32,Dialog,,0,0,0,,Wieć nawet, nie potrafię uczcić dla niej nawet Dnia Matki.
 Comment: 0,0:12:16.49,0:12:21.12,Default,,0,0,0,,４つも年下の妹から言われた言葉に\N本気で腹を立てている自分とか
+Dialogue: 0,0:12:16.49,0:12:21.12,Dialog,,0,0,0,,Albo wściekam się o słowa cztery lata młodszej siostry.
 Comment: 0,0:12:21.49,0:12:25.20,Default,,0,0,0,,そういう 何ていうか\N自分の人間の小ささみたいなのが
+Dialogue: 0,0:12:21.49,0:12:25.20,Dialog,,0,0,0,,Ta cała... jak by to ująć... moja własna małostkowość...
 Comment: 0,0:12:25.29,0:12:28.00,Default,,0,0,0,,腹立たしくて 腹立たしくて\Nしょうがないんだよ
+Dialogue: 0,0:12:25.29,0:12:28.00,Dialog,,0,0,0,,Jetsem wściekły. Naprawdę wściekły.
 Comment: 0,0:12:28.29,0:12:30.79,Default,,0,0,0,,（戦場ヶ原）\Nふ〜ん 複雑な悩みね
+Dialogue: 0,0:12:28.29,0:12:30.79,Dialog,,0,0,0,,Ech...  Zawiły problem.
 Comment: 0,0:12:30.96,0:12:33.88,Default,,0,0,0,,（阿良々木）\N複雑じゃなくて\N矮小(わいしょう)なだけなんだよ
+Dialogue: 0,0:12:30.96,0:12:33.88,Dialog,,0,0,0,,Nie jest zawiły tylko żałosny.
 Comment: 0,0:12:33.96,0:12:36.59,Default,,0,0,0,,僕って人間 小さいよな… とか
+Dialogue: 0,0:12:33.96,0:12:36.59,Dialog,,0,0,0,,Myślę: Ale ze mnie mały człowiek...
 Comment: 0,0:12:36.88,0:12:40.43,Default,,0,0,0,,でも それでも妹に\N謝らなきゃならないことを思うと
+Dialogue: 0,0:12:36.88,0:12:40.43,Dialog,,0,0,0,,Lecz gdy myślę o przeproszeniu mojej siostry...
 Comment: 0,0:12:40.51,0:12:42.68,Default,,0,0,0,,めちゃくちゃ\N家に帰りたくないんだ
+Dialogue: 0,0:12:40.51,0:12:42.68,Dialog,,0,0,0,,Powdują, że coraz bardziej nie chce wracać do domu.
 Comment: 0,0:12:43.05,0:12:45.43,Default,,0,0,0,,（戦場ヶ原）\N家に帰りたくない… か
+Dialogue: 0,0:12:43.05,0:12:45.43,Dialog,,0,0,0,,Nie chcesz wracać do domu?
 Comment: 0,0:12:45.89,0:12:49.89,Default,,0,0,0,,ハア… 残念ながら\Nあなたの人間の小ささを
+Dialogue: 0,0:12:45.89,0:12:49.89,Dialog,,0,0,0,,Ah... obawiam się, że na tą twoją ludzka małość...
 Comment: 0,0:12:49.98,0:12:52.69,Default,,0,0,0,,私の器量で どうこうすることは\Nできないわね
+Dialogue: 0,0:12:49.98,0:12:52.69,Dialog,,0,0,0,,Nic nie mogę zrobić z moimi możliwościami
 Comment: 0,0:12:52.77,0:12:54.36,Default,,0,0,0,,（阿良々木）\N努力くらいしてくれよ
+Dialogue: 0,0:12:52.77,0:12:54.36,Dialog,,0,0,0,,Przynajmniej włóż w to trochę wysiłku.
 Comment: 0,0:12:54.44,0:12:57.44,Default,,0,0,0,,（戦場ヶ原）\N当然ながら\Nあなたの人間の小ささを
+Dialogue: 0,0:12:54.44,0:12:57.44,Dialog,,0,0,0,,To oczywiste, twoja ludzka małość...
 Comment: 0,0:12:57.53,0:12:59.99,Default,,0,0,0,,私の器量で どうこうすることは\Nできないわね
+Dialogue: 0,0:12:57.53,0:12:59.99,Dialog,,0,0,0,,Nic nie mogę zrobić z moimi możliwościami.
 Comment: 0,0:13:00.07,0:13:00.91,Default,,0,0,0,,（阿良々木）ちぇ…
 Comment: 0,0:13:01.53,0:13:03.87,Default,,0,0,0,,つまらない人間だよなって
+Dialogue: 0,0:13:01.53,0:13:03.87,Dialog,,0,0,0,,Jestem naprawdę nudną osobą.
 Comment: 0,0:13:04.45,0:13:06.95,Default,,0,0,0,,僕の悩みは こんなにちっちゃい
+Dialogue: 0,0:13:04.45,0:13:06.95,Dialog,,0,0,0,,Moje problemy są takie drobne.
 Comment: 0,0:13:07.04,0:13:09.04,Default,,0,0,0,,それが嫌だ
+Dialogue: 0,0:13:07.04,0:13:09.04,Dialog,,0,0,0,,I stracsznie tego niecierpie.
 Comment: 0,0:13:10.71,0:13:11.75,Default,,0,0,0,,（戦場ヶ原）ちっちゃい
+Dialogue: 0,0:13:10.71,0:13:11.75,Dialog,,0,0,0,,Drobne...
 Comment: 0,0:13:11.83,0:13:13.67,Default,,0,0,0,,（阿良々木）\Nしょぼいと言っても いいかな
+Dialogue: 0,0:13:11.83,0:13:13.67,Dialog,,0,0,0,,Można też powiedzieć, że są żałosne.
 Comment: 0,0:13:14.00,0:13:17.25,Default,,0,0,0,,なんか こう おみくじで\N小吉ばっかり引くみたいな
+Dialogue: 0,0:13:14.00,0:13:17.25,Dialog,,0,0,0,,Coś jak ciągłe trafianie w wróżbach tylko "małego szczęścia".
 Comment: 0,0:13:17.34,0:13:18.71,Default,,0,0,0,,そういう しょぼさ
+Dialogue: 0,0:13:17.34,0:13:18.71,Dialog,,0,0,0,,Tego rodzaju żałosne.
 Comment: 0,0:13:19.01,0:13:21.63,Default,,0,0,0,,（戦場ヶ原）\N自分の魅力を否定してはいけないわ\N阿良々木くん
+Dialogue: 0,0:13:19.01,0:13:21.63,Dialog,,0,0,0,,Nie powinieneś negować swojego uroku, Araragi-kun.
 Comment: 0,0:13:22.09,0:13:25.89,Default,,0,0,0,,魅力？ 僕の魅力は おみくじで\N小吉ばっかり引くことだったのか？
+Dialogue: 0,0:13:22.09,0:13:25.89,Dialog,,0,0,0,,Uroku? Mój urok polega na traﬁaniu w wróżbach tylko "małego szczęścia"?
 Comment: 0,0:13:26.43,0:13:29.43,Default,,0,0,0,,冗談よ　それに阿良々木くんの\Nしょぼさは
+Dialogue: 0,0:13:26.43,0:13:29.43,Dialog,,0,0,0,,To żart. Poza tym, Twoja żałosność...
 Comment: 0,0:13:29.52,0:13:32.10,Default,,0,0,0,,おみくじで小吉ばっかり\N引くみたいなんかじゃないわ
+Dialogue: 0,0:13:29.52,0:13:32.10,Dialog,,0,0,0,,Nie jest trafieniem w wróżbach "małego szczęścia".
 Comment: 0,0:13:33.40,0:13:35.27,Default,,0,0,0,,大凶ばっかり引くって\N言いたいのか？
+Dialogue: 0,0:13:33.40,0:13:35.27,Dialog,,0,0,0,,Chcesz powiedzieć, że trafiam "Wielki pech"?
 Comment: 0,0:13:35.81,0:13:40.28,Default,,0,0,0,,まさか それは すごいことじゃない\Nていうか おいしいことじゃない
+Dialogue: 0,0:13:35.81,0:13:40.28,Dialog,,0,0,0,,Skądże. To byłoby zbyt niezwykłe. A raczej... zbyt atrakcyjne.
 Comment: 0,0:13:40.86,0:13:42.74,Default,,0,0,0,,阿良々木くんの\Nしょぼさというのはね…
+Dialogue: 0,0:13:40.86,0:13:42.74,Dialog,,0,0,0,,Twoja załosność przypomina...
 Comment: 0,0:13:43.07,0:13:43.91,Default,,0,0,0,,うん？
 Comment: 0,0:13:45.99,0:13:48.70,Default,,0,0,0,,（戦場ヶ原）\N大吉を引き当てはしたものの\Nよく読むと
+Dialogue: 0,0:13:45.99,0:13:48.70,Dialog,,0,0,0,,Wyciągnieńcie "wielkiiehgo szczęścia" ale gdy się wczytasz...
 Comment: 0,0:13:48.79,0:13:51.87,Default,,0,0,0,,内容的には そんな いいことも\N書いていないみたいな
+Dialogue: 0,0:13:48.79,0:13:51.87,Dialog,,0,0,0,,Okazuje się, że w treści nie ma nic miłego.
 Comment: 0,0:13:52.08,0:13:53.12,Default,,0,0,0,,そういう しょぼさなのよ
+Dialogue: 0,0:13:52.08,0:13:53.12,Dialog,,0,0,0,,To twoja żałósność.
 Comment: 0,0:13:54.17,0:13:55.04,Default,,0,0,0,,（阿良々木）しょぼ〜！
+Dialogue: 0,0:13:54.17,0:13:55.04,Dialog,,0,0,0,,Żałosne...!
 Comment: 0,0:13:55.63,0:13:59.80,Default,,0,0,0,,でも 阿良々木くん 妹なんか\Nかわいがってそうな ものだけれど
+Dialogue: 0,0:13:55.63,0:13:59.80,Dialog,,0,0,0,,A wydawało mi się, że akurat ty należysz do braci, którzy rozpieszczają swoje siostry.
 Comment: 0,0:13:59.88,0:14:01.72,Default,,0,0,0,,（阿良々木）\Nケンカばっかりだよ ヘヘッ
+Dialogue: 0,0:13:59.88,0:14:01.72,Dialog,,0,0,0,,Co ty, ciągle się kłócimy, heh.
 Comment: 0,0:14:02.38,0:14:05.30,Default,,0,0,0,,目に入れても かわいくない\N痛い妹なのね
+Dialogue: 0,0:14:02.38,0:14:05.30,Dialog,,0,0,0,,Czyli nie jest słodką, ale irytującą siostrą.
 Comment: 0,0:14:05.39,0:14:07.22,Default,,0,0,0,,（阿良々木）\N僕の妹は別に痛くはねえよ
+Dialogue: 0,0:14:05.39,0:14:07.22,Dialog,,0,0,0,,Moja siostra nie jest irytująca!
 Comment: 0,0:14:07.76,0:14:10.43,Default,,0,0,0,,それとも 愛情の裏返しって\Nやつなのかしら
+Dialogue: 0,0:14:07.76,0:14:10.43,Dialog,,0,0,0,,Może, to jednak ją kochasz.
 Comment: 0,0:14:10.98,0:14:13.52,Default,,0,0,0,,案外 阿良々木くん\Nシスコンだったりして
-Comment: 0,0:14:13.89,0:14:14.98,Default,,0,0,0,,（阿良々木）違うよ
+Dialogue: 0,0:14:10.98,0:14:13.52,Dialog,,0,0,0,,Niewykluczone, że jesteś sisconem, Araragi-kun.
+Comment: 0,0:14:13.89,0:14:14.98,Dialog,,0,0,0,,（阿良々木）違うよ
+Dialogue: 0,0:14:13.89,0:14:14.98,Dialog,,0,0,0,,Mylisz się.
 Comment: 0,0:14:15.48,0:14:19.44,Default,,0,0,0,,妹好きなんてのは\N実際に妹のいないヤツの幻想だろ
+Dialogue: 0,0:14:15.48,0:14:19.44,Dialog,,0,0,0,,To całe zachwycanie się siostrami to fantazja kogoś, kto nie ma własnej.
 Comment: 0,0:14:19.53,0:14:22.57,Default,,0,0,0,,そう 阿良々木くんは\Nシスコンではないと
+Dialogue: 0,0:14:19.53,0:14:22.57,Dialog,,0,0,0,,A więć twierdzisz, że nie jest sisconem.
 Comment: 0,0:14:22.65,0:14:24.95,Default,,0,0,0,,実の妹を\N好きになったりはしないと…
+Dialogue: 0,0:14:22.65,0:14:24.95,Dialog,,0,0,0,,Czyli nigdy bym sie nie zakochał w swojej siostrze...
 Comment: 0,0:14:25.66,0:14:26.49,Default,,0,0,0,,するか
+Dialogue: 0,0:14:25.66,0:14:26.49,Dialog,,0,0,0,,A skądże.
 Comment: 0,0:14:26.91,0:14:29.74,Default,,0,0,0,,そうよね 阿良々木くん\Nソロコンぽいもの
+Dialogue: 0,0:14:26.91,0:14:29.74,Dialog,,0,0,0,,Racja. Ty wyglądasz mi raczej na kogoś od sorokonu.
 Comment: 0,0:14:29.83,0:14:30.83,Default,,0,0,0,,ソロコン？
+Dialogue: 0,0:14:29.83,0:14:30.83,Dialog,,0,0,0,,Sorokonu?
 Comment: 0,0:14:30.91,0:14:32.58,Default,,0,0,0,,ソロレート婚の略よ
+Dialogue: 0,0:14:30.91,0:14:32.58,Dialog,,0,0,0,,Skrót od małżeństwa sororatowego.
 Comment: 0,0:14:32.66,0:14:36.04,Default,,0,0,0,,姉妹逆縁婚といって\N奥さんが死んだあと
+Dialogue: 0,0:14:32.66,0:14:36.04,Dialog,,0,0,0,,Polega to na tym, że po śmierci żony...
 Comment: 0,0:14:36.13,0:14:39.34,Default,,0,0,0,,奥さんの姉だったり妹だったりと\N結婚することを言うの
+Dialogue: 0,0:14:36.13,0:14:39.34,Dialog,,0,0,0,,Poślubia się siostre żony.
 Comment: 0,0:14:39.46,0:14:40.30,Default,,0,0,0,,（阿良々木）う…
 Comment: 0,0:14:40.96,0:14:43.92,Default,,0,0,0,,どうして僕が その\Nソロレートとやらに なるんだ？
+Dialogue: 0,0:14:40.96,0:14:43.92,Dialog,,0,0,0,,A dlaczego ja miałbym niby pakować się w ten cały sororat?!
 Comment: 0,0:14:44.01,0:14:47.18,Default,,0,0,0,,阿良々木くんの場合は\N姉ではなく妹ね
+Dialogue: 0,0:14:44.01,0:14:47.18,Dialog,,0,0,0,,W twojej sytuacji nie z starszą, a młodszą siostrą.
 Comment: 0,0:14:47.26,0:14:51.31,Default,,0,0,0,,つまり 奥さんの妹さんに まずは\N“お義兄(にい)ちゃん”と呼ばせておいて
+Dialogue: 0,0:14:47.26,0:14:51.31,Dialog,,0,0,0,,Innymi słowy, najpierw każ siostre żony by nazywała cię "braciszku"... 
 Comment: 0,0:14:51.52,0:14:53.52,Default,,0,0,0,,そのあと その子と結婚
+Dialogue: 0,0:14:51.52,0:14:53.52,Dialog,,0,0,0,,A potem się z nią ożeń.
 Comment: 0,0:14:53.73,0:14:56.81,Default,,0,0,0,,夫婦になっても お義兄ちゃんと\N呼ばせ続ける
+Dialogue: 0,0:14:53.73,0:14:56.81,Dialog,,0,0,0,,Nawet po ślubie, każ jej nadal nazywać się "braciszkiem".
 Comment: 0,0:14:57.06,0:14:59.86,Default,,0,0,0,,これぞ 本当 本来の意味での\N現実的な…
+Dialogue: 0,0:14:57.06,0:14:59.86,Dialog,,0,0,0,,Oto jedyny realistyczny sposób w ścisłym tego słowa znaczeniu...
 Comment: 0,0:15:00.23,0:15:02.48,Default,,0,0,0,,（阿良々木）\N僕 絶対 最初の奥さん\N殺してるじゃん！
+Dialogue: 0,0:15:00.23,0:15:02.48,Dialog,,0,0,0,,Przecież w tym scenariuszu na bank zamordowałem pierwszą żonę!
 Comment: 0,0:15:02.90,0:15:04.82,Default,,0,0,0,,（戦場ヶ原）\Nで ソロコンの阿良々木くん
+Dialogue: 0,0:15:02.90,0:15:04.82,Dialog,,0,0,0,,A zatem, sorokoniasty Araragi-kun...
 Comment: 0,0:15:04.90,0:15:07.07,Default,,0,0,0,,（阿良々木）\Nシスコンと呼んでください\Nお願いします！
+Dialogue: 0,0:15:04.90,0:15:07.07,Dialog,,0,0,0,,Błagam, nazywaj mnie po prostu sisconem!
 Comment: 0,0:15:07.57,0:15:10.53,Default,,0,0,0,,（戦場ヶ原）\N実の妹を好きになったりしないと\N言うから
+Dialogue: 0,0:15:07.57,0:15:10.53,Dialog,,0,0,0,,Przeciesz mówiłeś, że nigdy nie zakochasz się w swojej siostrze.
 Comment: 0,0:15:10.62,0:15:12.45,Default,,0,0,0,,（阿良々木）\N義理の妹を\N好きになったりもしない！
+Dialogue: 0,0:15:10.62,0:15:12.45,Dialog,,0,0,0,,W przyszywanej też bym się nie zakochał!
 Comment: 0,0:15:13.00,0:15:14.58,Default,,0,0,0,,（戦場ヶ原）では 義理の恋人を
+Dialogue: 0,0:15:13.00,0:15:14.58,Dialog,,0,0,0,,Więc w przyszywanej dziewczynie...
 Comment: 0,0:15:14.66,0:15:16.37,Default,,0,0,0,,（戦場ヶ原）好きになるのかしら？\N（阿良々木）だから！
+Dialogue: 0,0:15:14.66,0:15:15.60,Dialog,,0,0,0,,Zakochał byś się?..
+Dialogue: 0,0:15:15.60,0:15:16.37,Dialog,,0,0,0,,Przecież mówię, że nie!
 Comment: 0,0:15:17.46,0:15:19.92,Default,,0,0,0,,え？ 義理で恋人ができるのか？
+Dialogue: 0,0:15:17.46,0:15:19.92,Dialog,,0,0,0,,Czekaj... to da się w ogóle mieć przyszywaną dziewczynę?!
 Comment: 0,0:15:20.38,0:15:24.84,Default,,0,0,0,,フフッ 本当に小さいわね\Nこの程度の軽口で おたおたと
-Comment: 0,0:15:25.38,0:15:26.88,Default,,0,0,0,,軽くないじゃん お前の言葉
+Dialogue: 0,0:15:20.38,0:15:24.84,Dialog,,0,0,0,,Heh... Jednak jesteś małystkowy, żeby speszyć się byle żartem.
+Comment: 0,0:15:25.38,0:15:26.88,Dialog,,0,0,0,,軽くないじゃん お前の言葉
+Dialogue: 0,0:15:25.38,0:15:26.88,Dialog,,0,0,0,,Twoje słowa wcale nie są lekkie.
 Comment: 0,0:15:27.43,0:15:29.60,Default,,0,0,0,,（戦場ヶ原）\N今のは あなたを試したのよ
+Dialogue: 0,0:15:27.43,0:15:29.60,Dialog,,0,0,0,,Właśnie cię testowałam.
 Comment: 0,0:15:29.76,0:15:31.68,Default,,0,0,0,,なんで僕 試されてるの？
+Dialogue: 0,0:15:29.76,0:15:31.68,Dialog,,0,0,0,,Dlaczego mnie testowałaś?
 Comment: 0,0:15:31.97,0:15:33.39,Default,,0,0,0,,ていうか お前 それってまだ
+Dialogue: 0,0:15:31.97,0:15:33.39,Dialog,,0,0,0,,Zresztą, chcesz powiedzieć, że...
 Comment: 0,0:15:33.47,0:15:35.10,Default,,0,0,0,,本気を出していないって\Nことなのか？
+Dialogue: 0,0:15:33.47,0:15:35.10,Dialog,,0,0,0,,Nawet nie dawałaś z siebie wszystkiego?
 Comment: 0,0:15:35.64,0:15:37.56,Default,,0,0,0,,本気を出すと変身するわよ
+Dialogue: 0,0:15:35.64,0:15:37.56,Dialog,,0,0,0,,Kiedy daję z siebie wszystko, przechodzę transformację.
 Comment: 0,0:15:38.52,0:15:40.48,Default,,0,0,0,,変身？ うわ！ すげえ見たい
+Dialogue: 0,0:15:38.52,0:15:40.48,Dialog,,0,0,0,,Przemianę?! O rany, ale bym chciał to zobaczyć!
 Comment: 0,0:15:40.98,0:15:45.32,Default,,0,0,0,,ハア〜 そういうリアクションは\N大きいのに人間は小さいのね
+Dialogue: 0,0:15:40.98,0:15:45.32,Dialog,,0,0,0,,Ech... Reakcję masz wielką, ale człowiek z ciebie wyjątkowo małostkowy.
 Comment: 0,0:15:45.65,0:15:48.86,Default,,0,0,0,,でも 阿良々木くんが\Nどんなに小さい人間でも
+Dialogue: 0,0:15:45.65,0:15:48.86,Dialog,,0,0,0,,Ale bez względu na to, jak małostkowym człowiekiem jesteś, Araragi-kun...
 Comment: 0,0:15:48.95,0:15:51.08,Default,,0,0,0,,私は見捨てたりはしないの
+Dialogue: 0,0:15:48.95,0:15:51.08,Dialog,,0,0,0,,Ja cię na straty nie spiszę.
 Comment: 0,0:15:51.16,0:15:53.99,Default,,0,0,0,,阿良々木くんの人間の小ささに\Nちゃんと つきあってあげる
+Dialogue: 0,0:15:51.16,0:15:53.99,Dialog,,0,0,0,,I tobie będę towarzyszyć w tej małostkowości.
 Comment: 0,0:15:54.58,0:15:56.37,Default,,0,0,0,,微妙な物言いだよな それも
+Dialogue: 0,0:15:54.58,0:15:56.37,Dialog,,0,0,0,,Niezbyt to brzmi jak komplement, wiesz?
 Comment: 0,0:15:56.83,0:16:00.38,Default,,0,0,0,,（戦場ヶ原）\Nだから 阿良々木くんの\N人間の小ささに関わること以外で
-Comment: 0,0:16:00.46,0:16:01.75,Default,,0,0,0,,何か困ったことは ない？
+Dialogue: 0,0:15:56.83,0:16:00.38,Dialog,,0,0,0,,Dlatego we wszystkim, co nie dotyczy twojej małostkowości...
+Comment: 0,0:16:00.46,0:16:01.75,Dialog,,0,0,0,,何か困ったことは ない？
+Dialogue: 0,0:16:00.46,0:16:01.75,Dialog,,0,0,0,,Nie masz przypadkiem jakichś kłopotów?
 Comment: 0,0:16:02.25,0:16:04.88,Default,,0,0,0,,（阿良々木）\N今度は どんな罵倒が\N僕に浴びせられるのかな
+Dialogue: 0,0:16:02.25,0:16:04.88,Dialog,,0,0,0,,Ciekawe, jakie obelgi na mnie teraz wylejesz.
 Comment: 0,0:16:05.42,0:16:07.26,Default,,0,0,0,,（戦場ヶ原）\N器が大きくてステキだわ
+Dialogue: 0,0:16:05.42,0:16:07.26,Dialog,,0,0,0,,Jesteś czarujący i taki wielkoduszny.
 Comment: 0,0:16:07.63,0:16:09.13,Default,,0,0,0,,（阿良々木）\N無理やり褒めてんじゃねえ！
+Dialogue: 0,0:16:07.63,0:16:09.13,Dialog,,0,0,0,,Nie słodź mi tak na siłę!
 Comment: 0,0:16:09.84,0:16:11.55,Default,,0,0,0,,（戦場ヶ原）本当に何もないの？
+Dialogue: 0,0:16:09.84,0:16:11.55,Dialog,,0,0,0,,Na prawdę nic nie potrzebujesz?
 Comment: 0,0:16:11.64,0:16:13.39,Default,,0,0,0,,勉強を教えてほしいとか
+Dialogue: 0,0:16:11.64,0:16:13.39,Dialog,,0,0,0,,Na przykład żeby ci pomóc w nauce?
 Comment: 0,0:16:13.76,0:16:17.14,Default,,0,0,0,,（阿良々木）\Nそれは もう諦めてる\N卒業できればいい
+Dialogue: 0,0:16:13.76,0:16:17.14,Dialog,,0,0,0,,Już to olałem. Wystarczy, że zdam szkołę.
 Comment: 0,0:16:17.77,0:16:19.14,Default,,0,0,0,,（戦場ヶ原）じゃ 卒業したいとか
+Dialogue: 0,0:16:17.77,0:16:19.14,Dialog,,0,0,0,,No to chociaż skończyć szkołę?
 Comment: 0,0:16:19.56,0:16:20.90,Default,,0,0,0,,（阿良々木）\N普通にしてりゃ できるよ！
+Dialogue: 0,0:16:19.56,0:16:20.90,Dialog,,0,0,0,,Bez przesady, jak będę żył normalnie, to zdam!”
 Comment: 0,0:16:21.56,0:16:23.02,Default,,0,0,0,,（戦場ヶ原）\Nじゃあ 普通にしたいとか
+Dialogue: 0,0:16:21.56,0:16:23.02,Dialog,,0,0,0,,To może chciałbyś być normalny?
 Comment: 0,0:16:23.44,0:16:25.48,Default,,0,0,0,,ケンカ売ってんだな\Nそうなんだな？
+Dialogue: 0,0:16:23.44,0:16:25.48,Dialog,,0,0,0,,Chcesz się kłócić, co?! O to ci chodzi?!
 Comment: 0,0:16:25.94,0:16:27.07,Default,,0,0,0,,じゃあ そうね
+Dialogue: 0,0:16:25.94,0:16:27.07,Dialog,,0,0,0,,Niech będzie.
 Comment: 0,0:16:27.32,0:16:28.15,Default,,0,0,0,,う…
 Comment: 0,0:16:29.32,0:16:30.95,Default,,0,0,0,,（戦場ヶ原）彼女が欲しいとか
+Dialogue: 0,0:16:29.32,0:16:30.95,Dialog,,0,0,0,,To może chcesz mieć dziewczynę?
 Comment: 0,0:16:31.24,0:16:32.07,Default,,0,0,0,,（阿良々木）え…
-Comment: 0,0:16:35.91,0:16:37.12,Default,,0,0,0,,欲しいって言ったら…
+Comment: 0,0:16:35.91,0:16:37.12,Dialog,,0,0,0,,欲しいって言ったら…
+Dialogue: 0,0:16:35.91,0:16:37.12,Dialog,,0,0,0,,A gdybym powiedzał, że chcę...
 Comment: 0,0:16:38.54,0:16:39.46,Default,,0,0,0,,どうなるんだ？
+Dialogue: 0,0:16:38.54,0:16:39.46,Dialog,,0,0,0,,To co wtedy?
 Comment: 0,0:16:40.79,0:16:44.00,Default,,0,0,0,,彼女が できるわ\Nそれだけのことよ
+Dialogue: 0,0:16:40.79,0:16:44.00,Dialog,,0,0,0,,Miałbyś dziewczynę. Tylko tyle.
 Comment: 0,0:16:47.80,0:16:50.80,Default,,0,0,0,,（阿良々木）\Nいや そういうのは別に ないな
+Dialogue: 0,0:16:47.80,0:16:50.80,Dialog,,0,0,0,,Ech... w sumie to niczego takiego specjalnie nie chcę.
 Comment: 0,0:16:52.97,0:16:54.64,Default,,0,0,0,,ふ〜ん そう
+Dialogue: 0,0:16:52.97,0:16:54.64,Dialog,,0,0,0,,Aha, no tak...
 Comment: 0,0:16:54.76,0:16:57.31,Default,,0,0,0,,まあ 今度ジュースでも\Nおごってくれよ
+Dialogue: 0,0:16:54.76,0:16:57.31,Dialog,,0,0,0,,Dobra, kup mi kiedyś sok.
 Comment: 0,0:16:57.39,0:16:59.48,Default,,0,0,0,,それでチャラってことに しようぜ
+Dialogue: 0,0:16:57.39,0:16:59.48,Dialog,,0,0,0,,I uznajmy, że jesteśmy kwita.
 Comment: 0,0:17:00.02,0:17:02.56,Default,,0,0,0,,そう 無欲なのね
+Dialogue: 0,0:17:00.02,0:17:02.56,Dialog,,0,0,0,,A więc nie masz absolutnie żadnych pragnień.
 Comment: 0,0:17:03.06,0:17:04.77,Default,,0,0,0,,本当に器が大きいわ
+Dialogue: 0,0:17:03.06,0:17:04.77,Dialog,,0,0,0,,Człowiek naprawdę wielkiego formatu.
 Comment: 0,0:17:06.48,0:17:07.32,Default,,0,0,0,,あ…
 Comment: 0,0:17:08.40,0:17:09.24,Default,,0,0,0,,ん？
 Comment: 0,0:17:12.03,0:17:14.20,Default,,0,0,0,,あの子 さっきもいたな
