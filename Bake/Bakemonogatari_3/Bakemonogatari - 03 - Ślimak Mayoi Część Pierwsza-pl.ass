@@ -16,9 +16,9 @@ Video File: ../../../filmy_seriale/Seriale dla dekeneratów/化物語(2009)/化�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 678
-Active Line: 703
-Video Position: 24529
+Scroll Position: 982
+Active Line: 1026
+Video Position: 37308
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -655,7 +655,7 @@ Dialogue: 0,0:14:40.96,0:14:43.92,Dialog,,0,0,0,,A dlaczego ja miałbym niby pak
 Comment: 0,0:14:44.01,0:14:47.18,Default,,0,0,0,,阿良々木くんの場合は\N姉ではなく妹ね
 Dialogue: 0,0:14:44.01,0:14:47.18,Dialog,,0,0,0,,W twojej sytuacji nie z starszą, a młodszą siostrą.
 Comment: 0,0:14:47.26,0:14:51.31,Default,,0,0,0,,つまり 奥さんの妹さんに まずは\N“お義兄(にい)ちゃん”と呼ばせておいて
-Dialogue: 0,0:14:47.26,0:14:51.31,Dialog,,0,0,0,,Innymi słowy, najpierw każ siostre żony by nazywała cię "braciszku"... 
+Dialogue: 0,0:14:47.26,0:14:51.31,Dialog,,0,0,0,,Innymi słowy, najpierw każ siostre żony by nazywała cię "braciszku"...
 Comment: 0,0:14:51.52,0:14:53.52,Default,,0,0,0,,そのあと その子と結婚
 Dialogue: 0,0:14:51.52,0:14:53.52,Dialog,,0,0,0,,A potem się z nią ożeń.
 Comment: 0,0:14:53.73,0:14:56.81,Default,,0,0,0,,夫婦になっても お義兄ちゃんと\N呼ばせ続ける
@@ -756,171 +756,324 @@ Dialogue: 0,0:17:03.06,0:17:04.77,Dialog,,0,0,0,,Człowiek naprawdę wielkiego f
 Comment: 0,0:17:06.48,0:17:07.32,Default,,0,0,0,,あ…
 Comment: 0,0:17:08.40,0:17:09.24,Default,,0,0,0,,ん？
 Comment: 0,0:17:12.03,0:17:14.20,Default,,0,0,0,,あの子 さっきもいたな
+Dialogue: 0,0:17:12.03,0:17:12.01,Dialog,,0,0,0,,Widzaiłem już wcześniej tego dzieciaka.
 Comment: 0,0:17:15.45,0:17:16.87,Default,,0,0,0,,なあ おい 戦場ヶ原
+Dialogue: 0,0:17:15.45,0:17:16.87,Dialog,,0,0,0,,Ej, Senjougahara...
 Comment: 0,0:17:17.54,0:17:21.46,Default,,0,0,0,,あの小学生のリュックサックの名札\Nあれ 何て読むんだ？
+Dialogue: 0,0:17:17.54,0:17:21.46,Dialog,,0,0,0,,Co jest napisane na tej plakietce przy plecaku uczennicy? Jak to się czyta?
 Comment: 0,0:17:21.71,0:17:22.54,Default,,0,0,0,,（戦場ヶ原）は？
+Dialogue: 0,0:17:21.71,0:17:22.54,Dialog,,0,0,0,,Ha?
 Comment: 0,0:17:23.17,0:17:24.29,Default,,0,0,0,,見えないわよ そんなの
+Dialogue: 0,0:17:23.17,0:17:24.29,Dialog,,0,0,0,,Nie widzę jej.
 Comment: 0,0:17:24.71,0:17:27.88,Default,,0,0,0,,（阿良々木）\Nあ… 普通は この距離では\N読めないか
+Dialogue: 0,0:17:24.71,0:17:27.88,Dialog,,0,0,0,,A... fakt. Zwykły człowiek nie przeczyta tego z takiej odległości.
 Comment: 0,0:17:28.30,0:17:31.97,Default,,0,0,0,,えっと 漢数字\N十中八九の“八九”に“寺”で
-Comment: 0,0:17:32.55,0:17:34.89,Default,,0,0,0,,はち きゅう てらって\N並びなんだけれど
+Dialogue: 0,0:17:28.30,0:17:31.97,Dialog,,0,0,0,,No więc tak... Znaki na „osiem” i „dziewięć”, jak w „dziewięć na dziesięć”, a do tego „świątynia”...
+Comment: 0,0:17:32.55,0:17:34.89,Dialog,,0,0,0,,はち きゅう てらって\N並びなんだけれど
+Dialogue: 0,0:17:32.55,0:17:34.89,Dialog,,0,0,0,,właśnie w takiej kolejności: osiem, dziewięć, świątynia.
 Comment: 0,0:17:34.97,0:17:36.60,Default,,0,0,0,,（戦場ヶ原）\Nまあ それは“はちくじ”ね
+Dialogue: 0,0:17:34.97,0:17:36.60,Dialog,,0,0,0,,To akurat czyta się jako „Hachikuji”.
 Comment: 0,0:17:36.97,0:17:41.52,Default,,0,0,0,,はちくじ？ じゃあ あれは\N“はちくじ まよい”ってことか
+Dialogue: 0,0:17:36.97,0:17:41.52,Dialog,,0,0,0,,Hachikuji? Więc to jest "Mayoi Hachikuji".
 Comment: 0,0:17:41.60,0:17:42.44,Default,,0,0,0,,ふ〜ん
 Comment: 0,0:17:42.98,0:17:47.40,Default,,0,0,0,,う〜ん こいつ どう考えても\N子供が好きってタイプじゃないよな
+Dialogue: 0,0:17:42.98,0:17:47.40,Dialog,,0,0,0,,Hmm, jakby nie patrzeć, ona raczej nie wygląda na kogoś, kto lubi dzieci.
 Comment: 0,0:17:48.65,0:17:51.15,Default,,0,0,0,,おい ちょっとここで\N待っててくれるか？
+Dialogue: 0,0:17:48.65,0:17:51.15,Dialog,,0,0,0,,Hej, poczeksza tu chwilę na mnie?
 Comment: 0,0:17:51.53,0:17:54.45,Default,,0,0,0,,（戦場ヶ原）\Nいいけれど 阿良々木くん\Nどこかへ行くの？
+Dialogue: 0,0:17:51.53,0:17:54.45,Dialog,,0,0,0,,Dobrze, ale gdzie idziesz, Araragi-kun?
 Comment: 0,0:17:54.95,0:17:56.66,Default,,0,0,0,,小学生に話しかけてくる
+Dialogue: 0,0:17:54.95,0:17:56.66,Dialog,,0,0,0,,Idę pogadać z tą uczenicą.
 Comment: 0,0:17:57.28,0:17:59.62,Default,,0,0,0,,やめておきなさい\N傷つくだけよ
+Dialogue: 0,0:17:57.28,0:17:59.62,Dialog,,0,0,0,,Lepiej odpuść. Tylko cię to zaboli.
 Comment: 0,0:17:59.91,0:18:00.75,Default,,0,0,0,,うう…
 Comment: 0,0:18:00.83,0:18:04.08,Default,,0,0,0,,ホント ひどいことを\N平気で言うよな こいつは
+Dialogue: 0,0:18:00.83,0:18:04.08,Dialog,,0,0,0,,Ona naprawdę bez namysłu wali takimi okrucieństwami.
 Comment: 0,0:18:05.58,0:18:06.84,Default,,0,0,0,,よっ！ どうした？
+Dialogue: 0,0:18:05.58,0:18:06.84,Dialog,,0,0,0,,Ej! Co tam?
 Comment: 0,0:18:07.09,0:18:09.00,Default,,0,0,0,,（阿良々木）道にでも迷ったのか\N（八九寺(はちくじ)）あ…
+Dialogue: 0,0:18:07.09,0:18:09.00,Dialog,,0,0,0,,Zgubiłaś się?
 Comment: 0,0:18:09.38,0:18:10.21,Default,,0,0,0,,フフツ
 Comment: 0,0:18:13.80,0:18:17.72,Default,,0,0,0,,話しかけないでください\Nあなたのことが嫌いです
+Dialogue: 0,0:18:13.80,0:18:17.72,Dialog,,0,0,0,,Proszę do mnie nie mówić. Nienawidzę cię.
 Comment: 0,0:18:19.64,0:18:22.18,Default,,0,0,0,,どうしたの？ 何かあったの？
+Dialogue: 0,0:18:19.64,0:18:22.18,Dialog,,0,0,0,,Co się stało? Coś nie tak?
 Comment: 0,0:18:22.35,0:18:24.94,Default,,0,0,0,,（阿良々木）\N傷ついた　傷つくだけだった
+Dialogue: 0,0:18:22.35,0:18:24.94,Dialog,,0,0,0,,Zostałem zraniony. Zostałem poprostu zraniony.
 Comment: 0,0:18:25.06,0:18:25.90,Default,,0,0,0,,ん？
 Comment: 0,0:18:26.77,0:18:28.02,Default,,0,0,0,,（阿良々木）もう１回 行ってくる
+Dialogue: 0,0:18:26.77,0:18:28.02,Dialog,,0,0,0,,Dobra, idę jeszcze raz.
 Comment: 0,0:18:28.40,0:18:30.78,Default,,0,0,0,,だから 何をしに どこへ行くのよ
-Comment: 0,0:18:31.03,0:18:32.49,Default,,0,0,0,,（阿良々木）\N見りゃわかんだろうが！
+Dialogue: 0,0:18:28.40,0:18:30.78,Dialog,,0,0,0,,Przecież pytam: po co i dokąd ty właściwie idziesz?
+Comment: 0,0:18:31.03,0:18:32.49,Dialog,,0,0,0,,（阿良々木）\N見りゃわかんだろうが！
+Dialogue: 0,0:18:31.03,0:18:32.49,Dialog,,0,0,0,,Przecież to widać!
 Comment: 0,0:18:38.20,0:18:39.12,Default,,0,0,0,,おい お前
+Dialogue: 0,0:18:38.20,0:18:39.12,Dialog,,0,0,0,,Hej, ty.
 Comment: 0,0:18:40.54,0:18:43.00,Default,,0,0,0,,迷子なんだろ？\Nどこに行きたいんだ？
+Dialogue: 0,0:18:40.54,0:18:43.00,Dialog,,0,0,0,,Zgubiłaś się? Gdzie chcesz iść?
 Comment: 0,0:18:44.46,0:18:46.67,Default,,0,0,0,,そのメモ ちょっと貸してみろよ
+Dialogue: 0,0:18:44.46,0:18:46.67,Dialog,,0,0,0,,Daj no na chwilę tę kartkę.
 Comment: 0,0:18:47.75,0:18:48.59,Default,,0,0,0,,なあ
-Comment: 0,0:18:49.09,0:18:49.92,Default,,0,0,0,,おい…
+Dialogue: 0,0:18:49.09,0:18:49.92,Dialog,,0,0,0,,Hej...
 Comment: 0,0:18:50.38,0:18:51.21,Default,,0,0,0,,（八九寺）フン！
 Comment: 0,0:18:53.05,0:18:55.34,Default,,0,0,0,,どうしたの？ 何かあったの？
+Dialogue: 0,0:18:53.05,0:18:55.34,Dialog,,0,0,0,,Co się stało? Coś nie tak?
 Comment: 0,0:18:55.51,0:18:58.80,Default,,0,0,0,,（阿良々木）\N無視された　小学生女子に\Nシカトされた
+Dialogue: 0,0:18:55.51,0:18:58.80,Dialog,,0,0,0,,Zostałem zingnorowany. Uczenica podstawówki kompletnie mnie olała.
 Comment: 0,0:18:58.93,0:18:59.76,Default,,0,0,0,,ん？
 Comment: 0,0:19:00.26,0:19:02.31,Default,,0,0,0,,（阿良々木）\N今度こそ… 行ってくる
+Dialogue: 0,0:19:00.26,0:19:02.31,Dialog,,0,0,0,,Tym razem na pewno... Idę.
 Comment: 0,0:19:02.81,0:19:06.06,Default,,0,0,0,,阿良々木くんが何をしたいのか\N何をしているのか
+Dialogue: 0,0:19:02.81,0:19:06.06,Dialog,,0,0,0,,Nie wiem co terasz robisz Araragi-kun, ale...
 Comment: 0,0:19:06.15,0:19:07.69,Default,,0,0,0,,私には よく分からないのだけれど
+Dialogue: 0,0:19:06.15,0:19:07.69,Dialog,,0,0,0,,Nie bardzo to rozumiem.
 Comment: 0,0:19:07.77,0:19:08.61,Default,,0,0,0,,（阿良々木）ほっとけ
+Dialogue: 0,0:19:07.77,0:19:08.61,Dialog,,0,0,0,,Nie wnikaj!
 Comment: 0,0:19:14.03,0:19:14.86,Default,,0,0,0,,（パシッ）
 Comment: 0,0:19:15.20,0:19:16.11,Default,,0,0,0,,（八九寺）うっ
 Comment: 0,0:19:17.03,0:19:18.62,Default,,0,0,0,,何をするんですか！
+Dialogue: 0,0:19:17.03,0:19:18.62,Dialog,,0,0,0,,Co wyrabiasz?!
 Comment: 0,0:19:18.70,0:19:20.24,Default,,0,0,0,,ようやく振り向いてくれたか
+Dialogue: 0,0:19:18.70,0:19:20.24,Dialog,,0,0,0,,Naraszcię się odwróciłaś?
 Comment: 0,0:19:20.70,0:19:23.20,Default,,0,0,0,,後ろから たたかれたら\N誰でも振り向きます！
+Dialogue: 0,0:19:20.70,0:19:23.20,Dialog,,0,0,0,,Każdy by się odwrócił, jakby dostał od tyłu w głowę!
 Comment: 0,0:19:23.58,0:19:26.67,Default,,0,0,0,,いや お前 何か\N困ってるみたいだったから
+Dialogue: 0,0:19:23.58,0:19:26.67,Dialog,,0,0,0,,No bo... Wyglądasz, jakbyś miała z czymś problem więc...
 Comment: 0,0:19:26.75,0:19:28.63,Default,,0,0,0,,力になれるかなと思ってさ
+Dialogue: 0,0:19:26.75,0:19:28.63,Dialog,,0,0,0,,Pomyślałem, że ci pomogę.
 Comment: 0,0:19:29.00,0:19:31.55,Default,,0,0,0,,いきなり小学生の頭を\Nたたくような人に
+Dialogue: 0,0:19:29.00,0:19:31.55,Dialog,,0,0,0,,Nie istnieje na tym świecie żaden rodzaj pomocy...
 Comment: 0,0:19:31.63,0:19:35.22,Default,,0,0,0,,なってもらうような力なんて\Nこの世界には ありません！
+Dialogue: 0,0:19:31.63,0:19:35.22,Dialog,,0,0,0,,jakiego mogłabym oczekiwać od osobnika walącego w łeb dzieci z podstawówki!
 Comment: 0,0:19:35.30,0:19:36.51,Default,,0,0,0,,全くもって皆無です！
-Comment: 0,0:19:36.97,0:19:39.72,Default,,0,0,0,,いや だから 悪かったって\Nえっと
+Dialogue: 0,0:19:35.30,0:19:36.51,Dialog,,0,0,0,,Absolutne zero!
+Comment: 0,0:19:36.97,0:19:39.72,Default,,0,0,0,,No przecież mówię, że przepraszam... Yyy...
+Dialogue: 0,0:19:36.97,0:19:39.72,Dialog,,0,0,0,,No przecież mówię, że przepraszam... Yyy...
 Comment: 0,0:19:40.35,0:19:42.81,Default,,0,0,0,,僕の名前は\N阿良々木暦(こよみ)っていうんだ
+Dialogue: 0,0:19:40.35,0:19:42.81,Dialog,,0,0,0,,Mam na imię Koyomi Araragi.
 Comment: 0,0:19:43.02,0:19:46.23,Default,,0,0,0,,暦ですか\N女の子みたいな名前ですね
+Dialogue: 0,0:19:43.02,0:19:46.23,Dialog,,0,0,0,,Koyomi? Brzmi jak imię dziewczynki.
 Comment: 0,0:19:47.19,0:19:49.52,Default,,0,0,0,,女臭いです\N近寄らないでください！
+Dialogue: 0,0:19:47.19,0:19:49.52,Dialog,,0,0,0,,Zalatuje od Pana dziewczyną! Proszę trzymać się z daleka!
 Comment: 0,0:19:50.11,0:19:52.94,Default,,0,0,0,,う…\Nで お前は何て名前なんだ？
+Dialogue: 0,0:19:50.11,0:19:52.94,Dialog,,0,0,0,,Ugh... Więc, jak tobie na imię?
 Comment: 0,0:19:53.28,0:19:57.78,Default,,0,0,0,,私は八九寺真宵(まよい)です\N私は八九寺真宵といいます
+Dialogue: 0,0:19:53.28,0:19:57.78,Dialog,,0,0,0,,Jestem Mayoi Hachikuji. Nazywam się Mayoi Hachikuji.
 Comment: 0,0:19:57.91,0:20:00.91,Default,,0,0,0,,お父さんとお母さんがくれた\N大切な お名前です
+Dialogue: 0,0:19:57.91,0:20:00.91,Dialog,,0,0,0,,To niezwykle cenne imię dali mi mama i tata.
 Comment: 0,0:20:01.45,0:20:03.87,Default,,0,0,0,,とにかく\N話しかけないでください！
+Dialogue: 0,0:20:01.45,0:20:03.87,Dialog,,0,0,0,,Tak czy inaczej, proszę do mnie nie mówić.
 Comment: 0,0:20:03.95,0:20:05.79,Default,,0,0,0,,私 あなたのことが嫌いです
+Dialogue: 0,0:20:03.95,0:20:05.79,Dialog,,0,0,0,,Nienawidze cię.
 Comment: 0,0:20:05.95,0:20:10.21,Default,,0,0,0,,（阿良々木）\Nなんでだよ？ 別に僕は\Nお前に危害を加えたりしないよ
+Dialogue: 0,0:20:05.95,0:20:10.21,Dialog,,0,0,0,,Dlaczego? Przecież nie zamierzam zrobić ci żadnej krzywdy.
 Comment: 0,0:20:10.29,0:20:13.92,Default,,0,0,0,,この町に住んでいる人間で\N僕くらい人畜無害なヤツなんて
+Dialogue: 0,0:20:10.29,0:20:13.92,Dialog,,0,0,0,,W tym mieście nie znajdziesz nikogo tak nieszkodliwego dla ludzi i zwierząt jak ja.
 Comment: 0,0:20:14.00,0:20:15.01,Default,,0,0,0,,１人も いないんだぜ？
+Dialogue: 0,0:20:14.00,0:20:15.01,Dialog,,0,0,0,,Ani jednego, rozumiesz?
 Comment: 0,0:20:15.42,0:20:19.47,Default,,0,0,0,,むうう… 分かりました\N警戒のレベルは下げましょう
+Dialogue: 0,0:20:15.42,0:20:19.47,Dialog,,0,0,0,,Rozumiem. Obniżę poziom czujności.
 Comment: 0,0:20:19.97,0:20:21.05,Default,,0,0,0,,そりゃ 助かるよ
+Dialogue: 0,0:20:19.97,0:20:21.05,Dialog,,0,0,0,,To byłoby bardzo pomocne.
 Comment: 0,0:20:21.55,0:20:22.51,Default,,0,0,0,,では 人畜さん
+Dialogue: 0,0:20:21.55,0:20:22.51,Dialog,,0,0,0,,Zatem, Panie Zwierzęcy.
 Comment: 0,0:20:22.80,0:20:25.43,Default,,0,0,0,,（阿良々木）\N人畜さん？ 誰のことだ それは？
+Dialogue: 0,0:20:22.80,0:20:25.43,Dialog,,0,0,0,,Panie Zwierzęcy? O kim mówisz?
 Comment: 0,0:20:25.81,0:20:27.89,Default,,0,0,0,,どなられました　怖いです！
+Dialogue: 0,0:20:25.81,0:20:27.89,Dialog,,0,0,0,,Nakrzyczałeś na mnie! Boję się!
 Comment: 0,0:20:28.23,0:20:30.65,Default,,0,0,0,,いや〜 どなったのは\N悪かったけれど
+Dialogue: 0,0:20:28.23,0:20:30.65,Dialog,,0,0,0,,Ehh... Przepraszam, że podniosłem głos, ale...
 Comment: 0,0:20:30.73,0:20:32.73,Default,,0,0,0,,でも 人畜さんは ひどいって！
+Dialogue: 0,0:20:30.73,0:20:32.73,Dialog,,0,0,0,,Ten Pan Zwierzęcy to przesada!
 Comment: 0,0:20:32.81,0:20:33.98,Default,,0,0,0,,誰でも どなるって！
+Dialogue: 0,0:20:32.81,0:20:33.98,Dialog,,0,0,0,,Każdy by krzyknął!
 Comment: 0,0:20:35.23,0:20:36.94,Default,,0,0,0,,では 何と お呼びしましょう
+Dialogue: 0,0:20:35.23,0:20:36.94,Dialog,,0,0,0,,Więc, jak mam Pana nazywać?
 Comment: 0,0:20:37.32,0:20:39.15,Default,,0,0,0,,そりゃ 普通に呼べば いいよ
+Dialogue: 0,0:20:37.32,0:20:39.15,Dialog,,0,0,0,,Może poprostu po imieniu.
 Comment: 0,0:20:39.74,0:20:41.24,Default,,0,0,0,,ならば“阿良々木さん”で
+Dialogue: 0,0:20:39.74,0:20:41.24,Dialog,,0,0,0,,Niech będzie zatem „Panie Araragi”.
 Comment: 0,0:20:41.66,0:20:44.08,Default,,0,0,0,,ああ 普通でいいな\N普通 最高！
+Dialogue: 0,0:20:41.66,0:20:44.08,Dialog,,0,0,0,,Ach, zwyczajnie jest najlepiej. Normalność rządzi!
 Comment: 0,0:20:44.91,0:20:47.41,Default,,0,0,0,,私 阿良々木さんのことが嫌いです
+Dialogue: 0,0:20:44.91,0:20:47.41,Dialog,,0,0,0,,Nienawidzę cię, Panie Araragi.
 Comment: 0,0:20:47.66,0:20:48.62,Default,,0,0,0,,ぐ…
 Comment: 0,0:20:49.12,0:20:51.58,Default,,0,0,0,,迅速に どっか\N行っちゃってください！
+Dialogue: 0,0:20:49.12,0:20:51.58,Dialog,,0,0,0,,Proszę szybko dokądś sobie iść!!
 Comment: 0,0:20:51.67,0:20:54.21,Default,,0,0,0,,いや だから お前 迷子なんだろ？
+Dialogue: 0,0:20:51.67,0:20:54.21,Dialog,,0,0,0,,Ale przecież ty się zgubiłaś, no nie?
 Comment: 0,0:20:54.29,0:20:57.59,Default,,0,0,0,,この程度の事態 私は\N全く平気です！
+Dialogue: 0,0:20:54.29,0:20:57.59,Dialog,,0,0,0,,Z sytuacją tego stopnia radzę sobie absolutnie bez problemu!
 Comment: 0,0:20:57.67,0:20:59.09,Default,,0,0,0,,意地 張ってんじゃねえよ
+Dialogue: 0,0:20:57.67,0:20:59.09,Dialog,,0,0,0,,Nie bądź taka uparta.
 Comment: 0,0:20:59.17,0:21:01.34,Default,,0,0,0,,（八九寺）意地なんて張ってません\N（阿良々木）張ってるじゃん
+Dialogue: 0,0:20:59.17,0:21:00.61,Dialog,,0,0,0,,Nie jestem uparta.
+Dialogue: 0,0:21:00.61,0:21:01.34,Dialog,,0,0,0,,Jesteś.
 Comment: 0,0:21:02.14,0:21:02.97,Default,,0,0,0,,くらえ！
+Dialogue: 0,0:21:02.14,0:21:02.97,Dialog,,0,0,0,,Masz!
 Comment: 0,0:21:03.55,0:21:04.93,Default,,0,0,0,,（阿良々木）ぐっ くく…
 Comment: 0,0:21:05.31,0:21:06.14,Default,,0,0,0,,ぎゃ〜！
 Comment: 0,0:21:08.56,0:21:10.31,Default,,0,0,0,,（八九寺）あ〜 しまりました！
+Dialogue: 0,0:21:08.56,0:21:10.31,Dialog,,0,0,0,,Aaa, zostałam schwytana!
 Comment: 0,0:21:11.90,0:21:12.73,Default,,0,0,0,,（阿良々木）イテッ
+Dialogue: 0,0:21:11.90,0:21:12.73,Dialog,,0,0,0,,Ała!
 Comment: 0,0:21:15.02,0:21:15.86,Default,,0,0,0,,えい！
 Comment: 0,0:21:18.61,0:21:19.44,Default,,0,0,0,,（八九寺）うくっ
 Comment: 0,0:21:21.86,0:21:22.70,Default,,0,0,0,,（阿良々木）ハア
 Comment: 0,0:21:23.57,0:21:25.53,Default,,0,0,0,,全くバカなヤツめ
+Dialogue: 0,0:21:23.57,0:21:25.53,Dialog,,0,0,0,,Co za idiotka...
 Comment: 0,0:21:25.83,0:21:28.50,Default,,0,0,0,,小学生が高校生に勝てるとでも\N思ったか！
+Dialogue: 0,0:21:25.83,0:21:28.50,Dialog,,0,0,0,,Myślała, że wygra z licealistą?!
 Comment: 0,0:21:28.87,0:21:30.41,Default,,0,0,0,,フハハハッ
 Comment: 0,0:21:30.54,0:21:32.12,Default,,0,0,0,,ハハハハ…
 Comment: 0,0:21:32.71,0:21:35.79,Default,,0,0,0,,小学生女子を相手に\N本気でケンカをして
+Dialogue: 0,0:21:32.71,0:21:35.79,Dialog,,0,0,0,,Wdałem się w bójkę z dziewczyną z podstawówki...
 Comment: 0,0:21:35.88,0:21:37.80,Default,,0,0,0,,本気の一本背負いを決めた末に
+Dialogue: 0,0:21:35.88,0:21:37.80,Dialog,,0,0,0,,Po czym wykonałem nią rzut przez bark.
 Comment: 0,0:21:37.88,0:21:41.93,Default,,0,0,0,,本気で勝ち誇っている\N男子高校生の姿が そこにはあった
+Dialogue: 0,0:21:37.88,0:21:41.93,Dialog,,0,0,0,,Oto licealista, który na prawdę nad tym triumfował.
 Comment: 0,0:21:43.22,0:21:44.93,Default,,0,0,0,,ていうか 僕だった
+Dialogue: 0,0:21:43.22,0:21:44.93,Dialog,,0,0,0,,A dokładnie.. Ja.
 Comment: 0,0:21:49.22,0:21:50.06,Default,,0,0,0,,（戦場ヶ原）\N阿良々木くん
+Dialogue: 0,0:21:49.22,0:21:50.06,Dialog,,0,0,0,,Araragi-kun.
 Comment: 0,0:21:51.31,0:21:52.14,Default,,0,0,0,,あ…
+Dialogue: 0,0:21:51.31,0:21:52.14,Dialog,,0,0,0,,A...
 Comment: 0,0:21:53.65,0:21:55.56,Default,,0,0,0,,言い訳を させてください
+Dialogue: 0,0:21:53.65,0:21:55.56,Dialog,,0,0,0,,Pozwól mi na słowo wyjaśnienia
 Comment: 0,0:21:56.15,0:21:57.07,Default,,0,0,0,,どうぞ
+Dialogue: 0,0:21:56.15,0:21:57.07,Dialog,,0,0,0,,Słucham.
 Comment: 0,0:21:58.36,0:22:01.49,Default,,0,0,0,,まあ 過去のことは とりあえず\N置いておいてだな
+Dialogue: 0,0:21:58.36,0:22:01.49,Dialog,,0,0,0,,Cóż, odłóżmy przeszłość na bok.
 Comment: 0,0:22:01.57,0:22:03.49,Default,,0,0,0,,こいつ 道に迷ってるっぽいんだよ
+Dialogue: 0,0:22:01.57,0:22:03.49,Dialog,,0,0,0,,Ta mała chyba się zgubiła.
 Comment: 0,0:22:04.32,0:22:07.08,Default,,0,0,0,,何か 力になれるかなって思って
+Dialogue: 0,0:22:04.32,0:22:07.08,Dialog,,0,0,0,,Pomyślałem, że mógłbym jakoś pomóc.
 Comment: 0,0:22:08.95,0:22:10.62,Default,,0,0,0,,ふ〜ん そう
+Dialogue: 0,0:22:08.95,0:22:10.62,Dialog,,0,0,0,,Hmm, doprawdy?
 Comment: 0,0:22:11.04,0:22:11.87,Default,,0,0,0,,（阿良々木）うん？
+Dialogue: 0,0:22:11.04,0:22:11.87,Dialog,,0,0,0,,Hm?
 Comment: 0,0:22:11.96,0:22:15.08,Default,,0,0,0,,いえ なるほど\N事情は分かったわ
+Dialogue: 0,0:22:11.96,0:22:15.08,Dialog,,0,0,0,,Nie... Rozumiem. Sytuacja jest jasna.
 Comment: 0,0:22:16.92,0:22:18.63,Default,,0,0,0,,（阿良々木）\Nあっ そうだ 戦場ヶ原
+Dialogue: 0,0:22:16.92,0:22:18.63,Dialog,,0,0,0,,A, właśnie! Senjougahara...
 Comment: 0,0:22:19.09,0:22:22.59,Default,,0,0,0,,お前 この辺の住所とか聞いたら\Nある程度 分かるだろ？
+Dialogue: 0,0:22:19.09,0:22:22.59,Dialog,,0,0,0,,Zorientujesz się mniej więcej, jak poda ci adres z tej okolicy, prawda?
 Comment: 0,0:22:23.22,0:22:26.05,Default,,0,0,0,,（戦場ヶ原）\Nそりゃまあ 人並みには
+Dialogue: 0,0:22:23.22,0:22:26.05,Dialog,,0,0,0,,Cóż, zapewne jak każdy przeciętny człowiek.
 Comment: 0,0:22:26.43,0:22:27.97,Default,,0,0,0,,（阿良々木）おい 八九寺
+Dialogue: 0,0:22:26.43,0:22:27.97,Dialog,,0,0,0,,Ej, Hachikuji.
 Comment: 0,0:22:28.39,0:22:30.77,Default,,0,0,0,,さっきのメモを このお姉ちゃんに\N見せてみろ
+Dialogue: 0,0:22:28.39,0:22:30.77,Dialog,,0,0,0,,Pokaż tej pani tę kartkę z wcześniej.
 Comment: 0,0:22:31.31,0:22:32.52,Default,,0,0,0,,ん…
 Comment: 0,0:22:32.93,0:22:37.44,Default,,0,0,0,,何だか凶悪な男子高校生に\N虐待される夢を見ていました
+Dialogue: 0,0:22:32.93,0:22:37.44,Dialog,,0,0,0,,Miałam właśnie sen, w którym byłam maltretowana przez jakiegoś okrutnego licealistę.
 Comment: 0,0:22:38.44,0:22:40.36,Default,,0,0,0,,逆夢ってやつかな
+Dialogue: 0,0:22:38.44,0:22:40.36,Dialog,,0,0,0,,To chyba sen na opak, co?
 Comment: 0,0:22:40.44,0:22:42.65,Default,,0,0,0,,なるほど 逆夢ですか
+Dialogue: 0,0:22:40.44,0:22:42.65,Dialog,,0,0,0,,Rozumiem. Zatem sen na opak.
 Comment: 0,0:22:47.87,0:22:49.41,Default,,0,0,0,,何だよ 受け取れよ
+Dialogue: 0,0:22:47.87,0:22:49.41,Dialog,,0,0,0,,Co jest? Weź to wreszcie.
 Comment: 0,0:22:50.62,0:22:53.08,Default,,0,0,0,,何だか あなたには\N触りたくないわね
+Dialogue: 0,0:22:50.62,0:22:53.08,Dialog,,0,0,0,,Z jakiegoś powodu nie mam ochoty cię dotykać.
 Comment: 0,0:22:53.46,0:22:54.29,Default,,0,0,0,,ぐ…
 Comment: 0,0:22:54.58,0:22:56.42,Default,,0,0,0,,メモを受け取るだけだろうが
+Dialogue: 0,0:22:54.58,0:22:56.42,Dialog,,0,0,0,,Ale masz wziąść tylko kartkę.
 Comment: 0,0:22:56.79,0:22:59.71,Default,,0,0,0,,あなたが触った物にも\N触りたくないわ
+Dialogue: 0,0:22:56.79,0:22:59.71,Dialog,,0,0,0,,Nie chce również dotykać czegoś co ty dotykałeś.
 Comment: 0,0:23:00.46,0:23:04.01,Default,,0,0,0,,じゃあ 分かったよ\N僕が読み上げりゃ いいんだろ
+Dialogue: 0,0:23:00.46,0:23:04.01,Dialog,,0,0,0,,Dobra, rozumiem. Przeczytam ci ją w takim razie.
 Comment: 0,0:23:04.59,0:23:05.47,Default,,0,0,0,,え〜っと
 Comment: 0,0:23:05.59,0:23:06.43,Default,,0,0,0,,（音消し音）
 Comment: 0,0:23:07.18,0:23:08.47,Default,,0,0,0,,どこだか分かるか？
-Comment: 0,0:23:08.55,0:23:10.72,Default,,0,0,0,,ふむ そこなら分かるわ
+Dialogue: 0,0:23:07.18,0:23:08.47,Dialog,,0,0,0,,Wiesz, gdzie to jest?
+Comment: 0,0:23:08.55,0:23:10.72,Dialog,,0,0,0,,ふむ そこなら分かるわ
+Dialogue: 0,0:23:08.55,0:23:10.72,Dialog,,0,0,0,,Hmm, tamto miejsce akurat kojarzę.
 Comment: 0,0:23:10.85,0:23:11.97,Default,,0,0,0,,そりゃ 助かる
+Dialogue: 0,0:23:10.85,0:23:11.97,Dialog,,0,0,0,,Uff, całe szczęście.
 Comment: 0,0:23:12.72,0:23:15.39,Default,,0,0,0,,細かいところまでは\Nさすがに無理だけれど
+Dialogue: 0,0:23:12.72,0:23:15.39,Dialog,,0,0,0,,Co prawda ze szczegółami to już raczej nie dam rady...
 Comment: 0,0:23:15.48,0:23:18.36,Default,,0,0,0,,その辺りは たどりつけば\Nフィーリングで分かるでしょう
+Dialogue: 0,0:23:15.48,0:23:18.36,Dialog,,0,0,0,,Ale jak już tam dotrzemy, powinniśmy trafić na wyczucie.
 Comment: 0,0:23:18.44,0:23:19.52,Default,,0,0,0,,じゃ 行きましょうか
+Dialogue: 0,0:23:18.44,0:23:19.52,Dialog,,0,0,0,,Dobra to idziem?
 Comment: 0,0:23:20.86,0:23:21.82,Default,,0,0,0,,行くぞ 八九寺
+Dialogue: 0,0:23:20.86,0:23:21.82,Dialog,,0,0,0,,Chodźmy, Hachikuji.
 Comment: 0,0:23:21.94,0:23:22.78,Default,,0,0,0,,え…
 Comment: 0,0:23:23.82,0:23:25.07,Default,,0,0,0,,どこへですか？
+Dialogue: 0,0:23:23.82,0:23:25.07,Dialog,,0,0,0,,Dokąd?
 Comment: 0,0:23:25.15,0:23:27.07,Default,,0,0,0,,だから このメモの住所
+Dialogue: 0,0:23:25.15,0:23:27.07,Dialog,,0,0,0,,Pod adres z kartki.
 Comment: 0,0:23:27.24,0:23:30.20,Default,,0,0,0,,あの お姉ちゃんが分かるから\N案内してくれるってさ
+Dialogue: 0,0:23:27.24,0:23:30.20,Dialog,,0,0,0,,Ta pani kojarzy drogę, więc nas zaprowadzi.
 Comment: 0,0:23:30.28,0:23:31.12,Default,,0,0,0,,よかったな
+Dialogue: 0,0:23:30.28,0:23:31.12,Dialog,,0,0,0,,Masz szczęście.
 Comment: 0,0:23:32.04,0:23:34.83,Default,,0,0,0,,はあ… 案内ですか
+Dialogue: 0,0:23:32.04,0:23:34.83,Dialog,,0,0,0,,Ech... Zaprowadzi?
 Comment: 0,0:23:35.16,0:23:37.79,Default,,0,0,0,,ん？ お前\N迷子なんじゃないのか？
+Dialogue: 0,0:23:35.16,0:23:37.79,Dialog,,0,0,0,,Hm? Przecież się zgubiłaś, no nie?
 Comment: 0,0:23:39.33,0:23:41.29,Default,,0,0,0,,（八九寺）いえ 迷子です
+Dialogue: 0,0:23:39.33,0:23:41.29,Dialog,,0,0,0,,Nie, Jestem zgubiona.
 Comment: 0,0:23:41.67,0:23:43.46,Default,,0,0,0,,かたつむりの迷子です
+Dialogue: 0,0:23:41.67,0:23:43.46,Dialog,,0,0,0,,Jestem zagubionym ślimakiem.
 Comment: 0,0:23:43.92,0:23:45.76,Default,,0,0,0,,は？ かたつむり？
+Dialogue: 0,0:23:43.92,0:23:45.76,Dialog,,0,0,0,,Co? Ślimakiem?
 Comment: 0,0:23:46.63,0:23:48.64,Default,,0,0,0,,（八九寺）いえ 私…
+Dialogue: 0,0:23:46.63,0:23:48.64,Dialog,,0,0,0,,Nie, ja po prostu...
 Comment: 0,0:23:49.05,0:23:49.89,Default,,0,0,0,,あ？
+Dialogue: 0,0:23:49.05,0:23:49.89,Dialog,,0,0,0,,A?
 Comment: 0,0:23:50.30,0:23:51.68,Default,,0,0,0,,（八九寺）何でもありません
+Dialogue: 0,0:23:50.30,0:23:51.68,Dialog,,0,0,0,,To nic takiego.
 Comment: 0,0:23:55.14,0:24:01.15,Default,,0,0,0,,♪〜
 Comment: 0,0:25:18.02,0:25:24.02,Default,,0,0,0,,〜♪
 Comment: 0,0:25:25.82,0:25:27.07,Default,,0,0,0,,（火憐）火憐だぜ\N（月火(つきひ)）月火だよ
+Dialogue: 0,0:25:25.82,0:25:26.46,Karen_end,,0,0,0,,Tu Karen!
+Dialogue: 0,0:25:26.46,0:25:27.07,Tsukihi_end,,0,0,0,,I Tsukihi!
 Comment: 0,0:25:27.15,0:25:28.57,Default,,0,0,0,,（火憐）\N将棋の駒で王将ってあるじゃん
+Dialogue: 0,0:25:27.15,0:25:28.57,Karen_end,,0,0,0,,Znasz figurę króla w Shogi?
+Dialogue: 0,0:25:27.15,0:25:28.57,Note,,0,0,0,,Shogi to odpowiednik szachów w Japonii.
 Comment: 0,0:25:28.69,0:25:29.53,Default,,0,0,0,,（月火）\Nあったあった ありましたよ
+Dialogue: 0,0:25:28.69,0:25:29.53,Tsukihi_end,,0,0,0,,Kojarzę, kojarzę! Pewnie, że tak!
 Comment: 0,0:25:29.61,0:25:30.82,Default,,0,0,0,,（火憐）\N玉将って王将の偽物っぽいよな
+Dialogue: 0,0:25:29.61,0:25:30.82,Karen_end,,0,0,0,,Ten cały Gyokushō brzmi przy nim jak tania podróbka, co?
+Dialogue: 0,0:25:29.55,0:25:33.22,Note,,0,0,0,,W shōgi gra się dwiema figurami Króla: Ōshō (王将 - Król) oraz Gyokushō (玉将 - Klejnot). Ich znaki różnią się tylko jedną kreską.
 Comment: 0,0:25:30.90,0:25:31.74,Default,,0,0,0,,（月火）ぽい
+Dialogue: 0,0:25:30.90,0:25:31.74,Tsukihi_end,,0,0,0,,Trochę tak.
 Comment: 0,0:25:31.82,0:25:33.24,Default,,0,0,0,,（火憐）\Nだけど 先にあったのは\N玉将のほうなんだってさ
+Dialogue: 0,0:25:31.82,0:25:33.24,Karen_end,,0,0,0,,Ale to Gyokushō był pierwszy!
 Comment: 0,0:25:33.32,0:25:34.16,Default,,0,0,0,,（月火）そうなの？
+Dialogue: 0,0:25:33.32,0:25:34.16,Tsukihi_end,,0,0,0,,Serio?
 Comment: 0,0:25:34.24,0:25:35.53,Default,,0,0,0,,（火憐）\N誤植で王将になっちゃったらしいぜ
+Dialogue: 0,0:25:34.24,0:25:35.53,Karen_end,,0,0,0,,Podobno Ōshō powstało przez literówkę.
 Comment: 0,0:25:35.62,0:25:36.45,Default,,0,0,0,,（月火）へえ〜
+Dialogue: 0,0:25:35.62,0:25:36.45,Tsukihi_end,,0,0,0,,Ooo...
 Comment: 0,0:25:36.53,0:25:39.00,Default,,0,0,0,,（火憐）\Nでも 玉より王のほうが\N強そうじゃねっつって
+Dialogue: 0,0:25:36.53,0:25:39.00,Karen_end,,0,0,0,,Ale stwierdzili, że "Król" brzmi potężniej niż "Klejnot"...
 Comment: 0,0:25:39.20,0:25:40.71,Default,,0,0,0,,今じゃ 玉将は下手の使う駒
+Dialogue: 0,0:25:39.20,0:25:40.71,Karen_end,,0,0,0,,I teraz Gyokushō gra ten, kto jest niżej w hierarchii.
 Comment: 0,0:25:40.79,0:25:42.04,Default,,0,0,0,,（火憐）切ないよな\N（月火）切ないね
+Dialogue: 0,0:25:40.79,0:25:41.39,Karen_end,,0,0,0,,Przykre, nie?
+Dialogue: 0,0:25:41.39,0:25:42.04,Tsukihi_end,,0,0,0,,Przykre.
 Comment: 0,0:25:42.12,0:25:44.50,Default,,0,0,0,,（火憐）では 恒例の予告編クイズ\N（月火）まだ３回目だけどね
+Dialogue: 0,0:25:42.12,0:25:43.27,Karen_end,,0,0,0,,Czas na klasyczny quiz zapawiadający!
+Dialogue: 0,0:25:43.27,0:25:44.56,Tsukihi_end,,0,0,0,,Choć to nasz 3 raz.
 Comment: 0,0:25:44.88,0:25:45.79,Default,,0,0,0,,（火憐）\N私と月火ちゃんは双子ですが
+Dialogue: 0,0:25:44.88,0:25:45.79,Karen_end,,0,0,0,,Ja i Tsukihi jesteśmy bliźniaczkami, ale...
 Comment: 0,0:25:45.88,0:25:47.38,Default,,0,0,0,,（月火）双子じゃないよ！\N（火憐）さて 十二星座のなかで
+Dialogue: 0,0:25:45.88,0:25:46.52,Tsukihi_end,,0,0,0,,Przecież nie jesteśmy bliźniaczkami!
+Dialogue: 0,0:25:46.52,0:25:47.38,Karen_end,,0,0,0,,Który ze znaków zodiaku...
 Comment: 0,0:25:47.46,0:25:48.88,Default,,0,0,0,,（火憐）双子の星座といえば？\N（月火）双子座じゃん
+Dialogue: 0,0:25:47.46,0:25:48.44,Karen_end,,0,0,0,,Jest uważany za bliźniaczy?
+Dialogue: 0,0:25:48.44,0:25:48.88,Tsukihi_end,,0,0,0,,No Bliźnięta!
 Comment: 0,0:25:48.96,0:25:50.55,Default,,0,0,0,,（火憐）\Nいや 魚座も実は双子なんだよ
+Dialogue: 0,0:25:48.96,0:25:50.55,Karen_end,,0,0,0,,Nie. Ryby to też tak naprawdę bliźniacy!
 Comment: 0,0:25:50.63,0:25:51.47,Default,,0,0,0,,（月火）うん？\N（火憐）双魚宮(そうぎょきゅう)！
+Dialogue: 0,0:25:50.63,0:25:51.15,Tsukihi_end,,0,0,0,,Co?!
+Dialogue: 0,0:25:51.15,0:25:51.78,Karen_end,,0,0,0,,To Znak Dwóch Ryb!
 Comment: 0,0:25:51.55,0:25:52.38,Default,,0,0,0,,（月火）双魚宮！
+Dialogue: 0,0:25:51.78,0:25:52.38,Tsukihi_end,,0,0,0,,Znak Dwóch Ryb!
 Comment: 0,0:25:52.76,0:25:54.22,Default,,0,0,0,,（火憐･月火）\N次回 まよいマイマイ 其(そ)の貮(に)
+Dialogue: 0,0:25:52.76,0:25:54.22,Karen_Tsukihi,,0,0,0,,Następnym razem "Ślimak Mayoi część druga".
 Comment: 0,0:25:54.59,0:25:55.89,Default,,0,0,0,,（火憐）\Nまあ 双子とは限らねえけどな
+Dialogue: 0,0:25:54.59,0:25:55.89,Karen_end,,0,0,0,,Cóż, dwie ryby nie zawsze muszą być bliźniakami.
+Dialogue: 0,0:25:56.05,0:25:57.26,Tsukihi_end,,0,0,0,,Zresztą tak samo jak my.
 Comment: 0,0:25:56.05,0:25:57.26,Default,,0,0,0,,（月火）私たちみたいにね
